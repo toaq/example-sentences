@@ -1,4 +1,5 @@
 import sys
+from colorama import Fore, Back, Style
 
 # Key to modding out aesthetic information
 
@@ -19,49 +20,49 @@ TONE_REDUCE = [ ("a", "āáäảâàãaǎ"),
 
 CLASSES = [
 
-    ("SA 1",  ["sa", "sia", "tu"]),
-    ("SA 2",  ["ja", "hi", "co"]),
-    ("SA 3",  ["ke", "baq"]),
-    ("SA 4",  ["hoi"]),
+    ("SA",     ["sa", "sia", "tu", "ke", "baq", "ja", "hi", "co", "hoi"]),
+    ("TO/RU",  ["to", "ru", "ra", "ro", "ri", "roi"]),
 
-    ("TO",    ["to"]),
-    ("RU 1",  ["ru", "ra", "ro"]),
-    ("RU 2",  ["ri"]),
-    ("RU 3",  ["roi"]),
+    ("JE",     ["je", "keo", "tiu"]),
+    ("BI",     ["bi", "pa"]),
+    ("GO",     ["fi", "go", "cu", "ta"]),
+    ("DA",     ["da", "ba", "ka", "nha", "moq"]),
 
-    ("JE",    ["je", "keo", "tiu"]),
-    ("BI",    ["bi", "pa"]),
-    ("DA",    ["da", "ba", "ka", "nha", "moq"]),
+    ("KU",     ["ku", "tou", "bei"]),
+    ("AQ",     ["aq", "cheq"]),
+    ("POI",    ["poi"]),
 
-    ("GO",    ["fi", "go", "cu", "ta"]),
-    ("KU",    ["ku", "tou", "bei"]),
+    ("KIO/KI", ["kio", "ki"]),
+    ("JU",     ["ju", "la"]),
+    ("HU",     ["hu"]),
 
-    ("KIOKI", ["kio", "ki"]),
-    ("JU",    ["ju", "la"]),
+    ("TERM",   ["na", "ga", "cei"]),
 
-    ("HU",    ["hu"]),
+    ("PO",     ["pó", "pö", "pỏ", "pô"]),
+    ("JEI",    ["ȷéı", "ȷëı", "ȷẻı", "ȷêı"]),
+    ("MEA",    ["méa", "mëa", "mẻa", "mêa"]),
 
-    ("TERM",  ["na", "ga", "cei"]),
+    ("MO/TEO", ["mó", "mö", "mỏ", "mô", "teo"]),
 
-    ("PO",    ["pó", "pö", "pỏ", "pô"]),
-    ("JEI",   ["ȷéı", "ȷëı", "ȷẻı", "ȷêı"]),
-    ("MEA",   ["méa", "mëa", "mẻa", "mêa"]),
+    ("MI",     ["mí", "mï", "mỉ", "mî"]),
+    ("SHU",    ["shú", "shủ", "shû"]),
 
-    ("MOTEO", ["mó", "mö", "mỏ", "mô", "teo"]),
-
-    ("MI",    ["mí", "mï", "mỉ", "mî"]),
-    ("SHU",   ["shú", "shủ", "shû"]),
-
-    ("LU",    ["lú", "lü", "lủ", "lû", "lù", "lũ"]),
-    ("LI",    ["lí", "lï", "lỉ", "lî", "lì", "lĩ"]),
-    ("MA",    ["mả", "mâ", "tỉo", "tîo"]),
+    ("LU",     ["lú", "lü", "lủ", "lû", "lù", "lũ"]),
+    ("LI",     ["lí", "lï", "lỉ", "lî", "lì", "lĩ"]),
+    ("MA",     ["mả", "mâ", "tỉo", "tîo"]),
 
     ]
+
+GROUP_COUNTS = [2, 4, 3, 3, 1, 3, 1, 2, 3]
 
 
 # Just the particles alone 
 
 PARTICLES = [part for cls in CLASSES for part in cls[1]]
+
+# Special exceptional rule for aq and cheq
+
+PARTICLES += ["áq", "chéq"]
 
 
 
@@ -93,12 +94,6 @@ def detone_word(word):
     return mod_out( word, TONE_REDUCE )
 
 
-# Add spaces to the end of a word to make it a certain length
-
-def lengthen(word, length):
-    return word + (length - len(word)) * " "
-
-
 # Put a word into the dictionary (if it's a particle)
 
 def account_word(dicto, word, line_num):
@@ -118,6 +113,18 @@ def account_line(dicto, line, line_num):
         account_word(dicto, word, line_num)
 
 
+# Add color to a number to indicate how good it is
+
+def colorize(number):
+    if number < 3:
+        return Fore.RED + str(number) + Style.RESET_ALL
+
+    if number < 15:
+        return Fore.YELLOW + str(number) + Style.RESET_ALL
+
+    return Fore.GREEN + str(number) + Style.RESET_ALL
+
+
 # Open the file and parse all the lines
 
 sentences = open("A_sentences.tsv")
@@ -132,16 +139,34 @@ for line in sentences:
 sentences.close()
 
 
+# Special exceptional rule for aq and cheq, which can be written with
+# or without tone marks
+
+for special in ["áq", "chéq"]:
+    if special in dicto:
+        for line in dicto[special]:
+            account_word(dicto, detone_word(special), line)
+
+
 # Print the words we found
 
+print()
+
 for cls in CLASSES:
-    print(lengthen(cls[0] + ":", 10), end="")
+    print("  " + cls[0] + ":" + (9 - len(cls[0])) * " ", end='')
 
     for word in cls[1]:
         length = len(dicto[word]) if word in dicto else 0
-        printout = lengthen(word, 5) + str(length)
-        print(lengthen(printout, 11), end="")
+
+        word = word + (5 - len(word)) * " "
+        length = colorize(length) + (6 - len(str(length))) * " "
+
+        print(word + length, end='')
 
     print()
 
+    GROUP_COUNTS[0] -= 1
+    if GROUP_COUNTS[0] == 0:
+        GROUP_COUNTS = GROUP_COUNTS[1:]
+        print()
 
