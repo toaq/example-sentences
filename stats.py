@@ -121,16 +121,19 @@ def account_file(recipe, f):
 # Add color to a number to indicate how good it is
 
 def colorize(text, proportion):
-    if proportion < .5:
+    if proportion < .2:
+        return Fore.RED + Style.BRIGHT + text + Style.RESET_ALL
+
+    if proportion < .7:
         return Fore.RED + text + Style.RESET_ALL
 
-    if proportion < .8:
+    if proportion < 1:
         return Fore.YELLOW + text + Style.RESET_ALL
 
-    if proportion < 1:
-        return Fore.GREEN + text + Style.RESET_ALL
+    return Fore.GREEN + text + Style.RESET_ALL
 
-    return Fore.GREEN + Style.BRIGHT + text + Style.RESET_ALL
+def greyify(text):
+    return Style.DIM + text + Style.RESET_ALL
 
 
 # ---------- PROGRAM ---------- #
@@ -155,11 +158,14 @@ for cls in recipe:
         target = item[2]
         count = len(item[3])
 
-        ratio = count / target
+        length = 5 + len(str(count)) + 1 + len(str(target))
 
-        word = word + (5 - len(word)) * " "
-        count = colorize(str(count), ratio) + (6 - len(str(count))) * " "
+        word  = word + (5 - len(word)) * " "
+        count = colorize(str(count), count / target)
+        denom = greyify("/" + str(target))
 
-        print(word + count, end='')
+        padding = (15 - length) * " "
+
+        print(word + count + denom + padding, end='')
 
     print()
