@@ -2,7 +2,7 @@ import sys
 
 # Key to modding out aesthetic information
 
-AEST_REDUCE = [ ("ı", "i"),
+AEST_REDUCE = [ ("i", "ı"),
                 ("j", "ȷ"), 
                 ("", ".!?,") ]
 
@@ -36,21 +36,25 @@ CLASSES = [
     ("GO",    ["fi", "go", "cu", "ta"]),
     ("KU",    ["ku", "tou", "bei"]),
 
-    ("MOTEO", ["mo", "teo"]),
     ("KIOKI", ["kio", "ki"]),
     ("JU",    ["ju", "la"]),
 
-    ("PO",    ["po", "jei", "mea"]),
-
-    ("MI",    ["mi"]),
-    ("SHU",   ["shu"]),
-
-    ("LU 1",  ["lu", "li"]),
-    ("LU 2",  ["ma", "tio"]),
-
     ("HU",    ["hu"]),
 
-    ("TERM",  ["na", "ga", "cei"])
+    ("TERM",  ["na", "ga", "cei"]),
+
+    ("PO",    ["pó", "pö", "pỏ", "pô"]),
+    ("JEI",   ["ȷéı", "ȷëı", "ȷẻı", "ȷêı"]),
+    ("MEA",   ["méa", "mëa", "mẻa", "mêa"]),
+
+    ("MOTEO", ["mó", "mö", "mỏ", "mô", "teo"]),
+
+    ("MI",    ["mí", "mï", "mỉ", "mî"]),
+    ("SHU",   ["shú", "shủ", "shû"]),
+
+    ("LU",    ["lú", "lü", "lủ", "lû", "lù", "lũ"]),
+    ("LI",    ["lí", "lï", "lỉ", "lî", "lì", "lĩ"]),
+    ("MA",    ["mả", "mâ", "tỉo", "tîo"]),
 
     ]
 
@@ -85,22 +89,16 @@ def normalize_word(word):
 
 # Remove tone information
 
-def detone(word):
+def detone_word(word):
     return mod_out( word, TONE_REDUCE )
 
 
-# Put a single word into the dictionary
+# Put a word into the dictionary (if it's a particle)
 
 def account_word(dicto, word, line_num):
     normal = normalize_word(word)
-    base = detone(normal)
 
-    print("  Accounting word: " + word + " (" + normal + "," + base + ")")
-
-    # If this word is a particle (detected by inspecting <normal>)
-    # then add it to the dictionary (without aesthetic info but with tone)
-
-    if base in PARTICLES:
+    if normal in PARTICLES:
         if normal not in dicto:
             dicto[normal] = set()
 
@@ -138,18 +136,13 @@ sentences.close()
 for cls in CLASSES:
     print(cls[0])
 
-    for base in cls[1]:
-        represented = False
+    for word in cls[1]:
+        if word in dicto:
+            print("  " + word + "\t" + str(dicto[word]))
 
-        for word in dicto:
-            if detone(word) == base:
-                represented = True
-                print("  " + word + "\t" + str(dicto[word]))
-
-        if not represented:
-            print("  " + base + "\t" + "Unrepresented!")
+        else:
+            print("  " + word + "\t" + "Unrepresented!")
                 
-
     print()
 
 
