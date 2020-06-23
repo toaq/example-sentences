@@ -1,26 +1,40 @@
 
-MARKS = [("a", "ā"), ("a", "á"), ("a", "ä"), ("a", "ả"), # normal tones
-         ("a", "â"), ("a", "à"), ("a", "ã"), ("a", "a"),
-         ("e", "ē"), ("e", "é"), ("e", "ë"), ("e", "ẻ"),
-         ("e", "ê"), ("e", "è"), ("e", "ẽ"), ("e", "e"),
-         ("i", "ī"), ("i", "í"), ("i", "ï"), ("i", "ỉ"),
-         ("i", "î"), ("i", "ì"), ("i", "ĩ"), ("i", "i"),
-         ("o", "ō"), ("o", "ó"), ("o", "ö"), ("o", "ỏ"),
-         ("o", "ô"), ("o", "ò"), ("o", "õ"), ("o", "o"),
-         ("u", "ū"), ("u", "ú"), ("u", "ü"), ("u", "ủ"),
-         ("u", "û"), ("u", "ù"), ("u", "ũ"), ("u", "u"),
-         ("y", "ȳ"), ("y", "ý"), ("y", "ÿ"), ("y", "ỷ"),
-         ("y", "ŷ"), ("y", "ỳ"), ("y", "ỹ"), ("y", "y"),
-         
-         ("a", "ǎ"), ("e", "ě"), ("i", "ǐ"), ("o", "ǒ"), # old third tone
-         ("u", "ǔ"), ("y", "y")]
+# Replacements to make to remove diacricits
+
+MARKS = [("a", "āáäảâàãaǎ"),
+         ("e", "ēéëẻêèẽeě"),
+         ("i", "īíïỉîìĩiǐ"),
+         ("o", "ōóöỏôòõoǒ"),
+         ("u", "ūúüủûùũuǔ"),
+         ("y", "ȳýÿỷŷỳỹyy̌")]
+
+
+# Particle words to take stats on:
+
+#   SA (sa, sıa, tu, ja, ke, hı, co, baq, hoı)
+#   TO (to) RU (ru, ra, ro, rı, roı) 
+#   DA (da, ba, ka, moq)
+#   LU (lu, lı, ma, tıo)
+#   GO (fı, go, cu, ta)
+#   PO (po, jeı, mea) 
+#   JE (je, keo, tıu) 
+#   KU (ku, tou, beı)
+#   BI (bı, pa)
+#   JU (ju, la) 
+#   MI (mı) SHU (shu)
+#   KIO (kıo) KI (kı) 
+#   MO (mo) TEO (teo)
+#   HU (hu) 
+#   NA (na), GA (ga), CEI (ceı)
+
 
 def get_example(line):
     return line.split("\t")[1]
 
 def normalize(example):
     for mark in MARKS:
-        example = example.replace( mark[1], mark[0] )
+        for marky in mark[1]:
+            example = example.replace( marky, mark[0] )
 
     return example
 
