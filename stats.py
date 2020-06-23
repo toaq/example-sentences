@@ -1,78 +1,52 @@
 import sys
 from colorama import Fore, Back, Style
 
-# Key to modding out aesthetic information
 
-AEST_REDUCE = [ ("i", "ı"),
-                ("j", "ȷ"), 
-                ("", ".!?,") ]
+# ---------- READ RECIPE FILE ---------- #
 
-# Key to modding out tone information
+# Parse "ku* 50" into ("ku", True, 50, [])
 
-TONE_REDUCE = [ ("a", "āáäảâàãaǎ"),
-                ("e", "ēéëẻêèẽeě"),
-                ("i", "īíïỉîìĩıǐ"),
-                ("o", "ōóöỏôòõoǒ"),
-                ("u", "ūúüủûùũuǔ"),
-                ("y", "ȳýÿỷŷỳỹyy̌") ]
+def parse_search_item(term, target_quantity):
+    if term[-1] == "*":
+        return (term[:-1], True,  target_quantity, set())
+    else:
+        return (term,      False, target_quantity, set())
 
-# Particle words to take stats on
+# Parse "[class name] [search item...]" into a list
 
-CLASSES = [
+def parse_recipe_line(line):
+    parts = line.split()
+    
+    if parts == []:
+        return []
 
-    ("SA",     ["sa", "sia", "tu", "ke", "baq", "ja", "hi", "co", "hoi"]),
-    ("TO/RU",  ["to", "ru", "ra", "ro", "ri", "roi"]),
+    ret = [parts[0].upper()]
+    parts = parts[1:]
 
-    ("JE",     ["je", "keo", "tiu"]),
-    ("BI",     ["bi", "pa"]),
-    ("GO",     ["fi", "go", "cu", "ta"]),
-    ("DA",     ["da", "ba", "ka", "nha", "moq"]),
+    while len(parts) > 0:
+        ret += [parse_search_item( parts[0], int(parts[1]) )]
+        parts = parts[2:]
 
-    ("KU",     ["ku", "tou", "bei"]),
-    ("AQ",     ["aq", "cheq"]),
-    ("POI",    ["poi"]),
+    return ret
 
-    ("KIO/KI", ["kio", "ki"]),
-    ("JU",     ["ju", "la"]),
-    ("HU",     ["hu"]),
+# Parse a whole file, with blank lines producing blank classes
 
-    ("TERM",   ["na", "ga", "cei"]),
-
-    ("PO",     ["pó", "pö", "pỏ", "pô"]),
-    ("JEI",    ["ȷéı", "ȷëı", "ȷẻı", "ȷêı"]),
-    ("MEA",    ["méa", "mëa", "mẻa", "mêa"]),
-
-    ("MO/TEO", ["mó", "mö", "mỏ", "mô", "teo"]),
-
-    ("MI",     ["mí", "mï", "mỉ", "mî"]),
-    ("SHU",    ["shú", "shủ", "shû"]),
-
-    ("LU",     ["lú", "lü", "lủ", "lû", "lù", "lũ"]),
-    ("LI",     ["lí", "lï", "lỉ", "lî", "lì", "lĩ"]),
-    ("MA",     ["mả", "mâ", "tỉo", "tîo"]),
-
-    ]
-
-GROUP_COUNTS = [2, 4, 3, 3, 1, 3, 1, 2, 3]
+def parse_recipe(f):
+    fh = open(f)
+    ret = list([parse_recipe_line(l) for l in fh])
+    fh.close()
+    return ret
 
 
-# Just the particles alone 
+# ---------- ACCOUNT FOR A WORD ---------- #
 
-PARTICLES = [part for cls in CLASSES for part in cls[1]]
+AEST_REDUCE = [ ("i", "ı"), ("j", "ȷ"), ("", ".!?,") ]
 
-# Special exceptional rule for aq and cheq
+TONE_REDUCE = [ ("a", "āáäảâàãaǎ"), ("e", "ēéëẻêèẽeě"),
+                ("i", "īíïỉîìĩıǐ"), ("o", "ōóöỏôòõoǒ"),
+                ("u", "ūúüủûùũuǔ"), ("y", "ȳýÿỷŷỳỹyy̌") ]
 
-PARTICLES += ["áq", "chéq"]
-
-
-
-# Extract the example from a line in the tsv file
-
-def get_example(line):
-    return line.split("\t")[1]
-
-
-# Mod some information out of a string using a given key
+# Remove information from a word according to key
 
 def mod_out(string, key):
     for item in key:
@@ -81,92 +55,111 @@ def mod_out(string, key):
 
     return string
 
-
-# Remove aesthetic differences that don't change a word's identity
+# Remove aesthetic information
 
 def normalize_word(word):
     return mod_out( word.lower(), AEST_REDUCE )
-
 
 # Remove tone information
 
 def detone_word(word):
     return mod_out( word, TONE_REDUCE )
 
+# Check if a search item matches a given word
 
-# Put a word into the dictionary (if it's a particle)
+def check_match( search_item, word ):
+    search = normalize_word( search_item[0] )
+    word   = normalize_word( word )
 
-def account_word(dicto, word, line_num):
-    normal = normalize_word(word)
+    if search_item[1]:
+        search = detone_word( search )
+        word   = detone_word( word )
 
-    if normal in PARTICLES:
-        if normal not in dicto:
-            dicto[normal] = set()
+    return search == word
 
-        dicto[normal].add(line_num)
+# If this search item matches this word, add this line to its record
+
+def item_account_word( search_item, word, line ):
+    if check_match( search_item, word ):
+        search_item[3].add(line)
+
+# Check all search terms in a recipe against this word and line
+
+def recipe_account_word( recipe, word, line ):
+    for cls in recipe:
+        for item in cls[1:]:
+            item_account_word( item, word, line )
 
 
-# Parse a whole line's worth of words
+# ---------- READ THROUGH THE EXAMPLES ---------- #
 
-def account_line(dicto, line, line_num):
-    for word in get_example(line).split(" "):
-        account_word(dicto, word, line_num)
+# Extract the example from a line in the tsv file
 
+def get_example(line):
+    return line.split("\t")[1]
+
+# Parse a whole file
+
+def account_file(recipe, f):
+    fh = open(f)
+    line_num = 1
+
+    for line in fh:
+        for word in get_example(line).split(" "):
+            recipe_account_word(recipe, word, line_num)
+
+        line_num += 1
+
+        if line_num % 100 == 0:
+            print( str(line_num) + " / 1000" )
+
+    fh.close()
+
+
+# ---------- PRINT THE RESULTS ---------- #
 
 # Add color to a number to indicate how good it is
 
-def colorize(number):
-    if number < 3:
-        return Fore.RED + str(number) + Style.RESET_ALL
+def colorize(text, proportion):
+    if proportion < .5:
+        return Fore.RED + text + Style.RESET_ALL
 
-    if number < 15:
-        return Fore.YELLOW + str(number) + Style.RESET_ALL
+    if proportion < .8:
+        return Fore.YELLOW + text + Style.RESET_ALL
 
-    return Fore.GREEN + str(number) + Style.RESET_ALL
+    if proportion < 1:
+        return Fore.GREEN + text + Style.RESET_ALL
 
-
-# Open the file and parse all the lines
-
-sentences = open("A_sentences.tsv")
-
-dicto = dict()
-line_num = 1
-
-for line in sentences:
-    account_line( dicto, line, line_num )
-    line_num += 1
-
-sentences.close()
+    return Fore.GREEN + Style.BRIGHT + text + Style.RESET_ALL
 
 
-# Special exceptional rule for aq and cheq, which can be written with
-# or without tone marks
+# ---------- PROGRAM ---------- #
 
-for special in ["áq", "chéq"]:
-    if special in dicto:
-        for line in dicto[special]:
-            account_word(dicto, detone_word(special), line)
+recipe = parse_recipe( "recipe.txt" )
+account_file( recipe, "A_sentences.tsv" )
 
 
 # Print the words we found
 
 print()
 
-for cls in CLASSES:
+for cls in recipe:
+    if cls == []:
+        print()
+        continue
+
     print("  " + cls[0] + ":" + (9 - len(cls[0])) * " ", end='')
 
-    for word in cls[1]:
-        length = len(dicto[word]) if word in dicto else 0
+    for item in cls[1:]:
+        word = item[0]
+        target = item[2]
+        count = len(item[3])
+
+        ratio = count / target
 
         word = word + (5 - len(word)) * " "
-        length = colorize(length) + (6 - len(str(length))) * " "
+        count = colorize(str(count), ratio) + (6 - len(str(count))) * " "
 
-        print(word + length, end='')
+        print(word + count, end='')
 
     print()
-
-    GROUP_COUNTS[0] -= 1
-    if GROUP_COUNTS[0] == 0:
-        GROUP_COUNTS = GROUP_COUNTS[1:]
-        print()
-
