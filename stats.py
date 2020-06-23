@@ -93,6 +93,12 @@ def detone_word(word):
     return mod_out( word, TONE_REDUCE )
 
 
+# Add spaces to the end of a word to make it a certain length
+
+def lengthen(word, length):
+    return word + (length - len(word)) * " "
+
+
 # Put a word into the dictionary (if it's a particle)
 
 def account_word(dicto, word, line_num):
@@ -108,8 +114,6 @@ def account_word(dicto, word, line_num):
 # Parse a whole line's worth of words
 
 def account_line(dicto, line, line_num):
-    print("Accounting line: " + line, end='')
-
     for word in get_example(line).split(" "):
         account_word(dicto, word, line_num)
 
@@ -125,24 +129,19 @@ for line in sentences:
     account_line( dicto, line, line_num )
     line_num += 1
 
-    if line_num > 10:    # temporary
-        break
-
 sentences.close()
 
 
 # Print the words we found
 
 for cls in CLASSES:
-    print(cls[0])
+    print(lengthen(cls[0] + ":", 10), end="")
 
     for word in cls[1]:
-        if word in dicto:
-            print("  " + word + "\t" + str(dicto[word]))
+        length = len(dicto[word]) if word in dicto else 0
+        printout = lengthen(word, 5) + str(length)
+        print(lengthen(printout, 11), end="")
 
-        else:
-            print("  " + word + "\t" + "Unrepresented!")
-                
     print()
 
 
