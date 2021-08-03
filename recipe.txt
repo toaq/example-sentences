@@ -1,30 +1,33 @@
 sa      sa* 50      sia* 50     tu* 50      ke* 50      baq* 50     ja* 50      hi* 50      co* 20      hoi* 20
-to/ru   to* 50      ru* 25      ra* 25      ro* 10      ri* 25      roi* 50
+to/ru   to* 10      ru* 25      ra* 25      ro* 10      ri* 25      roi* 20
 
 je      je* 50      keo* 50     tiu* 50
-bi      bi* 50      pa* 25
-go      fi* 10      go* 25      cu* 25      ta* 25
+bi      bi* 50
+go      go* 25      cu* 25
 da      da* 200     ba* 100     ka* 100     nha* 50     moq* 100
 
-ku      ku* 50      tou* 50     bei* 25
-aq      aq* 25      cheq* 25
-poi     pòi 25      põı 25
+ku      ku* 25      tou* 25     moy 25      joy 25
+aq      aq* 15      cheq* 15
 
-kio/ki  kio* 25     ki* 25
-ju      ju* 25      la* 25
-hu      hu* 50
+kio/ki  kio* 10     ki* 10
+ju      ju* 10      la* 10
+hu      hu* 25
 
-term    na* 100     ga* 50      cei* 100
+term    na* 50      ga* 50      cei* 50
 
-po      pó 50       pö 25       pỏ 25       pô 25
-jei     ȷéı 10      ȷëı 10      ȷẻı 50      ȷêı 50
-mea     méa 10      mëa 25      mẻa 25      mêa 50
+po      pó 25       pö 25       pỏ 25       pô 25
+jei     ȷẻı 25      ȷêı 25
+mea     mëa 10      mẻa 25      mêa 5
 
-mo/teo  mó 50       mỏ 25       mô 10
+mo/teo  mó 25       mỏ 10
 
-mi      mí 50       mï 10       mỉ 25       mî 10
-shu     shú 25      shủ 5       shû 5
+mi      mí 40       mï 5        mỉ 25       mî 5
+shu     shú 25      shủ 2       shû 2
 
-lu      lú 50       lü 50       lủ 50       lû 50
-li      lî 50
+lu-1    lû 50       lî 50
+lu-2    lú 50       lü 30       lủ 20       hoa* 50
 ma      mả 50       mâ 50       tỉo 25      tîo 25
+
+p-pnn   ji* 50      suq* 50     ho* 50      muy* 20     myi* 20     may* 20     ha* 10
+i-pnn   maq* 25     hoq* 50
+
