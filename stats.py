@@ -138,7 +138,7 @@ def greyify(text):
 
 # ---------- PROGRAM ---------- #
 
-recipe = parse_recipe( "recipe.txt" )
+recipe = parse_recipe( "recipe_2.txt" )
 account_file( recipe, "A_sentences.tsv" )
 
 
