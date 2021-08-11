@@ -1,587 +1,696 @@
-A0001	Nủokūaı jí da.	I'm tired.		✔️	✔️
-A0002	Nủokūaı súq da.	You are tired.		✔️	✔️
-A0003	Nủokūaı hó da.	They are tired.		✔️	✔️
-A0004	Mả nủokūaı súq moq.	Are you tired?		✔️	✔️
-A0006	Tỉ hó ní da.	They are here.		✔️	✔️	✔️
-A0007	Bủ tỉ hó ní da.	They are not here.		✔️	✔️	✔️
-A0008	Bủajīo máq da.	It's a house.		✔️	✔️	✔️
-A0009	Mả bủajīo ní moq.	Is this a house?		✔️	✔️	✔️
-A0010	Tỉ déo hı moq.	Where are the children?		✔️	✔️	✔️
-A0011	Bủ nỉe déo búajīo da.	The children are not inside the house.		✔️	✔️	✔️
-A0012	Bủı déo búajīo da.	The children are outside the house.		✔️	✔️	✔️
-A0013	Jảq pỉekūaı jí da.	I'm very thirsty.		✔️	✔️	✔️
-A0014	Mả pỉekūaı súq moq.	Are you thirsty?		✔️	✔️	✔️
-A0015	Pỉe súq ba.	Drink!		✔️	✔️	✔️
-A0016	Chỏ jí baq nảo da.	I like water.				✔️
-A0017	Bủ chỏ jí baq bỉrā da.	I don't like beer.				✔️
-A0018	Bỉa hó da.	He is sick.		✔️	✔️	✔️
-A0019	Chủfāq bủa hó sa bỉajīo da.	He is staying at some hospital.		✔️	✔️
-A0020	Mả kỏa ní nảo moq.	Is this water cold?		✔️	✔️	✔️
-A0021	Bủ kỏa máq da.	It is not cold.		✔️	✔️	✔️
-A0022	Chỉ jí hêq náo sa cỉe da.	I believe the water contains some fish.		✔️	✔️
-A0023	Shỉ dẻ cỏa gào náo da.	There is a beautiful bridge above the water. 		✔️	✔️	✔️
-A0024	Dẻ níchāq da.	Today is beautiful.		✔️	✔️	✔️
-A0026	Kỉachāq níchāq da.	Today is Monday.		✔️	✔️	✔️
-A0027	Kỉarēo pójī kỉaq da.	My hair is red.		✔️	✔️	❓
-A0028	Mả bủaı póhō kỉaq moq.	Is his hair long?		✔️	✔️	✔️
-A0030	Pủ shỏ shỉe bébē da.	The baby woke up.		✔️	✔️	✔️
-A0031	Tỉ go hı sa cỉurīaq moq?	Where is there a toilet?		✔️	?	✔️
-A0032	Chỏ hó cháı da.	He likes the tea.		✔️	✔️	✔️
-A0033	Pủ pủa pỉe jí cháı da.	I enjoyed drinking the tea.		✔️	✔️	✔️
-A0034	Nỏqgī baq chảı da.	Tea tastes good.				✔️
-A0036	Dủ chủqkūaı súq da.	You seem hungry.		✔️	✔️	✔️
-A0037	Shảo jí chûq súq ní da.	I want you to eat this.		✔️	✔️	✔️
-A0038	Chủa hı rảı súq moq.	What is your name?		✔️	✔️	✔️
-A0039	Chủa hı rảı ní moq.	What is the name of this?		✔️	✔️	✔️
-A0040	Bủ dủa jí chûa hı rảı ní da.	I don't know what this thing is named.		✔️	✔️	✔️
-A0041	Bủo chúıhāq da.	Breakfast is ready.		✔️	✔️	✔️
-A0042	Fả déo chíejīo ba.	May the child go to the school.		✔️	✔️	✔️
-A0044	Chỏ jí súq da.	I'm fond of you.		✔️	✔️	✔️
-A0045	Tủa chỉe súq jí ba.	Teach me.		✔️	?	✔️
-A0046	Chủfāq gẻı hó sa sảo chẻa da.	He's wearing a big hat.		✔️	✔️
-A0047	Lủaı ní chẻa da.	This hat is funny.		✔️	✔️
-A0048	Mả hẻqshēa chéoq moq.	Is the bottle empty?		✔️	✔️
-A0049	Lủı pỏaq chéoq da.	The bottle has broken.		✔️	✔️
-A0051	Dủa súq dâı hóq da.	You know that it is possible.		✔️	✔️
-A0052	Bủ dảı hóq da.	It is not possible.		✔️	✔️
-A0054	Dủa jí dûa jí sıa da.	I know that I know nothing.		✔️	✔️
-A0055	Mả dảı hóq moq.	Is it possible?		✔️	✔️
-A0060	Dỉaq sủaıkōı jí da.	I regularly run.		✔️	✔️
-A0062	Gỉ díosīao ba.	May the morning be good.		✔️	✔️
-A0064	Dỏq ní kỉaq da.	This hair is short.		✔️	✔️
-A0066	Dẻ súq da.	You are beautiful.		✔️	✔️
-A0067	Jảq dẻ súq da.	You are very beautiful.		✔️	✔️
-A0068	Mả dẻ ní moq.	Is this beautiful?		✔️	✔️
-A0069	Bủ dẻq nỏaq jí da.	I can't read.		✔️	✔️
-A0070	Mả dẻq lỉaı súq moq.	Can you swim?		✔️	✔️
-A0071	Rào níchāq bı dẻq jí tu da.	Today, I can do anything.		✔️	✔️
-A0072	Dẻq ní dẻo sa lủ bủ dẻq jí hóa da.	This kid can do things that I can't do.		✔️	✔️
-A0073	Chủfāq fả jí jéarīaq da.	I am going to the store.		✔️	✔️
-A0075	Fả súq hı rảı moq.	Where are you going?		✔️	✔️	✔️
-A0076	Shảo jí gâq súq hó rào níchāq da.	I want you to accompany him today.		✔️	✔️
-A0077	Kúe pa gủq tóqfūa na ru nẻo déaq da.	The book is on the floor underneath the table.		✔️	✔️
-A0078	Sảo gủa Fárāqsēgūa da.	France is a big country.		✔️	✔️
-A0079	Mả gủa Kánādāgūa moq.	Is Canada a country?		✔️	✔️	✔️
-A0081	Bủ tỉ hó gúaırīaq da.	He isn't at work.		✔️	✔️	✔️
-A0082	Mả tỉjāo gúaırīaq pósūq bủajīo moq.	Is the workplace far from your house?		✔️	✔️	✔️
-A0083	Bủ hóq da.	It's not true.		✔️	✔️
-A0084	Tỉjūı máq chíejīo da.	It's close to the school.		✔️	✔️
-A0085	Gủaı jí nãı da.	I'm working.		✔️	✔️	✔️
-A0086	Kùı hı bı bủ gủaı súq moq.	Why aren't you working?		✔️	✔️
-A0087	Chỏ jí gûaı jí rào baq nủaq da.	I like working at night.
-A0088	Mả gỉ máq moq.	Is it good?		✔️	✔️
-A0089	Jảq gỉ máq da.	It's very good.		✔️	✔️
-A0090	Gỉ cháq da.	The day is good.		✔️	✔️
-A0091	Gỉ núaq da.	The night is good.		✔️	✔️
-A0094	Hủosī jí baq gỉaq rào tu chảq da.	I listen to music every day.
-A0095	Chỏ súq hı gỉaq moq.	What music do you like?		✔️	✔️
-A0096	Dẻ ní gỉaq da.	This music is beautiful.		✔️	✔️
-A0098	Shỉe jí rào baq dỉo da.	I'm awake during the day.
-A0099	Nủo jí rào baq nủaq da.	I'm asleep at night.
-A0102	Kủorēo pójī bỉkīnī da.	My bikini is black.		✔️	✔️
-A0103	Nỏqgī ní hảq da.	This food tastes good.		✔️	✔️
-A0104	Mả nỏqgī ní súq moq.	Does this taste good to you?		✔️	✔️
-A0105	Mỏaq jí lû bảorēo táqchāo da.	I remember that the car is white.		✔️	✔️
-A0106	Mả mỏaq súq sıa rảı moq.	Do you remember nothing?		✔️	✔️
-A0110	Jỏetāo súq ba.	Practice.		✔️	✔️
-A0111	Jỏetāo jí ba.	May I practice.		✔️	✔️
-A0112	Jỏetāo hó rào tu nủaq da.	He practices every night.		✔️	✔️
-A0113	Hı hảq pa lủ shảo súq bôjēa jí hóa moq.	What food do you want me to buy?		✔️	✔️
-A0114	Mả dủı lỏq háq moq.	Is the food too hot?		✔️	✔️	✔️
-A0115	Dủı lỏq háq da.	The food is too hot.		✔️	✔️
-A0117	Chỏaıjāq ní hảq da.	This food is expensive.		✔️	✔️
-A0119	Bủ chỏaıjāq máq da.	It isn't expensive.		✔️	✔️
-A0120	Chỏaıtūao máq da.	It's cheap.		✔️	✔️
-A0121	Mả hủı háq moq.	Is the food bad?		✔️	✔️	✔️
-A0122	Púchāq pa hủı chảq da.	Yesterday was a bad day.		✔️	✔️
-A0123	Mả hủı chỏaqjīo máq moq.	Is it a bad hotel?		✔️	✔️
-A0125	Hủogāı jí sıa da.	I hear nothing.		✔️	✔️
+A0001	Nủokūaı jí da.	I'm tired.		✔️	✔️					
+A0002	Nủokūaı súq da.	You are tired.		✔️	✔️					
+A0003	Nủokūaı hó da.	They are tired.		✔️	✔️					
+A0004	Mả nủokūaı súq moq.	Are you tired?		✔️	✔️					
+A0006	Tỉ hó ní da.	They are here.		✔️	✔️	✔️				
+A0007	Bủ tỉ hó ní da.	They are not here.		✔️	✔️	✔️				
+A0008	Bủajīo máq da.	It's a house.		✔️	✔️	✔️				
+A0009	Mả bủajīo ní moq.	Is this a house?		✔️	✔️	✔️				
+A0010	Tỉ déo hı moq.	Where are the children?		✔️	✔️	✔️				
+A0011	Bủ nỉe déo búajīo da.	The children are not inside the house.		✔️	✔️	✔️				
+A0012	Bủı déo búajīo da.	The children are outside the house.		✔️	✔️	✔️				
+A0013	Jảq pỉekūaı jí da.	I'm very thirsty.		✔️	✔️	✔️				
+A0014	Mả pỉekūaı súq moq.	Are you thirsty?		✔️	✔️	✔️				
+A0015	Pỉe súq ba.	Drink!		✔️	✔️	✔️				
+A0016	Chỏ jí baq nảo da.	I like water.				✔️				
+A0017	Bủ chỏ jí baq bỉrā da.	I don't like beer.				✔️				
+A0018	Bỉa hó da.	He is sick.		✔️	✔️	✔️				
+A0019	Chủfāq bủa hó sa bỉajīo da.	He is staying at some hospital.		✔️	✔️					
+A0020	Mả kỏa ní nảo moq.	Is this water cold?		✔️	✔️	✔️				
+A0021	Bủ kỏa máq da.	It is not cold.		✔️	✔️	✔️				
+A0022	Chỉ jí hêq náo sa cỉe da.	I believe the water contains some fish.		✔️	✔️					
+A0023	Shỉ dẻ cỏa gào náo da.	There is a beautiful bridge above the water. 		✔️	✔️	✔️				
+A0024	Dẻ níchāq da.	Today is beautiful.		✔️	✔️	✔️				
+A0026	Kỉachāq níchāq da.	Today is Monday.		✔️	✔️	✔️				
+A0027	Kỉarēo pójī kỉaq da.	My hair is red.		✔️	✔️	❓				
+A0028	Mả bủaı póhō kỉaq moq.	Is his hair long?		✔️	✔️	✔️				
+A0030	Pủ shỏ shỉe bébē da.	The baby woke up.		✔️	✔️	✔️				
+A0031	Tỉ go hı sa cỉurīaq moq?	Where is there a toilet?		✔️	?	✔️				
+A0032	Chỏ hó cháı da.	He likes the tea.		✔️	✔️	✔️				
+A0033	Pủ pủa pỉe jí cháı da.	I enjoyed drinking the tea.		✔️	✔️	✔️				
+A0034	Nỏqgī baq chảı da.	Tea tastes good.				✔️				
+A0036	Dủ chủqkūaı súq da.	You seem hungry.		✔️	✔️	✔️				
+A0037	Shảo jí chûq súq ní da.	I want you to eat this.		✔️	✔️	✔️				
+A0038	Chủa hı rảı súq moq.	What is your name?		✔️	✔️	✔️				
+A0039	Chủa hı rảı ní moq.	What is the name of this?		✔️	✔️	✔️				
+A0040	Bủ dủa jí chûa hı rảı ní da.	I don't know what this thing is named.		✔️	✔️	✔️				
+A0041	Bủo chúıhāq da.	Breakfast is ready.		✔️	✔️	✔️				
+A0042	Fả déo chíejīo ba.	May the child go to the school.		✔️	✔️	✔️				
+A0044	Chỏ jí súq da.	I'm fond of you.		✔️	✔️	✔️				
+A0045	Tủa chỉe súq jí ba.	Teach me.		✔️	?	✔️				
+A0046	Chủfāq gẻı hó sa sảo chẻa da.	He's wearing a big hat.		✔️	✔️					
+A0047	Lủaı ní chẻa da.	This hat is funny.		✔️	✔️					
+A0048	Mả hẻqshēa chéoq moq.	Is the bottle empty?		✔️	✔️					
+A0049	Lủı pỏaq chéoq da.	The bottle has broken.		✔️	✔️					
+A0051	Dủa súq dâı hóq da.	You know that it is possible.		✔️	✔️					
+A0052	Bủ dảı hóq da.	It is not possible.		✔️	✔️					
+A0054	Dủa jí dûa jí sıa da.	I know that I know nothing.		✔️	✔️					
+A0055	Mả dảı hóq moq.	Is it possible?		✔️	✔️					
+A0060	Dỉaq sủaıkōı jí da.	I regularly run.		✔️	✔️					
+A0062	Gỉ díosīao ba.	May the morning be good.		✔️	✔️					
+A0064	Dỏq ní kỉaq da.	This hair is short.		✔️	✔️					
+A0066	Dẻ súq da.	You are beautiful.		✔️	✔️					
+A0067	Jảq dẻ súq da.	You are very beautiful.		✔️	✔️					
+A0068	Mả dẻ ní moq.	Is this beautiful?		✔️	✔️					
+A0069	Bủ dẻq nỏaq jí da.	I can't read.		✔️	✔️					
+A0070	Mả dẻq lỉaı súq moq.	Can you swim?		✔️	✔️					
+A0071	Rào níchāq bı dẻq jí tu da.	Today, I can do anything.		✔️	✔️					
+A0072	Dẻq ní dẻo sa lủ bủ dẻq jí hóa da.	This kid can do things that I can't do.		✔️	✔️					
+A0073	Chủfāq fả jí jéarīaq da.	I am going to the store.		✔️	✔️					
+A0075	Fả súq hı rảı moq.	Where are you going?		✔️	✔️	✔️				
+A0076	Shảo jí gâq súq hó rào níchāq da.	I want you to accompany him today.		✔️	✔️					
+A0077	Kúe pa gủq tóqfūa na ru nẻo déaq da.	The book is on the floor underneath the table.		✔️	✔️					
+A0078	Sảo gủa Fárāqsēgūa da.	France is a big country.		✔️	✔️					
+A0079	Mả gủa Kánādāgūa moq.	Is Canada a country?		✔️	✔️	✔️				
+A0081	Bủ tỉ hó gúaırīaq da.	He isn't at work.		✔️	✔️	✔️				
+A0082	Mả tỉjāo gúaırīaq pósūq bủajīo moq.	Is the workplace far from your house?		✔️	✔️	✔️				
+A0083	Bủ hóq da.	It's not true.		✔️	✔️					
+A0084	Tỉjūı máq chíejīo da.	It's close to the school.		✔️	✔️					
+A0085	Gủaı jí nãı da.	I'm working.		✔️	✔️	✔️				
+A0086	Kùı hı bı bủ gủaı súq moq.	Why aren't you working?		✔️	✔️					
+A0087	Chỏ jí gûaı jí rào baq nủaq da.	I like working at night.								
+A0088	Mả gỉ máq moq.	Is it good?		✔️	✔️					
+A0089	Jảq gỉ máq da.	It's very good.		✔️	✔️					
+A0090	Gỉ cháq da.	The day is good.		✔️	✔️					
+A0091	Gỉ núaq da.	The night is good.		✔️	✔️					
+A0094	Hủosī jí baq gỉaq rào tu chảq da.	I listen to music every day.								
+A0095	Chỏ súq hı gỉaq moq.	What music do you like?		✔️	✔️					
+A0096	Dẻ ní gỉaq da.	This music is beautiful.		✔️	✔️					
+A0098	Shỉe jí rào baq dỉo da.	I'm awake during the day.								
+A0099	Nủo jí rào baq nủaq da.	I'm asleep at night.								
+A0102	Kủorēo pójī bỉkīnī da.	My bikini is black.		✔️	✔️					
+A0103	Nỏqgī ní hảq da.	This food tastes good.		✔️	✔️					
+A0104	Mả nỏqgī ní súq moq.	Does this taste good to you?		✔️	✔️					
+A0105	Mỏaq jí lû bảorēo táqchāo da.	I remember that the car is white.		✔️	✔️					
+A0106	Mả mỏaq súq sıa rảı moq.	Do you remember nothing?		✔️	✔️					
+A0110	Jỏetāo súq ba.	Practice.		✔️	✔️					
+A0111	Jỏetāo jí ba.	May I practice.		✔️	✔️					
+A0112	Jỏetāo hó rào tu nủaq da.	He practices every night.		✔️	✔️					
+A0113	Hı hảq pa lủ shảo súq bôjēa jí hóa moq.	What food do you want me to buy?		✔️	✔️					
+A0114	Mả dủı lỏq háq moq.	Is the food too hot?		✔️	✔️	✔️				
+A0115	Dủı lỏq háq da.	The food is too hot.		✔️	✔️					
+A0117	Chỏaıjāq ní hảq da.	This food is expensive.		✔️	✔️					
+A0119	Bủ chỏaıjāq máq da.	It isn't expensive.		✔️	✔️					
+A0120	Chỏaıtūao máq da.	It's cheap.		✔️	✔️					
+A0121	Mả hủı háq moq.	Is the food bad?		✔️	✔️	✔️				
+A0122	Púchāq pa hủı chảq da.	Yesterday was a bad day.		✔️	✔️					
+A0123	Mả hủı chỏaqjīo máq moq.	Is it a bad hotel?		✔️	✔️					
+A0125	Hủogāı jí sıa da.	I hear nothing.		✔️	✔️					
 A0127	Hủosī ba.	Listen!		✔️	✔️					Ilmen
 A0128	Hủogāı jí sa lảq da.	I hear a sound.		✔️	✔️					Ilmen
 A0129	Mả hủosī súq moq.	Are you listening?		✔️	✔️					Ilmen
 A0130	Gỉ sa dảqmōa da.	There are good moments.		✔️	✔️					Ilmen
 A0131	Hủı sa dảqmōa da.	There are bad moments.		✔️	✔️					x
 A0132	Hỉo jí súq ka.	Hello to you.		✔️	✔️					Ilmen
-A0134	Bủa jí Héorōpā da.	I live in Europe.		✔️	❌
-A0139	Rào shíjūe bı nỉaoshūa da.	In January it snowed.		✔️	✔️
-A0142	Gújūe pa sỏq dỏq júe da.	February is the shortest month.		✔️	✔️
-A0147	Jỉu pójī nảqpāo rào sa fẻjūe da.	My dad was born in May.		✔️	✔️
-A0148	Tảo súq hı rảı rào tu fẻjūe moq.	What do you do every May?		✔️	✔️
-A0153	Chỏe tîshūe jí na róaıjūe da.	My stay lasts until August.		✔️	✔️
-A0160	Bủtīfā shìu héıshījūe súq ba.	Leave before November!		✔️
-A0163	Rào jíachāq bı fả jí Fárīkā da.	I'm going to Africa tommorow.		✔️	✔️
-A0165	Pủ hı moq.	What happened?		✔️	✔️
-A0166	Jỉa hı moq.	What will happen?		✔️	✔️
-A0167	Nảı hı moq.	What is happening?		✔️	✔️
-A0168	Jíaq pa dẻ ru sảo da.	The world is beautiful and big.		✔️	✔️
-A0169	Fả súq níjāo gẻabūaı jỉo ba.	Go to that tall building!		✔️	✔️
-A0170	Tỉo gẻo ní jỉo moq.	How old is this building?		✔️	✔️
-A0171	Jảq gẻo ní jỉo da.	This building is very old.		✔️	✔️
-A0173	Gỉ hóq jìe jí da.	It is good to me.		✔️	❌
-A0174	Jỉaı súq pójī mủq ba.	Hold my hand.		✔️	✔️
-A0175	Chủfāq jỉaı hó sa shảmū da.	He is holding an apple.		✔️	✔️
-A0176	Mả chỉ súq lû jỉao moq.	Do you believe in god?		✔️	✔️
-A0177	Mả chỉ súq lû jỉq sa jỉao moq.	Do you believe any gods exist?		✔️	✔️
-A0178	Bủ chủq súq shámū ba.	Don't eat the apple.		✔️	✔️
-A0184	Tu pỏq pa chỏ báq jỏafāo da.	Everyone likes the weekend.		✔️	baq
-A0189	Pủ jẻa bỏ jí sa pủıdūı da.	I bought too many things.		✔️	?
-A0190	Jẻo hóq da.	It's true.		✔️	✔️
-A0191	Jẻo sıa lủ rủaq súq hóa da.	Nothing you say is true.		✔️	✔️
-A0194	Kủorēo ní kảfē da.	This coffee is black.		✔️	✔️
-A0196	Kảqgāı jí súq da.	I see you.		✔️	✔️
-A0197	Bủ kảqgāı jí máq da.	I don't see it.		✔️	✔️
-A0198	Kảqgāı súq hı moq.	What do you see?		✔️	✔️
-A0199	Mả kảqgī ní jìe súq moq.	Does this look good to you?		✔️	✔️
-A0201	Chỏ hó baq tỉaqrēo kảqhūa da.	He likes brown eyes.		✔️	baq
-A0204	Rủqshūa da.	It's raining.		✔️	✔️
-A0205	Mả dảqfāı rủqshūa moq.	Does it frequently rain?		✔️	✔️
-A0206	Mả hỏ ní moq.	Is that him?		✔️	✔️
-A0207	Hỉo ka.	Hello!		✔️	✔️
-A0208	Pủa chủq súq ba.	Enjoy your meal!		✔️	✔️
-A0209	Pủ dỏa bỏ hı rảı ní súq moq.	Who gave this to you?		✔️	✔️
-A0210	Dỏa bỏ súq ní pójī nảqpīa ba.	Give this to my brother.		✔️	✔️
-A0212	Jảı hó kùı jîajūı jéaqcāo da.	He's happy because it will soon be spring.		✔️	✔️
-A0213	Jẻaq sủaı pósūq ba.	Go faster!		✔️	✔️
-A0215	Mả jẻı hó ní moq.	Is he this guy?		✔️	✔️
-A0217	Jẻı jí lú jỉa tảı hóa ba.	May I be the one to succeed!		✔️	✔️
-A0219	Shảı nủ kảqsī súq jí ba.	Stop looking at me like that.		✔️	✔️
-A0221	Kảı súq pósūq chủa ba.	Write your name.		✔️	✔️
-A0222	Ché chỉe pa kảı lú kủq ché chỉetūa hóa da.	The learner writes what the teacher says.		✔️	✔️
-A0223	Tủoq ní kảıfūa da.	This desk is heavy.		✔️	✔️
-A0224	Bủ dẻq hỉe jí ní kảıfūa da.	I can't carry this desk.		✔️	✔️
-A0225	Bỏ jí sa shỉ bảorēo kảıfūa ru sa shỉ kủorēo kảıfūa da.	I have a white desk and a black desk.		✔️	✔️
-A0227	Pủ kủq jí mó « Chủa hı rảı súq moq » teo da.	I said "What's your name?".		✔️	✔️
-A0228	Chỉ jí lû bủ hủogāı hó lû kủq súq da.	I think he didn't hear you say anything.		✔️	✔️
-A0229	Kủq súq sa ba.	Say something.		✔️	✔️
-A0230	Hoı kủa pa sảo rı nủı moq.	Is the afermentioned room big or small? 		!	✔️
-A0232	Nỉefā súq níjāo kủa ba.	Go inside that room.		✔️	✔️
-A0233	Pảq go ní jỉo sa sảq kủa da.	This building has three rooms.		✔️	✔️
-A0237	Kùı hı rảı bı bủ kủaq shẻo súq moq.	Why aren't you apologizing?		✔️	✔️
-A0239	Kủı hóq hı moq.	Why is it?		✔️	✔️
-A0240	Bỏ hó sa pủı gẻo kủe da.	He has many old books.		✔️	✔️
-A0242	Jảq chủqkūaı jí nãı da.	I'm very hungry now.		✔️	✔️
-A0243	Mả mảo chủqkūaı súq moq.	Are you also hungry?		!	✔️
-A0245	Hı kỉq pa lủ chỏ súq hóa moq.	What movies do you like?		✔️	✔️
-A0248	Mẻo hó kùı lû kỉachāq níchāq da.	He's sad because today is a Monday.		✔️	✔️
-A0250	Mả bỏ súq sa kỏqpīutā moq.	Do you have a computer?		✔️	❌
-A0254	Jủa kẻa ní da.	This is a strange machine.		✔️	✔️
-A0255	Mả dẻq súq lî nỏaq ja túq nỉ lảı moq.	Are you capable of reading all of these letters?		✔️	✔️
-A0256	Chủfāq lảo súq hı moq.	What are you waiting for?		✔️	✔️
-A0257	Lảo ba.	Wait.		✔️	❌
-A0260	Jảq pảıgī pó póhō lủo da.	His family is very friendly.		✔️	?
-A0262	Mả pủ kủq jí sa lủaı moq.	Did I say something funny?		✔️	✔️
-A0263	Bủ lủaı hóq da.	It's not funny.		✔️	✔️
-A0264	Rào púchāq bı nỏaq jí sa jảq lủaı da.	Yesterday I read some very funny things.		✔️	✔️
-A0267	Mả rào ní lỏqcāo bı fả hó Fárāqsē moq.	Does he go to France this summer?		✔️	✔️
-A0270	Dảı nảı lỏı hó jí da.	It's possible that he hates me now.		✔️	✔️
-A0271	Lỏı jí baq kỉachāq da.	I hate Mondays.		✔️	baq
-A0274	Mảı jí súq da.	I love you.		✔️	✔️
-A0275	Mả mảı súq jí moq.	Do you love me?		✔️	✔️
-A0277	Mảo lû pủ kảqgāı jí sa tỉqshōaı da.	I also saw a butterfly.		✔️	✔️
-A0278	Mảo dủ sủo máq da.	It, too, seems broken.		✔️	✔️
-A0280	Mủıdūa hó sıa küq jí da.	He doesn't understand anything that I say.		✔️	?
-A0281	Mỉ Sảrā ní da.	This is Sarah.		✔️	✔️
-A0284	Mỏı jí nãı da.	I'm thinking.		✔️	✔️
-A0285	Jỉ da.	It's me.		✔️	✔️
-A0287	Mả tảoshāo fả sa bủ jỉ moq.	Does anybody other than myself intend to go?		✔️	?
-A0292	Bủ dủa jí mâ hảı bỉaq lỏq náo da.	I don't know if the water is hot enough already.		✔️	✔️
-A0293	Mả bỉaq lỏq náo moq.	Is the water hot enough?		✔️	✔️
-A0294	Hảı bỉaq lỏq náo da.	The water is already hot enough.		✔️	✔️
-A0296	Tỉa go jío sa shỉ dẻ mẻırīe da.	Behind the building there is a beautiful valley.		✔️	✔️
-A0297	Kùı hı bı mẻo súq moq.	Why are you sad?		✔️	✔️
-A0298	Mẻo jí kùı bû nỉtī súq da.	I'm sad because you aren't here.		✔️	✔️
-A0299	Kảqsī súq ní nảrāqrēo fủq ba.	Look at that orange clothing.		✔️	✔️
-A0301	Bủ nảqfū ní dẻo jí da.	This boy is not my son.		✔️	❌
-A0302	Ní lỉqdēo bı rủaq hó lû fủ hó súq da.	This girl said she was your daughter.		✔️	✔️
-A0303	Nỉe sa pỏq náokūa da.	Someone is in the bathroom.			✔️
-A0304	Tẻa déo kùı nûaqchū da.	The child is scared because it's midnight.			✔️
-A0305	Nủo súq hu bébē ba.	Sleep, baby!			✔️
-A0306	Nủı máq da keo chỏqgī máq da.	It's small but it's useful.			✔️
-A0307	Nẻo púqhō sa sảo nủofūa da.	They are on a big bed.			✔️
-A0308	Bỏ hoı pỏq sıa nủaı da.	The afermentioned people have no money.			✔️
-A0309	Chỏ hó to ru baq nủaı to shú ‹ nủaı › da.	He likes money and the word "money".			baq
-A0313	Bủ mủıdūa jí da.	I don't understand.			✔️
-A0315	Chẻo kảqgāı súq roı jí nĩqgūo ba.	Let's look at each other again.			✔️
-A0316	Nỉqgūo tảo súq hóq ba.	 Do it again!			✔️
-A0319	Nỏqgāı súq ní pỉsō ba.	Taste this pear.			✔️
-A0321	Nỏqgī háq lü lủı bảı súq hóa da.	The food that you have made tastes good.			✔️
-A0322	Nẻo kúe tóqfūa da.	The book is on the table.			✔️
-A0335	Bủ dủa jí hûaqchō hó baq kảfē rı baq chảı da.	I don't know whether he prefers coffee or tea.			❌
-A0336	Dủ pỉao lú dỉe súq hóa da.	Your suggestion seems complex.			✔️
-A0338	Jảq pủı lú dẻq hó hóa da.	He can do a lot of things.			✔️
-A0339	Mả shảo súq pâı súq jí moq.	Do you want to be my friend?			✔️
-A0342	Cả pỏaq hı rảı shía moq.	What broke the glass?
-A0344	Dỉa lảqcāı súq ba!	Be less loud!			❌
-A0345	Mả tỉao ní jảkē pójī sủetā moq.	Does this jacket suit my sweater?			✔️
-A0347	Tỉshūe rı tỉshāı súq moq.	Are you staying or leaving?
-A0349	Tủa pảq súq sa nỏqgī düao ra müaı na máq ba.	Add tasty things that are sweet and/or umami to (it).			❌
-A0351	Shỉqgāı súq ní shỉqgī rủa ba.	Smell this fragrant flower!			✔️
-A0353	Tủao, m… jủa da.	It's a little, um… weird.			✔️
-A0357	Mả kảqgāı súq jí moq.	Do you see me?			✔️
-A0358	Dủe hı shỉ tỏa moq.	What word is correct?			✔️
-A0359	Shỉ lú mảı jẽo jí hóa da.	There is one thing I truly love.			?
-A0360	Déo pïa hóa jí bı gủ hó da.	The children who are my siblings are two in number.			✔️
-A0362	Sảq mí Dủagī Sỉmī da.	The Wise Monkeys are three.			❌	✔️
-A0363	Shảq sa sảq nủı shủao pójī bủajīo da.	There are three little birds in front of my house.			✔️
-A0365	Dẻq kảqgāı tu pỏq lû jỏ ní tủıfūa da.	Everyone can see that there are four chairs here.			✔️
-A0366	Hẻ pảq go baq mủq sa fẻ chẻı da.	A hand has five fingers.			baq
-A0367	Kảqgāı jí sa fẻ bảobāo da.	I see five dogs.			✔️
-A0368	Cỉ pỏq tì chíejīo da.	There are five people at school.			✔️	✔️
-A0370	Kảı súq sa dỉaı gỉ kủqtōaı ba.	Write at least seven good sentences.			✔️
-A0371	Dỉaı póq süaı ru nïtī da.	There are seven people who are fast and are here.			✔️
-A0372	Mả kảqgāı súq róaı shủao moq?	Did you see the eight birds?			✔️
-A0375	Mủaqtūa náq sa nẻı sỏıchē päıgīq	The man killed nine enemy soldiers.			?
-A0378	Rủırēo séoq da.	The sky is gray.			✔️
-A0380	Chỉ hó gêaq baq sủhū da.	They believe that pigs are dirty.			baq
-A0381	Mả sủq ní moq.	Is this you?
-A0385	Sẻa súq nãı ba.	Rest now.			✔️
-A0388	Pủ gủchīo sỉqtūa jí máq da.	I cleaned it twice.			✔️
-A0394	Pủa gẻq jí súq da.	Pleased to meet you.			✔️
-A0395	Dảqjāq bủ gẻq da.	Long time no see!			✔️
-A0398	Bủ tảoshāo dảqfāı fả jí da.	I don't intend to go often.			✔️	✔️
-A0399	Tảoshāo bủ dảqfāı fả jí da.	I intend not to go often.			✔️	✔️
-A0400	Tảoshāo dảqfāı bủ fả jí da.	I intend to often not go.			✔️	✔️
-A0401	Bủ dảqfāı tảoshāo fả jí da.	I don't often intend to go.			✔️	✔️
-A0402	Dảqfāı bủ tảoshāo fả jí da.	Often I don't intend to go.			✔️	✔️
-A0403	Dảqfāı tảoshāo bủ fả jí da.	Often I intend not to go.			✔️	✔️
-A0406	Tỉaqrēo pójī kỉaq da.	My hair is brown.			✔️
-A0413	Shỉ mí Jỏe roı hó da.	Joe and he are one and the same.			✔️
-A0418	Nỏa mủıdūa lú kủq hó hóa da.	It's difficult to understand what he says.			✔️
-A0420	Ha ha, mả jẻo hóq moq?	Ha ha, is that true?			✔️
-A0422	Bủ cảıdūa jí hóq. Je, dảı bỉa hó da.	I'm not certain. Maybe he's ill.
-A0423	Tảochō jí to ru lî nỏaq to lî lủaıkūq da.	I like to do both reading and telling jokes.
-A0427	Sa dỏ bı chủfāq chủq jí dó da.	I'm eating something right now.			✔️
-A0428	Tu rảı tï hóa níjāo bı bủ kảqsī súq ráı ba.	About everything that's over there: don't look at it. 			✔️
-A0432	Chủo ní hı rảı moq.	What is this for?			✔️
-A0434	Mỉu dảı jí hóq da.	I think it is possible.			✔️
-A0435	Mỉu jí dâı hóq da.	I think it is possible.			✔️
-A0436	Mỉu púqhō bû dảı hóq da.	They think it's not possible.
-A0437	Mả mỉujēq súq jí moq.	Do you agree with me?			✔️
-A0438	Lẻ jỉa bủ jảı hó da.	He probably won't be happy.			✔️
-A0442	Mả dẻq kảqgāı súq pó jí ga bủajīo moq?	Can you see my house?			?
-A0444	Gủaı jãq baq mỏrī da. Jảq dảqfāı mão hâo da.	Ants work very hard. Very frequently as well.			baq
-A0445	Tỏechūo máq da. Ru lỏı jí baq hảo.	It's a knife. And I hate those.			baq
-A0446	Pủ gảı níaı tî jí da.	The animal perceived my presence.			✔️
-A0447	Bủ jảq dảqfāı mủ chỏq ní tỏa da.	This word isn't very frequently used.			✔️
-A0453	Mả dẻq hảo súq kıo lîaı ȷa kı moq?	Can you do it(swim)?			✔️
-A0462	Mảı púqjī súq hu mí Hỏemāı da!	We love you Solpahi!			✔️
-A0463	Bủıfā súq hu sháohūı ba!	Leave, wicked ones!			✔️
-A0464	Mả của líqhō cu shô fẻı ȷa moq?	Did she respond by getting angry?			✔️
-A0467	Tảkū jí lî chủq ra nủo.	I plan on eating or sleeping, or both.			✔️
-A0469	Jỉa chảocāq súq gúsīoq ro ríochāo	You will ride the bike or (pilot) the airplane.
-A0472	Bủ kỏ shỉ jí méo.	I am not among the first of those who are sad.			❌
-A0475	Tảq shảo dẻdūo jí da. Mả lủsū súq moq?	I want to dance. Do you?
-A0478	Kảqgāı jí ku sa shủao	A bird, is what I saw.
-A0481	Bủ jêı hó jí da.	I am not him.
-A0482	Bủ hỏ jí da.	I am not him.
-A0486	Kỏe súq sa tỉao ba.	Pick something appropriate.
-A0487	Kỏe súq sa shỉ tíaı lî hỉe ba.	Choose one of the boxes for you to carry.
-A0488	Mủı hı rảı shú ‹ sủetā › moq.	What does "sueta" mean?
-A0492	Shú kẻq bı mả kủqbūaq súq shú tẻq moq?	About "keq": did you mean to say "teq"?				✔️
-A0495	Tẻqgūaı jí kîaı ja baq gẻopōq da.	I care for the old (for a living).				✔️
-A0496	Jảq fỏıcā pó pósūq tẻoq.	Your questions are very boring.				✔️
-A0497	Mả tẻoq ní moq?	Was that a question?
-A0500	Tủoq ní shỉ cẻa da.	This bag is heavy.				✔️
-A0501	Tủoq ní pủq cẻa da.	These bags are heavy.				✔️
-A0507	Tỉ hó núofūa kùı bîa hó da.	He's in bed because he's sick.
-A0508	Bủ chủqkūaı jí, keo pỉekūaı jí da.	I'm not hungry, but I am thirsty.
-A0513	Dủı rẻoq tîshō súq da.	You showed up too late.
-A0515	Tỉo gẻo súq moq.	How old are you?
-A0516	Chẻ súq hı rảı moq.	What is your job?
-A0517	Chẻ chỉetūa jí da.	I'm a teacher.
-A0518	Sỏqchō súq hı rảı réokāq moq.	What's your favorite color?
-A0519	Sỏqchō jí mío réokāq da.	My favorite color is blue.
-A0520	Kỏa pójī mủq da.	My hands are cold.
-A0522	Jỏe lỉaı hó da.	He swims well.
-A0524	Shủ ‹ Mẻrī › pójī chủa da.	My name is Mary.				✔️
-A0525	Pủ jỉu jí tì Kánādāgūa da.	I was born in Canada.
-A0527	Bủ jảq gỉ ní chỏaqjīo da.	This hotel isn't very good.
-A0530	Tỉ hó náokūa da.	He is in the bathroom.
-A0531	Mả Jủqgūo pósūq pảı moq.	Is your friend Chinese?
-A0532	Jẻo Jủqgūo hó da.	He is indeed chinese.
-A0533	Nỉe kámērā pójī cẻa da.	The camera is in my bag.
-A0534	Mả kủorēo pósūq gủsīoq moq.	Is your bike black?
-A0536	Mỉ Hỉkārū jí da.	I'm Hikaru.
-A0537	Bủ chủfāq kảqsī jí tíbī da.	I am not looking at tv right now.
-A0539	Bủ rủqshūa da.	It didn't rain.
-A0541	Chủfāq lảo hó tîshō púıchāo da.	He is waiting for the bus to arrive.
-A0542	Chủq hó sa shỉ shảmū da.	He eats an apple.
-A0543	Lảo jí tî sa pỏq da.	I'm waiting for some people to be here.
-A0548	Mả dỉ tủa rỉa jí chúao moq.	Am I allowed to open the window?				✔️
-A0549	Mả dẻq tủa rỉa jí chúao moq.	Am I able to open the window?				✔️
-A0559	Pủ dủasūe jí hó mâ mảo tảoshāo fả hó da.	I asked him whether he intended to go as well.
-A0564	Shảı mẻo súq ba.	Stop being sad.
-A0565	Kảqsī jí sa kỉq rào nídāq.	I'm watching a movie now.
-A0567	Pủ tẻoqkūq jí cu hó mó «mả tỉaq baq mủao moq?» teo da.	I asked him "Are trees brown?"
-A0568	Lủı bẻo mỉu jí da.	I've changed my mind.				✔️
-A0577	Tỉo sảo máq moq.	How big is it?				✔️
-A0578	Bủ dủa jí tîo sảo máq da.	I don't know how big it is.
-A0581	Hỉaı súq kùı hı rảı moq.	Why are you laughing?
-A0582	Pủ kủq hó mó « Gẻqkūaı jí pójī lỉqpāo da » teo da.	He said «I miss my mom»
-A0587	Rỏq súq kùı hı moq.	Why are you crying?		✔️
-A0590	Mả bỉaq dảqjāq nủo súq moq.	Have you slept long enough?		✔️
-A0591	Sỉu mủ nỏqsē baq sẻpē baq gỏsō da.	The taste of snake is similar to that of chicken.		✔️	!	!
-A0595	Shỏe súq sôa jí súq ba.	Let me help you.		✔️
-A0597	Tủa sỉq súq múq ba.	Clean (your) hands.		✔️
-A0599	Tảq rủaq fủ ní lỉqdēo súq da.	This girl said she was your daughter.		✔️
-A0600	Gỉ ní nỉaq ba!	Happy new year!		✔️
-A0601	Gỉ jíuchāq ba!	Happy birthday!		✔️
-A0606	Tỉjāı jí súq da.	I'm happy you are here.
-A0608	Bủ hỉaorīeq jí ba.	I mustn't run away.
-A0609	Kủaq shẻo tủa gỉq fỏaq jí súq ka.	Sorry for making you uncomfortable.
-A0610	Sỏq hủı hı rảı lú tảo hó hóa moq?	What's the worst thing he has done?
-A0616	Dủe hóq da!	That's right!
-A0618	Pảq go hó sa jỏ shỉaq da.	It has four legs.
-A0635	Dẻ tu pỏq da.	All people are beautiful.
-A0636	Shảı ba hu búoq!	Oh, stop it, you clown!
-A0640	Tỉeqbīao jí da.	I'm lost.
-A0701	Lỉechō jí lî kảqsī ja rảı baq fủaq da.	I like looking at pictures
-A0702	Nẻo sa pủı chảo ní chảotīeq da.	There are many cars on this road.
-A0703	Sủejī fâ súq pójī bủe ka.	Please come to my home.
-A0704	Mả pỏsūq ní cẻa moq.	Is this bag yours?
-A0708	Sủejī chôq súq ní kỏqpīutā ka.	Please use this computer.
-A0709	Pủ jẻa jí sa rỏaı kủe da.	I bought eight books.
-A0711	Nỉq póhō chảo da.	His car is new.
-A0712	Pủ shỏ hó lî gỏıchē da.	He became a doctor.
-A0713	Mả dảqshēı súq bìe ní moq.	Do you have time after this?
-A0718	Dẻ ní fủaq da.	This picture is beautiful.
-A0719	Rào nínūaq bı jảq dẻ núaqgīo da.	The stars are very beautiful tonight.
-A0721	Bủaı póhō shỉaq da.	She has long legs.
-A0722	Mả mỏaı pójī shỉaq moq.	Are my legs thick?
-A0726	Gẻı pójī lỉqfū sa củırēo da.	My daughter is wearing something magenta.
-A0727	Shảo jí lû rào níchāq bı pủa gảqsīa jí da.	Today I want to enjoy some time to myself.
-A0730	Chỏ súq hı rẻo moq.	Which color do you like?
-A0731	Chủfāq chỉetāo hó da.	He is studying now.
-A0733	Jảqtūao dỏq ní sủetā da.	This sweater is a little short.
-A0734	Dỏq póhō shỉaq da.	His legs are short.
-A0735	Lủı shûa sa rảı cháotīeq da.	Something has fallen on the road.
-A0737	Nảqfū sa dỉaı jí da.	I have seven sons.
-A0739	Tỉ sa bảorēo kảtō sóaq da.	There is a white cat in the garden.
-A0740	Tủı sa bảorēo tẻıgē múao da.	There is a white owl sitting on the tree.
-A0741	Pủ sỏa hó sa bỉa kủnē da.	She helped a sick dog.
-A0743	Jảq lỉu ní pủefūq da.	These shoes are very light.
-A0744	Lỉu pósūq cẻa da.	Your bag is light.
-A0745	Pỉe súq hı rảı moq?	What (thing) are you drinking?	✔️
-A0746	Hı rỉaq bı shảo súq fâ súq ríaq moq?	Which place [is such that] you want to go to the place?	✔️
-A0747	Mỏaq jí tî kúnē hı kủa da.	I remember in which room the dog is.	✔️
-A0748	Mả nủo súq moq?	Are you asleep?	✔️
-A0749	Dủa mámā mâ jảı bé da.	The mother knows whether the baby is happy.	✔️
-A0750	Mả mỏaq súq tî kátō hı kủa moq?	Do you remember in which room the cat is?	✔️
-A0751	Tỉo sảo gúa moq?	How big is the country?	✔️
-A0753	Mả mỏaq sa tỉ tîo nỏqgī baq mảtū moq?	Does anyone here remember how delicious honey is?	✔️
-A0754	Tỉopūı élū moq?	How many are the elephants?	✔️
-A0756	Hỉa ní moq?	What’s this?	✔️
-A0757	Dủashāo hó hîa ní da.	They want to know what this is.	✔️
-A0758	Nảı chûq jí da.	(Now) I eat.	✔️
-A0759	Pủ kâqgāı hó sa jủa da.	They saw something strange.	✔️
-A0760	Jỉa fâ jí méı da.	I will go to the mountain.	✔️
-A0761	Tỉa súq jío da.	You are behind the building.	✔️
-A0762	Dủa jí tîa súq jío da.	I know that you are behind the building.	✔️
-A0763	Sa rảı bı dủa jí chô súq ráı da	There is something I know you like.	✔️
-A0764	Dủa jí chô súq sa rảı da.	I know that there is something you like.	✔️
-A0765	Hı rảı bı dủa súq chô jí ráı moq?	Which thing (X) [is such that] you know that I like the thing (X)?	✔️
-A0767	Mỉ Sảrā hó da.	Their name is Sara.	✔️
-A0768	Tỉ mí Tỏmī hı rảı moq?	Where is Tommy?	✔️
-A0769	Dủa jí mî Sảrā súq da.	I know that your name is Sara.	✔️
-A0770	Chỏ tu mỉ Jủlīa baq rủa da.	Every Julia likes flowers.	✔️
-A0771	Dẻ shú rỉaq da.	The word ‘rỉaq’ (place) is beautiful.	✔️
-A0773	Mả pủ kûq jí shú rủa moq?	Did you say the word ‘rủa’ (flower)?	✔️
-A0774	Pủ kûq jí mó« Chỏ jí súq da »teo da.	I said ‘I like you’.	✔️
-A0776	Chủq múy ba.	Let us eat.	✔️
-A0777	Nủo déo ba.	May the children sleep.	✔️
-A0778	Mả kảqgāı súq kúnē moq?	Do you see the dog?	✔️
-A0779	Gỉ hı shảmū moq.	Which apples are good?	✔️
-A0780	Nủı shámū da.	The apple is small.	✔️
-A0781	Kủnē ní da.	This is a dog.	✔️
-A0782	Chỏ mýı súq da.	We like you.	✔️
-A0783	Jỉ ní da.	This is me.	✔️
-A0784	Sủq núo da.	The one who sleeps is you.	✔️
-A0800	Fảı jảı jí da.	I'm typical in being happy.
-A0801	Fảı tủoq ní pỉohēa da.	This stone is typically heavy.
-A0802	Fảı mỉa pảı hó da.	She is typical in being popular.
-A0803	Fảı hỉaq bỏ póq da.	The person is typical in being poor.
-A0804	Fảı lỉu líqdēo da.	The girl is typically light.
-A0805	Fảı lỉu náqdēo da.	The boy is typically light.
-A0806	Fảı chỏaıjāq ní da.	This is typically expensive.
-A0807	Fảı mẻocā níjāo da.	That's typical in being sad.
-A0809	Fảı mỏınīeq súq da.	You're typically stupid.
-A0810	Lẻı jảı jí da.	I'm rare in being happy.
-A0811	Lẻı tủoq ní pỉohēa da.	This stone is rare in being heavy.
-A0812	Lẻı mỉa pảı hó da.	She is rare in being popular.
-A0813	Lẻı hỉaq bỏ póq da.	The person is rare in being poor.
-A0814	Lẻı lỉu líqdēo da.	The girl is uncommonly light.
-A0815	Lẻı lỉu náqdēo da.	The boy is uncommonly light.
-A0816	Lẻı chỏaıjāq ní da.	This is uncommonly expensive.
-A0817	Lẻı mẻocā níjāo da.	That's rare in being sad.
-A0819	Lẻı mỏınīeq súq da.	You're uncommonly stupid.
-A0820	Gảq jí súq fâ ja pỏq búe da.	I go with you to the home.
-A0821	Gảq súq jí fâ ja pỏq búe da.	You come with me to the home.
-A0824	Mả jỉa gảq súq moq.	Will you join?
-A0827	Keo gảq jí hó!	But I'm with him!
-A0828	Bủ dảı gâq fả jí da.	It won't be possible for me to go with.
-A0830	Mỉa dủa hó da.	She knows a lot.
-A0831	Mỉa bủo hó da.	He's ready for anything.
-A0832	Mỉa mỏe nãı jí da.	I'm feeling a lot of emotions right now.
-A0833	Jảq mỉa jí lî tỉ ja pỏq ja gủa rào sa rảı da.	I've been to a lot of countries at one point or another.
-A0834	Tủao mỉa súq lî kủq ja pỏq ja rảı jí da.	You've said a lot of things to me.
-A0838	Kủq hó mĩa cả da.	He spoke, causing many things to happen.
-A0839	Hỉaq bỏ hó da.	He doesn't own much.
-A0840	Hỉaq bỏ jí da.	I don't own much.
-A0841	Hỉaq mỉu súq da.	You don't have many opinions.
-A0842	Dủı hỉaq mỉu súq da.	You have too few opinions.
-A0845	Gảı jí sa hỉaq rẻobō da.	I see something with not many colors.
-A0847	Hỉaq dủa jí da.	I don't know much.
-A0886	Tẻ hỉao ní kủnē da.	This dog is injured.
-A0887	Tẻ kảqgāı ní nủeq da.	This meat is seen.
-A0888	Tẻ gảı ní rẻq da.	This person was sensed.
-A0889	Tẻ kỏe dé da.	The beautiful thing was chosen.
-A0890	Tẻ kỏe dé sa pủı da.	The beautiful thing was chosen out of many things.
-A0891	Tẻ kủq mó "Pảı jí súq ba." teo da.	"You should be my friend," has been said.
-A0894	Kỏe jí súq túq pỏq lî mảı ja pỏq ja dẻ da.	I choose you, beautiful, out of all people, to love.
-A0898	Keo, hảı kỏe tảo jí da!	But, I have already decided what to do!
-A0907	Zảq sa pủaı mỏqsūtā da!	A wild monster appears!		✔️
-A0908	Ní fỉeq bı zảo jí hó da.	That creator I'm familiar with.		✔️
-A0912	Jỏe shỉy baq kỏnīq da.	Rabbits are good at disappearing.		✔️
-A0917	Mả tủzȳ baq nảosāı kẻsō moq.	Is melted cheese a soup?		✔️
-A0940	Jủaı kùı tîshā sa rủaı nẻoq gòe túao mỉnū da.	Some people are serious because a certain noble Mx. will arrive in a few minutes.		✔️
-A0941	Cả củaı pó púı dỉao chúao da.	Many drops make the window wet.		✔️
-A0948	Sỏe ru shủeq ní zẻo kùı bû kỏaq máq da.	That fruit is sour and bitter because it is not ripe.
-A0961	Gỉq lẻ hôaı mỏaq róaqrōaq sa pỏ súq da.	It's unlikely that grandparent still remembers something of yours.
-A0981	Nỏqrūe kúochāı pǒ ní hảqrīaq na jìe jí da.	This restaurant's black tea is weak in flavour to me.
-A0991	Pỏ súq ní tỏesē ka.	This slice is hereby yours.
-A0995	Pósūq tỏakūe bı nảı chỏq hó máq, ju bủ dủa jí nâı tỉ hó hı rảı da.	As for your dictionary, he is currently using it (I don't know where he is now).
-A1001	Hỉa ke sủqpā kảqgāı moq.	What is it you are looking at?
-A0005	Bủa súq hı moq.	Where do you live?		✔️	✔️	✔️
-A0025	Chủq rào níchāq jí sa cỉe da.	I ate some fish today.		✔️	✔️	❓
-A0035	Dảqfāı chủqkūaı jí da.	It's often the case that I'm hungry.		✔️	✔️	✔️
-A0043	Shỏ dủa jí rào tu shỉ chảq sa da.	I learn something new every day.		✔️	❌	❓
-A0050	Mủoq máq baq shỉa da.	It's made of glass.		✔️	?
-A0053	Dảı jîa tỉ jí ríaq da.	I may be there in the future.		✔️	✔️
-A0092	Mả tảochō hủosī súq baq gỉaq moq.	Do you enjoy listening to music?
-A0093	Tảochō hủosī jí baq gỉaq jãq da.	I really enjoy listening to music.
-A0097	Chỏ jí shêa gẻı jí ıq hẻ nûo jí da.	I like the fact that when I sleep, I wear nothing.
-A0100	Tảochō chủq sa gẻo pỏq baq gủı da.	Some old people like to eat grains.
-A0116	Jẻa bỏ tì jéarīaq hó sa hảq da.	He buys some food at the store.		✔️	✔️
-A0124	Bủ hủı hoı chỏaqjīo da.	The afermentioned hotel isn't bad.		✔️	✔️
-A0126	Baq ẻlū bı bủaı póhō hủohūa da.	About elephants: they have long ears.
+A0134	Bủa jí Héorōpā da.	I live in Europe.		✔️	❌					
+A0139	Rào shíjūe bı nỉaoshūa da.	In January it snowed.		✔️	✔️					
+A0142	Gújūe pa sỏq dỏq júe da.	February is the shortest month.		✔️	✔️					
+A0147	Jỉu pójī nảqpāo rào sa fẻjūe da.	My dad was born in May.		✔️	✔️					
+A0148	Tảo súq hı rảı rào tu fẻjūe moq.	What do you do every May?		✔️	✔️					
+A0153	Chỏe tîshūe jí na róaıjūe da.	My stay lasts until August.		✔️	✔️					
+A0160	Bủtīfā shìu héıshījūe súq ba.	Leave before November!		✔️						
+A0163	Rào jíachāq bı fả jí Fárīkā da.	I'm going to Africa tommorow.		✔️	✔️					
+A0165	Pủ hı moq.	What happened?		✔️	✔️					
+A0166	Jỉa hı moq.	What will happen?		✔️	✔️					
+A0167	Nảı hı moq.	What is happening?		✔️	✔️					
+A0168	Jíaq pa dẻ ru sảo da.	The world is beautiful and big.		✔️	✔️					
+A0169	Fả súq níjāo gẻabūaı jỉo ba.	Go to that tall building!		✔️	✔️					
+A0170	Tỉo gẻo ní jỉo moq.	How old is this building?		✔️	✔️					
+A0171	Jảq gẻo ní jỉo da.	This building is very old.		✔️	✔️					
+A0173	Gỉ hóq jìe jí da.	It is good to me.		✔️	❌					
+A0174	Jỉaı súq pójī mủq ba.	Hold my hand.		✔️	✔️					
+A0175	Chủfāq jỉaı hó sa shảmū da.	He is holding an apple.		✔️	✔️					
+A0176	Mả chỉ súq lû jỉao moq.	Do you believe in god?		✔️	✔️					
+A0177	Mả chỉ súq lû jỉq sa jỉao moq.	Do you believe any gods exist?		✔️	✔️					
+A0178	Bủ chủq súq shámū ba.	Don't eat the apple.		✔️	✔️					
+A0184	Tu pỏq pa chỏ báq jỏafāo da.	Everyone likes the weekend.		✔️	baq					
+A0189	Pủ jẻa bỏ jí sa pủıdūı da.	I bought too many things.		✔️	?					
+A0190	Jẻo hóq da.	It's true.		✔️	✔️					
+A0191	Jẻo sıa lủ rủaq súq hóa da.	Nothing you say is true.		✔️	✔️					
+A0194	Kủorēo ní kảfē da.	This coffee is black.		✔️	✔️					
+A0196	Kảqgāı jí súq da.	I see you.		✔️	✔️					
+A0197	Bủ kảqgāı jí máq da.	I don't see it.		✔️	✔️					
+A0198	Kảqgāı súq hı moq.	What do you see?		✔️	✔️					
+A0199	Mả kảqgī ní jìe súq moq.	Does this look good to you?		✔️	✔️					
+A0201	Chỏ hó baq tỉaqrēo kảqhūa da.	He likes brown eyes.		✔️	baq					
+A0204	Rủqshūa da.	It's raining.		✔️	✔️					
+A0205	Mả dảqfāı rủqshūa moq.	Does it frequently rain?		✔️	✔️					
+A0206	Mả hỏ ní moq.	Is that him?		✔️	✔️					
+A0207	Hỉo ka.	Hello!		✔️	✔️					
+A0208	Pủa chủq súq ba.	Enjoy your meal!		✔️	✔️					
+A0209	Pủ dỏa bỏ hı rảı ní súq moq.	Who gave this to you?		✔️	✔️					
+A0210	Dỏa bỏ súq ní pójī nảqpīa ba.	Give this to my brother.		✔️	✔️					
+A0212	Jảı hó kùı jîajūı jéaqcāo da.	He's happy because it will soon be spring.		✔️	✔️					
+A0213	Jẻaq sủaı pósūq ba.	Go faster!		✔️	✔️					
+A0215	Mả jẻı hó ní moq.	Is he this guy?		✔️	✔️					
+A0217	Jẻı jí lú jỉa tảı hóa ba.	May I be the one to succeed!		✔️	✔️					
+A0219	Shảı nủ kảqsī súq jí ba.	Stop looking at me like that.		✔️	✔️					
+A0221	Kảı súq pósūq chủa ba.	Write your name.		✔️	✔️					
+A0222	Ché chỉe pa kảı lú kủq ché chỉetūa hóa da.	The learner writes what the teacher says.		✔️	✔️					
+A0223	Tủoq ní kảıfūa da.	This desk is heavy.		✔️	✔️					
+A0224	Bủ dẻq hỉe jí ní kảıfūa da.	I can't carry this desk.		✔️	✔️					
+A0225	Bỏ jí sa shỉ bảorēo kảıfūa ru sa shỉ kủorēo kảıfūa da.	I have a white desk and a black desk.		✔️	✔️					
+A0227	Pủ kủq jí mó « Chủa hı rảı súq moq » teo da.	"I said ""What's your name?""."		✔️	✔️					
+A0228	Chỉ jí lû bủ hủogāı hó lû kủq súq da.	I think he didn't hear you say anything.		✔️	✔️					
+A0229	Kủq súq sa ba.	Say something.		✔️	✔️					
+A0230	Hoı kủa pa sảo rı nủı moq.	Is the afermentioned room big or small? 		!	✔️					
+A0232	Nỉefā súq níjāo kủa ba.	Go inside that room.		✔️	✔️					
+A0233	Pảq go ní jỉo sa sảq kủa da.	This building has three rooms.		✔️	✔️					
+A0237	Kùı hı rảı bı bủ kủaq shẻo súq moq.	Why aren't you apologizing?		✔️	✔️					
+A0239	Kủı hóq hı moq.	Why is it?		✔️	✔️					
+A0240	Bỏ hó sa pủı gẻo kủe da.	He has many old books.		✔️	✔️					
+A0242	Jảq chủqkūaı jí nãı da.	I'm very hungry now.		✔️	✔️					
+A0243	Mả mảo chủqkūaı súq moq.	Are you also hungry?		!	✔️					
+A0245	Hı kỉq pa lủ chỏ súq hóa moq.	What movies do you like?		✔️	✔️					
+A0248	Mẻo hó kùı lû kỉachāq níchāq da.	He's sad because today is a Monday.		✔️	✔️					
+A0250	Mả bỏ súq sa kỏqpīutā moq.	Do you have a computer?		✔️	❌					
+A0254	Jủa kẻa ní da.	This is a strange machine.		✔️	✔️					
+A0255	Mả dẻq súq lî nỏaq ja túq nỉ lảı moq.	Are you capable of reading all of these letters?		✔️	✔️					
+A0256	Chủfāq lảo súq hı moq.	What are you waiting for?		✔️	✔️					
+A0257	Lảo ba.	Wait.		✔️	❌					
+A0260	Jảq pảıgī pó póhō lủo da.	His family is very friendly.		✔️	?					
+A0262	Mả pủ kủq jí sa lủaı moq.	Did I say something funny?		✔️	✔️					
+A0263	Bủ lủaı hóq da.	It's not funny.		✔️	✔️					
+A0264	Rào púchāq bı nỏaq jí sa jảq lủaı da.	Yesterday I read some very funny things.		✔️	✔️					
+A0267	Mả rào ní lỏqcāo bı fả hó Fárāqsē moq.	Does he go to France this summer?		✔️	✔️					
+A0270	Dảı nảı lỏı hó jí da.	It's possible that he hates me now.		✔️	✔️					
+A0271	Lỏı jí baq kỉachāq da.	I hate Mondays.		✔️	baq					
+A0274	Mảı jí súq da.	I love you.		✔️	✔️					
+A0275	Mả mảı súq jí moq.	Do you love me?		✔️	✔️					
+A0277	Mảo lû pủ kảqgāı jí sa tỉqshōaı da.	I also saw a butterfly.		✔️	✔️					
+A0278	Mảo dủ sủo máq da.	It, too, seems broken.		✔️	✔️					
+A0280	Mủıdūa hó sıa küq jí da.	He doesn't understand anything that I say.		✔️	?					
+A0281	Mỉ Sảrā ní da.	This is Sarah.		✔️	✔️					
+A0284	Mỏı jí nãı da.	I'm thinking.		✔️	✔️					
+A0285	Jỉ da.	It's me.		✔️	✔️					
+A0287	Mả tảoshāo fả sa bủ jỉ moq.	Does anybody other than myself intend to go?		✔️	?					
+A0292	Bủ dủa jí mâ hảı bỉaq lỏq náo da.	I don't know if the water is hot enough already.		✔️	✔️					
+A0293	Mả bỉaq lỏq náo moq.	Is the water hot enough?		✔️	✔️					
+A0294	Hảı bỉaq lỏq náo da.	The water is already hot enough.		✔️	✔️					
+A0296	Tỉa go jío sa shỉ dẻ mẻırīe da.	Behind the building there is a beautiful valley.		✔️	✔️					
+A0297	Kùı hı bı mẻo súq moq.	Why are you sad?		✔️	✔️					
+A0298	Mẻo jí kùı bû nỉtī súq da.	I'm sad because you aren't here.		✔️	✔️					
+A0299	Kảqsī súq ní nảrāqrēo fủq ba.	Look at that orange clothing.		✔️	✔️					
+A0301	Bủ nảqfū ní dẻo jí da.	This boy is not my son.		✔️	❌					
+A0302	Ní lỉqdēo bı rủaq hó lû fủ hó súq da.	This girl said she was your daughter.		✔️	✔️					
+A0303	Nỉe sa pỏq náokūa da.	Someone is in the bathroom.			✔️					
+A0304	Tẻa déo kùı nûaqchū da.	The child is scared because it's midnight.			✔️					
+A0305	Nủo súq hu bébē ba.	Sleep, baby!			✔️					
+A0306	Nủı máq da keo chỏqgī máq da.	It's small but it's useful.			✔️					
+A0307	Nẻo púqhō sa sảo nủofūa da.	They are on a big bed.			✔️					
+A0308	Bỏ hoı pỏq sıa nủaı da.	The afermentioned people have no money.			✔️					
+A0309	Chỏ hó to ru baq nủaı to shú ‹ nủaı › da.	"He likes money and the word ""money""."			baq					
+A0313	Bủ mủıdūa jí da.	I don't understand.			✔️					
+A0315	Chẻo kảqgāı súq roı jí nĩqgūo ba.	Let's look at each other again.			✔️					
+A0316	Nỉqgūo tảo súq hóq ba.	 Do it again!			✔️					
+A0319	Nỏqgāı súq ní pỉsō ba.	Taste this pear.			✔️					
+A0321	Nỏqgī háq lü lủı bảı súq hóa da.	The food that you have made tastes good.			✔️					
+A0322	Nẻo kúe tóqfūa da.	The book is on the table.			✔️					
+A0335	Bủ dủa jí hûaqchō hó baq kảfē rı baq chảı da.	I don't know whether he prefers coffee or tea.			❌					
+A0336	Dủ pỉao lú dỉe súq hóa da.	Your suggestion seems complex.			✔️					
+A0338	Jảq pủı lú dẻq hó hóa da.	He can do a lot of things.			✔️					
+A0339	Mả shảo súq pâı súq jí moq.	Do you want to be my friend?			✔️					
+A0342	Cả pỏaq hı rảı shía moq.	What broke the glass?								
+A0344	Dỉa lảqcāı súq ba!	Be less loud!			❌					
+A0345	Mả tỉao ní jảkē pójī sủetā moq.	Does this jacket suit my sweater?			✔️					
+A0347	Tỉshūe rı tỉshāı súq moq.	Are you staying or leaving?								
+A0349	Tủa pảq súq sa nỏqgī düao ra müaı na máq ba.	Add tasty things that are sweet and/or umami to (it).			❌					
+A0351	Shỉqgāı súq ní shỉqgī rủa ba.	Smell this fragrant flower!			✔️					
+A0353	Tủao, m… jủa da.	It's a little, um… weird.			✔️					
+A0357	Mả kảqgāı súq jí moq.	Do you see me?			✔️					
+A0358	Dủe hı shỉ tỏa moq.	What word is correct?			✔️					
+A0359	Shỉ lú mảı jẽo jí hóa da.	There is one thing I truly love.			?					
+A0360	Déo pïa hóa jí bı gủ hó da.	The children who are my siblings are two in number.			✔️					
+A0362	Sảq mí Dủagī Sỉmī da.	The Wise Monkeys are three.			❌	✔️				
+A0363	Shảq sa sảq nủı shủao pójī bủajīo da.	There are three little birds in front of my house.			✔️					
+A0365	Dẻq kảqgāı tu pỏq lû jỏ ní tủıfūa da.	Everyone can see that there are four chairs here.			✔️					
+A0366	Hẻ pảq go baq mủq sa fẻ chẻı da.	A hand has five fingers.			baq					
+A0367	Kảqgāı jí sa fẻ bảobāo da.	I see five dogs.			✔️					
+A0368	Cỉ pỏq tì chíejīo da.	There are five people at school.			✔️	✔️				
+A0370	Kảı súq sa dỉaı gỉ kủqtōaı ba.	Write at least seven good sentences.			✔️					
+A0371	Dỉaı póq süaı ru nïtī da.	There are seven people who are fast and are here.			✔️					
+A0372	Mả kảqgāı súq róaı shủao moq?	Did you see the eight birds?			✔️					
+A0375	Mủaqtūa náq sa nẻı sỏıchē päıgīq	The man killed nine enemy soldiers.			?					
+A0378	Rủırēo séoq da.	The sky is gray.			✔️					
+A0380	Chỉ hó gêaq baq sủhū da.	They believe that pigs are dirty.			baq					
+A0381	Mả sủq ní moq.	Is this you?								
+A0385	Sẻa súq nãı ba.	Rest now.			✔️					
+A0388	Pủ gủchīo sỉqtūa jí máq da.	I cleaned it twice.			✔️					
+A0394	Pủa gẻq jí súq da.	Pleased to meet you.			✔️					
+A0395	Dảqjāq bủ gẻq da.	Long time no see!			✔️					
+A0398	Bủ tảoshāo dảqfāı fả jí da.	I don't intend to go often.			✔️	✔️				
+A0399	Tảoshāo bủ dảqfāı fả jí da.	I intend not to go often.			✔️	✔️				
+A0400	Tảoshāo dảqfāı bủ fả jí da.	I intend to often not go.			✔️	✔️				
+A0401	Bủ dảqfāı tảoshāo fả jí da.	I don't often intend to go.			✔️	✔️				
+A0402	Dảqfāı bủ tảoshāo fả jí da.	Often I don't intend to go.			✔️	✔️				
+A0403	Dảqfāı tảoshāo bủ fả jí da.	Often I intend not to go.			✔️	✔️				
+A0406	Tỉaqrēo pójī kỉaq da.	My hair is brown.			✔️					
+A0413	Shỉ mí Jỏe roı hó da.	Joe and he are one and the same.			✔️					
+A0418	Nỏa mủıdūa lú kủq hó hóa da.	It's difficult to understand what he says.			✔️					
+A0420	Ha ha, mả jẻo hóq moq?	Ha ha, is that true?			✔️					
+A0422	Bủ cảıdūa jí hóq. Je, dảı bỉa hó da.	I'm not certain. Maybe he's ill.								
+A0423	Tảochō jí to ru lî nỏaq to lî lủaıkūq da.	I like to do both reading and telling jokes.								
+A0427	Sa dỏ bı chủfāq chủq jí dó da.	I'm eating something right now.			✔️					
+A0428	Tu rảı tï hóa níjāo bı bủ kảqsī súq ráı ba.	About everything that's over there: don't look at it. 			✔️					
+A0432	Chủo ní hı rảı moq.	What is this for?			✔️					
+A0434	Mỉu dảı jí hóq da.	I think it is possible.			✔️					
+A0435	Mỉu jí dâı hóq da.	I think it is possible.			✔️					
+A0436	Mỉu púqhō bû dảı hóq da.	They think it's not possible.								
+A0437	Mả mỉujēq súq jí moq.	Do you agree with me?			✔️					
+A0438	Lẻ jỉa bủ jảı hó da.	He probably won't be happy.			✔️					
+A0442	Mả dẻq kảqgāı súq pó jí ga bủajīo moq?	Can you see my house?			?					
+A0444	Gủaı jãq baq mỏrī da. Jảq dảqfāı mão hâo da.	Ants work very hard. Very frequently as well.			baq					
+A0445	Tỏechūo máq da. Ru lỏı jí baq hảo.	It's a knife. And I hate those.			baq					
+A0446	Pủ gảı níaı tî jí da.	The animal perceived my presence.			✔️					
+A0447	Bủ jảq dảqfāı mủ chỏq ní tỏa da.	This word isn't very frequently used.			✔️					
+A0453	Mả dẻq hảo súq kıo lîaı ȷa kı moq?	Can you do it(swim)?			✔️					
+A0462	Mảı púqjī súq hu mí Hỏemāı da!	We love you Solpahi!			✔️					
+A0463	Bủıfā súq hu sháohūı ba!	Leave, wicked ones!			✔️					
+A0464	Mả của líqhō cu shô fẻı ȷa moq?	Did she respond by getting angry?			✔️					
+A0467	Tảkū jí lî chủq ra nủo.	I plan on eating or sleeping, or both.			✔️					
+A0469	Jỉa chảocāq súq gúsīoq ro ríochāo	You will ride the bike or (pilot) the airplane.								
+A0472	Bủ kỏ shỉ jí méo.	I am not among the first of those who are sad.			❌					
+A0475	Tảq shảo dẻdūo jí da. Mả lủsū súq moq?	I want to dance. Do you?								
+A0478	Kảqgāı jí ku sa shủao	A bird, is what I saw.								
+A0481	Bủ jêı hó jí da.	I am not him.								
+A0482	Bủ hỏ jí da.	I am not him.								
+A0486	Kỏe súq sa tỉao ba.	Pick something appropriate.								
+A0487	Kỏe súq sa shỉ tíaı lî hỉe ba.	Choose one of the boxes for you to carry.								
+A0488	Mủı hı rảı shú ‹ sủetā › moq.	"What does ""sueta"" mean?"								
+A0492	Shú kẻq bı mả kủqbūaq súq shú tẻq moq?	"About ""keq"": did you mean to say ""teq""?"				✔️				
+A0495	Tẻqgūaı jí kîaı ja baq gẻopōq da.	I care for the old (for a living).				✔️				
+A0496	Jảq fỏıcā pó pósūq tẻoq.	Your questions are very boring.				✔️				
+A0497	Mả tẻoq ní moq?	Was that a question?								
+A0500	Tủoq ní shỉ cẻa da.	This bag is heavy.				✔️				
+A0501	Tủoq ní pủq cẻa da.	These bags are heavy.				✔️				
+A0507	Tỉ hó núofūa kùı bîa hó da.	He's in bed because he's sick.								
+A0508	Bủ chủqkūaı jí, keo pỉekūaı jí da.	I'm not hungry, but I am thirsty.								
+A0513	Dủı rẻoq tîshō súq da.	You showed up too late.								
+A0515	Tỉo gẻo súq moq.	How old are you?								
+A0516	Chẻ súq hı rảı moq.	What is your job?								
+A0517	Chẻ chỉetūa jí da.	I'm a teacher.								
+A0518	Sỏqchō súq hı rảı réokāq moq.	What's your favorite color?								
+A0519	Sỏqchō jí mío réokāq da.	My favorite color is blue.								
+A0520	Kỏa pójī mủq da.	My hands are cold.								
+A0522	Jỏe lỉaı hó da.	He swims well.								
+A0524	Shủ ‹ Mẻrī › pójī chủa da.	My name is Mary.				✔️				
+A0525	Pủ jỉu jí tì Kánādāgūa da.	I was born in Canada.								
+A0527	Bủ jảq gỉ ní chỏaqjīo da.	This hotel isn't very good.								
+A0530	Tỉ hó náokūa da.	He is in the bathroom.								
+A0531	Mả Jủqgūo pósūq pảı moq.	Is your friend Chinese?								
+A0532	Jẻo Jủqgūo hó da.	He is indeed chinese.								
+A0533	Nỉe kámērā pójī cẻa da.	The camera is in my bag.								
+A0534	Mả kủorēo pósūq gủsīoq moq.	Is your bike black?								
+A0536	Mỉ Hỉkārū jí da.	I'm Hikaru.								
+A0537	Bủ chủfāq kảqsī jí tíbī da.	I am not looking at tv right now.								
+A0539	Bủ rủqshūa da.	It didn't rain.								
+A0541	Chủfāq lảo hó tîshō púıchāo da.	He is waiting for the bus to arrive.								
+A0542	Chủq hó sa shỉ shảmū da.	He eats an apple.								
+A0543	Lảo jí tî sa pỏq da.	I'm waiting for some people to be here.								
+A0548	Mả dỉ tủa rỉa jí chúao moq.	Am I allowed to open the window?				✔️				
+A0549	Mả dẻq tủa rỉa jí chúao moq.	Am I able to open the window?				✔️				
+A0559	Pủ dủasūe jí hó mâ mảo tảoshāo fả hó da.	I asked him whether he intended to go as well.								
+A0564	Shảı mẻo súq ba.	Stop being sad.								
+A0565	Kảqsī jí sa kỉq rào nídāq.	I'm watching a movie now.								
+A0567	Pủ tẻoqkūq jí cu hó mó «mả tỉaq baq mủao moq?» teo da.	"I asked him ""Are trees brown?"""								
+A0568	Lủı bẻo mỉu jí da.	I've changed my mind.				✔️				
+A0577	Tỉo sảo máq moq.	How big is it?				✔️				
+A0578	Bủ dủa jí tîo sảo máq da.	I don't know how big it is.								
+A0581	Hỉaı súq kùı hı rảı moq.	Why are you laughing?								
+A0582	Pủ kủq hó mó « Gẻqkūaı jí pójī lỉqpāo da » teo da.	He said «I miss my mom»								
+A0587	Rỏq súq kùı hı moq.	Why are you crying?		✔️						
+A0590	Mả bỉaq dảqjāq nủo súq moq.	Have you slept long enough?		✔️						
+A0591	Sỉu mủ nỏqsē baq sẻpē baq gỏsō da.	The taste of snake is similar to that of chicken.		✔️	!	!				
+A0595	Shỏe súq sôa jí súq ba.	Let me help you.		✔️						
+A0597	Tủa sỉq súq múq ba.	Clean (your) hands.		✔️						
+A0599	Tảq rủaq fủ ní lỉqdēo súq da.	This girl said she was your daughter.		✔️						
+A0600	Gỉ ní nỉaq ba!	Happy new year!		✔️						
+A0601	Gỉ jíuchāq ba!	Happy birthday!		✔️						
+A0606	Tỉjāı jí súq da.	I'm happy you are here.								
+A0608	Bủ hỉaorīeq jí ba.	I mustn't run away.								
+A0609	Kủaq shẻo tủa gỉq fỏaq jí súq ka.	Sorry for making you uncomfortable.								
+A0610	Sỏq hủı hı rảı lú tảo hó hóa moq?	What's the worst thing he has done?								
+A0616	Dủe hóq da!	That's right!								
+A0618	Pảq go hó sa jỏ shỉaq da.	It has four legs.								
+A0635	Dẻ tu pỏq da.	All people are beautiful.								
+A0636	Shảı ba hu búoq!	Oh, stop it, you clown!								
+A0640	Tỉeqbīao jí da.	I'm lost.								
+A0701	Lỉechō jí lî kảqsī ja rảı baq fủaq da.	I like looking at pictures								
+A0702	Nẻo sa pủı chảo ní chảotīeq da.	There are many cars on this road.								
+A0703	Sủejī fâ súq pójī bủe ka.	Please come to my home.								
+A0704	Mả pỏsūq ní cẻa moq.	Is this bag yours?								
+A0708	Sủejī chôq súq ní kỏqpīutā ka.	Please use this computer.								
+A0709	Pủ jẻa jí sa rỏaı kủe da.	I bought eight books.								
+A0711	Nỉq póhō chảo da.	His car is new.								
+A0712	Pủ shỏ hó lî gỏıchē da.	He became a doctor.								
+A0713	Mả dảqshēı súq bìe ní moq.	Do you have time after this?								
+A0718	Dẻ ní fủaq da.	This picture is beautiful.								
+A0719	Rào nínūaq bı jảq dẻ núaqgīo da.	The stars are very beautiful tonight.								
+A0721	Bủaı póhō shỉaq da.	She has long legs.								
+A0722	Mả mỏaı pójī shỉaq moq.	Are my legs thick?								
+A0726	Gẻı pójī lỉqfū sa củırēo da.	My daughter is wearing something magenta.								
+A0727	Shảo jí lû rào níchāq bı pủa gảqsīa jí da.	Today I want to enjoy some time to myself.								
+A0730	Chỏ súq hı rẻo moq.	Which color do you like?								
+A0731	Chủfāq chỉetāo hó da.	He is studying now.								
+A0733	Jảqtūao dỏq ní sủetā da.	This sweater is a little short.								
+A0734	Dỏq póhō shỉaq da.	His legs are short.								
+A0735	Lủı shûa sa rảı cháotīeq da.	Something has fallen on the road.								
+A0737	Nảqfū sa dỉaı jí da.	I have seven sons.								
+A0739	Tỉ sa bảorēo kảtō sóaq da.	There is a white cat in the garden.								
+A0740	Tủı sa bảorēo tẻıgē múao da.	There is a white owl sitting on the tree.								
+A0741	Pủ sỏa hó sa bỉa kủnē da.	She helped a sick dog.								
+A0743	Jảq lỉu ní pủefūq da.	These shoes are very light.								
+A0744	Lỉu pósūq cẻa da.	Your bag is light.								
+A0745	Pỉe súq hı rảı moq?	What (thing) are you drinking?	✔️							
+A0746	Hı rỉaq bı shảo súq fâ súq ríaq moq?	Which place [is such that] you want to go to the place?	✔️							
+A0747	Mỏaq jí tî kúnē hı kủa da.	I remember in which room the dog is.	✔️							
+A0748	Mả nủo súq moq?	Are you asleep?	✔️							
+A0749	Dủa mámā mâ jảı bé da.	The mother knows whether the baby is happy.	✔️							
+A0750	Mả mỏaq súq tî kátō hı kủa moq?	Do you remember in which room the cat is?	✔️							
+A0751	Tỉo sảo gúa moq?	How big is the country?	✔️							
+A0753	Mả mỏaq sa tỉ tîo nỏqgī baq mảtū moq?	Does anyone here remember how delicious honey is?	✔️							
+A0754	Tỉopūı élū moq?	How many are the elephants?	✔️							
+A0756	Hỉa ní moq?	What’s this?	✔️							
+A0757	Dủashāo hó hîa ní da.	They want to know what this is.	✔️							
+A0758	Nảı chûq jí da.	(Now) I eat.	✔️							
+A0759	Pủ kâqgāı hó sa jủa da.	They saw something strange.	✔️							
+A0760	Jỉa fâ jí méı da.	I will go to the mountain.	✔️							
+A0761	Tỉa súq jío da.	You are behind the building.	✔️							
+A0762	Dủa jí tîa súq jío da.	I know that you are behind the building.	✔️							
+A0763	Sa rảı bı dủa jí chô súq ráı da	There is something I know you like.	✔️							
+A0764	Dủa jí chô súq sa rảı da.	I know that there is something you like.	✔️							
+A0765	Hı rảı bı dủa súq chô jí ráı moq?	Which thing (X) [is such that] you know that I like the thing (X)?	✔️							
+A0767	Mỉ Sảrā hó da.	Their name is Sara.	✔️							
+A0768	Tỉ mí Tỏmī hı rảı moq?	Where is Tommy?	✔️							
+A0769	Dủa jí mî Sảrā súq da.	I know that your name is Sara.	✔️							
+A0770	Chỏ tu mỉ Jủlīa baq rủa da.	Every Julia likes flowers.	✔️							
+A0771	Dẻ shú rỉaq da.	The word ‘rỉaq’ (place) is beautiful.	✔️							
+A0773	Mả pủ kûq jí shú rủa moq?	Did you say the word ‘rủa’ (flower)?	✔️							
+A0774	Pủ kûq jí mó« Chỏ jí súq da »teo da.	I said ‘I like you’.	✔️							
+A0776	Chủq múy ba.	Let us eat.	✔️							
+A0777	Nủo déo ba.	May the children sleep.	✔️							
+A0778	Mả kảqgāı súq kúnē moq?	Do you see the dog?	✔️							
+A0779	Gỉ hı shảmū moq.	Which apples are good?	✔️							
+A0780	Nủı shámū da.	The apple is small.	✔️							
+A0781	Kủnē ní da.	This is a dog.	✔️							
+A0782	Chỏ mýı súq da.	We like you.	✔️							
+A0783	Jỉ ní da.	This is me.	✔️							
+A0784	Sủq núo da.	The one who sleeps is you.	✔️							
+A0800	Fảı jảı jí da.	I'm typical in being happy.								
+A0801	Fảı tủoq ní pỉohēa da.	This stone is typically heavy.								
+A0802	Fảı mỉa pảı hó da.	She is typical in being popular.								
+A0803	Fảı hỉaq bỏ póq da.	The person is typical in being poor.								
+A0804	Fảı lỉu líqdēo da.	The girl is typically light.								
+A0805	Fảı lỉu náqdēo da.	The boy is typically light.								
+A0806	Fảı chỏaıjāq ní da.	This is typically expensive.								
+A0807	Fảı mẻocā níjāo da.	That's typical in being sad.								
+A0809	Fảı mỏınīeq súq da.	You're typically stupid.								
+A0810	Lẻı jảı jí da.	I'm rare in being happy.								
+A0811	Lẻı tủoq ní pỉohēa da.	This stone is rare in being heavy.								
+A0812	Lẻı mỉa pảı hó da.	She is rare in being popular.								
+A0813	Lẻı hỉaq bỏ póq da.	The person is rare in being poor.								
+A0814	Lẻı lỉu líqdēo da.	The girl is uncommonly light.								
+A0815	Lẻı lỉu náqdēo da.	The boy is uncommonly light.								
+A0816	Lẻı chỏaıjāq ní da.	This is uncommonly expensive.								
+A0817	Lẻı mẻocā níjāo da.	That's rare in being sad.								
+A0819	Lẻı mỏınīeq súq da.	You're uncommonly stupid.								
+A0820	Gảq jí súq fâ ja pỏq búe da.	I go with you to the home.								
+A0821	Gảq súq jí fâ ja pỏq búe da.	You come with me to the home.								
+A0824	Mả jỉa gảq súq moq.	Will you join?								
+A0827	Keo gảq jí hó!	But I'm with him!								
+A0828	Bủ dảı gâq fả jí da.	It won't be possible for me to go with.								
+A0830	Mỉa dủa hó da.	She knows a lot.								
+A0831	Mỉa bủo hó da.	He's ready for anything.								
+A0832	Mỉa mỏe nãı jí da.	I'm feeling a lot of emotions right now.								
+A0833	Jảq mỉa jí lî tỉ ja pỏq ja gủa rào sa rảı da.	I've been to a lot of countries at one point or another.								
+A0834	Tủao mỉa súq lî kủq ja pỏq ja rảı jí da.	You've said a lot of things to me.								
+A0838	Kủq hó mĩa cả da.	He spoke, causing many things to happen.								
+A0839	Hỉaq bỏ hó da.	He doesn't own much.								
+A0840	Hỉaq bỏ jí da.	I don't own much.								
+A0841	Hỉaq mỉu súq da.	You don't have many opinions.								
+A0842	Dủı hỉaq mỉu súq da.	You have too few opinions.								
+A0845	Gảı jí sa hỉaq rẻobō da.	I see something with not many colors.								
+A0847	Hỉaq dủa jí da.	I don't know much.								
+A0886	Tẻ hỉao ní kủnē da.	This dog is injured.								
+A0887	Tẻ kảqgāı ní nủeq da.	This meat is seen.								
+A0888	Tẻ gảı ní rẻq da.	This person was sensed.								
+A0889	Tẻ kỏe dé da.	The beautiful thing was chosen.								
+A0890	Tẻ kỏe dé sa pủı da.	The beautiful thing was chosen out of many things.								
+A0891	"Tẻ kủq mó ""Pảı jí súq ba."" teo da."	".""You should be my friend,"" has been said."								
+A0894	Kỏe jí súq túq pỏq lî mảı ja pỏq ja dẻ da.	I choose you, beautiful, out of all people, to love.								
+A0898	Keo, hảı kỏe tảo jí da!	But, I have already decided what to do!								
+A0907	Zảq sa pủaı mỏqsūtā da!	A wild monster appears!		✔️						
+A0908	Ní fỉeq bı zảo jí hó da.	That creator I'm familiar with.		✔️						
+A0912	Jỏe shỉy baq kỏnīq da.	Rabbits are good at disappearing.		✔️						
+A0917	Mả tủzȳ baq nảosāı kẻsō moq.	Is melted cheese a soup?		✔️						
+A0940	Jủaı kùı tîshā sa rủaı nẻoq gòe túao mỉnū da.	Some people are serious because a certain noble Mx. will arrive in a few minutes.		✔️						
+A0941	Cả củaı pó púı dỉao chúao da.	Many drops make the window wet.		✔️						
+A0948	Sỏe ru shủeq ní zẻo kùı bû kỏaq máq da.	That fruit is sour and bitter because it is not ripe.								
+A0961	Gỉq lẻ hôaı mỏaq róaqrōaq sa pỏ súq da.	It's unlikely that grandparent still remembers something of yours.								
+A0981	Nỏqrūe kúochāı pǒ ní hảqrīaq na jìe jí da.	This restaurant's black tea is weak in flavour to me.								
+A0991	Pỏ súq ní tỏesē ka.	This slice is hereby yours.								
+A0995	Pósūq tỏakūe bı nảı chỏq hó máq, ju bủ dủa jí nâı tỉ hó hı rảı da.	As for your dictionary, he is currently using it (I don't know where he is now).								
+A1001	Hỉa ke sủqpā kảqgāı moq.	What is it you are looking at?								
+A0005	Bủa súq hı moq.	Where do you live?		✔️	✔️	✔️				
+A0025	Chủq rào níchāq jí sa cỉe da.	I ate some fish today.		✔️	✔️	❓				
+A0035	Dảqfāı chủqkūaı jí da.	It's often the case that I'm hungry.		✔️	✔️	✔️				
+A0043	Shỏ dủa jí rào tu shỉ chảq sa da.	I learn something new every day.		✔️	❌	❓				
+A0050	Mủoq máq baq shỉa da.	It's made of glass.		✔️	?					
+A0053	Dảı jîa tỉ jí ríaq da.	I may be there in the future.		✔️	✔️					
+A0092	Mả tảochō hủosī súq baq gỉaq moq.	Do you enjoy listening to music?								
+A0093	Tảochō hủosī jí baq gỉaq jãq da.	I really enjoy listening to music.								
+A0097	Chỏ jí shêa gẻı jí ıq hẻ nûo jí da.	I like the fact that when I sleep, I wear nothing.								
+A0100	Tảochō chủq sa gẻo pỏq baq gủı da.	Some old people like to eat grains.								
+A0116	Jẻa bỏ tì jéarīaq hó sa hảq da.	He buys some food at the store.		✔️	✔️					
+A0124	Bủ hủı hoı chỏaqjīo da.	The afermentioned hotel isn't bad.		✔️	✔️					
+A0126	Baq ẻlū bı bủaı póhō hủohūa da.	About elephants: they have long ears.								
 A0133	Bủ pû hỉo hó jí da.	He didn't greet me.		✔️	!					Ilmen
 A0135	Bủa hó Mérīkā da.	He lives in the Americas.		✔️	❌					Ilmen
-A0136	Bủ dủa jí tî pójī fỏq hı da.	I don't know where my phone is.		✔️	✔️
-A0137	Mả lủı tỉdūashō súq pójī fỏq moq.	Have you found my phone?		✔️	✔️
-A0138	Bủ jẻı pójī fỏq ní da.	This is not my phone.		✔️	✔️
-A0164	Tảo súq hı jìa jíachāq moq.	What are you doing tommorow?		✔️	✔️
-A0172	Jảq dẻ rúa ıq jỉe hó da.	The flowers are very beautiful to him.			baq
-A0179	Lủerēo baq mảojā da.	Bananas are yellow.			baq
-A0180	Mủqdōa súq lúerēo jí ba.	Give me the yellow thing.		✔️	❌
-A0182	Chỏaq hó jí rào pújōa da.	He visited me last week.		✔️	✔️
-A0195	Bủ pỉe déo baq kảfē ba.	May the child not drink coffee.		✔️	❌
-A0220	Kảqsī hó baq pủao dùoı sa shỉ hỏrā da.	He looks at clouds for an hour.		✔️	?
-A0234	Mả chỏ súq póhō kủa moq.	Did you like his room?		❌	✔️
-A0235	Kủaq kỉe súq hó ba.	Thank him.		✔️	❌
-A0236	Kủaq kỉe jí ka.	Thank you.		✔️	❌
-A0238	Kủaq shẻo jí ka.	I apologize.		✔️	?
-A0246	Fả mýı sa kỉqjīo ba.	Let's to a movie theater.		✔️	✔️
-A0247	Bủ chỏ jí ní kỉq da.	I don't like this movie.		✔️	❌
-A0251	Dảqfāı sûo pójī jỉoqkēa da.	My computer is often broken.		✔️	❌
-A0261	Dủa jí tâo jí hı rào lúechāq da.	I know what I did on Wednesday.		✔️	✔️
-A0268	Dủa jí tâo súq hı rảı rào léaqfīa lỏqcāo da.	I know what you did last summer.		✔️	✔️
-A0272	Pảo lú lẻaqbūa hóa jí na sa sảq da.	My neighbors are parents of 3.		✔️	✔️
-A0273	Pảı pójī lẻaqbūa jí da.	My neighbors are friends of mine.		✔️	✔️
-A0276	Tảq mảı súq ba.	Love yourself.		✔️	❌
-A0279	Mả mủıdūa súq shú «tủa» moq.	Do you understand the word "tua"?		✔️	❌
-A0282	Mả pảı hó mí Lỉy moq.	Is he friends with Lee?		✔️	❌
-A0283	Mỏaq súq hı lủ rảq hóa hoı chảq moq.	What do you remember of that day?		!	✔️
-A0286	Mả jẻı súq mí Lỉy moq.	Are you Lee?		✔️	❌
-A0291	Ní pa mẻa lú pảı hóa jí da.	This is one of my friends.		✔️	✔️
-A0310	Gảq fả jí súq Méhīkōgūa nha.	I promise to go with you to Mexico.			?
-A0311	Hỉa ní moq.	What is this?			❌
-A0312	Mả chủa shú «Lỉy» súq moq.	Is "Lee" your name?			✔️
-A0317	Nỉodē níjāo nỉaı da.	That animal is cute.			❌
-A0320	Sỏqchō súq hı rảı baq shảmū roı baq pỉsō moq.	What's your favorite out of apples and pears?			baq
-A0323	Dẻq kủq bébē shú «mảmā» ru shú «pảpā» da.	The baby can say "mama" and "papa".			✔️
-A0334	Aỏ tảo moy jí hóq da.	I would have done the same thing.			❌
-A0337	Pủ dủashō jí lû pỉao Fárāqsēzū da.	I noticed that the French language is complex.			✔️
-A0340	Chỏq jí sa pỉanō ru sa gỉtā da.	I use a piano and a guitar.			?
-A0341	Pỏaq lũı shía da.	The glass has broken.			✔️
-A0348	Bủ chỏ jí rîe jí baq pủı pỏq da.	I don't like being in the middle of a crowd.
-A0356	Lẻo tủa sỉ pósūq lỉqpāo súq hó da.	Your mom is trying to get you to pay attention to her.			✔️
-A0361	Chẻo lủı rủao gú da.	The two have forgiven each other.			✔️
-A0364	Pảq go tu shỉ nỉaq sa jỏ cảo da.	Every year has four seasons.			❌
-A0374	Nẻı rı jỏ sóa moq?	Are there nine or four helpers?			✔️
-A0376	Jảq gỉ Mí Gúhēı Tẻoq da!	Twenty Questions is awesome!			✔️
-A0379	Sảo nảogūaq Sárālīa da.	Australia is a big island.			?
-A0382	Sa sủao pa lủ bủ dủa súq hóa da.	There is something important that you don't know.			✔️
-A0383	Sỉachōa tu ba.	Silence!			?
-A0384	Sẻa hó jìa gûaı hó da.	He will relax after he works.			✔️
-A0391	Dỉe jí tâogāq mýı réısōı ka.	I hereby suggest we play Go.			✔️
-A0407	Pỏjī rı pỏsūq ní bỉo moq.	This cup, is it mine or yours?			✔️
-A0408	Sủe góıchē jí lî bủ pỉe ja baq bỉrā da.	The doctor asked me not to drink beer.			?
-A0409	Jảq bủ chỉ jí hóq da.	I don't believe it at all.			✔️
-A0414	Mả tỏaqdēq súq Tóaqzū moq.	Do you speak Toaq?			✔️
-A0415	Jảq fủı châocāq ja baq gủsīoq da.	Riding a bicycle is very easy.			✔️
-A0416	Nỏa lî nỏaq ja cu ní kủe da.	It's difficult to read this book.			✔️
-A0419	Mả fủı go súq lî nỏaq ja baq Jủqgūo lảı moq.	Is it easy to you to read Chinese characters?			baq
-A0424	Jỉa hảqsūe jí to ro baq gảlōnūeq to baq bảkānūeq.	I will order either chicken or beef, or both.			❌
-A0425	Hảqbāı jí to ru baq tủzȳ rào níchāq to baq pỉcā rào jỉachāq nha.	I'll cook soup today, and pizza tomorrow.
-A0426	Dủq pỉe súq to rı baq chảı to baq kảfē moq?	Do you (habitually) drink tea or coffee?			❌
-A0430	Shảo jí lû kảqgāı sıa rảı jí.	I want nothing to see me.			✔️
-A0439	Dủ gỉq lẻ hóq da.	That seems improbable.			✔️
-A0448	Bủ nủo hó dùoı sa fẻ chảq cà jâq jảq nủokūaı hó.	He hasn't slept for five days, causing (him) to be very very tired.		✔️	❌
-A0449	Iq shả tâı súq bı hỉoq jí da.	If you win, I'll be proud.			✔️
-A0461	Chẻo lủaqgāq mí Chảq roı póhō pỉa.	Chang and his sibling play with each other.			✔️
-A0465	Mủqdōa súq fóq jí ba.	Hand me the phone.
-A0470	Mả gủo dẻoqsōı pó lâqcāı súq roı pósūq pỉa moq?	Was you and and your sibling being loud an argument?			tue
-A0473	Tu lủ sỉ hóa hoı kỉq pa chỏ máq da.	All those who watched the aforementioned movie liked it.			✔️
-A0474	Tu sï hóa hoı kỉq pa chỏ máq da.	All those who watched the aforementioned movie liked it.			✔️
-A0476	Mả fỉeq ku súq ní moq.	Is it you who created this?			✔️
-A0477	Chủq hó ku sa shảmū da	It's an apple that he ate.
-A0480	Mả chỉ súq jêı hó mí Chảq moq?	Do you think he is Chang?
-A0483	Nỏ ní kủqtōaı Tóaqzū da.	This sentence is in Toaq.
-A0489	Mủı go hoı tỏa sa gủ da.	That word has two meanings.
-A0490	Nỉqdāo hı rảı moq.	What's new?
-A0494	Chẻ súq hı rảı moq.	What is your job?				✔️
-A0503	Jỏe lỷ tảogāq jí ru pójī nảqpīa sháhā da.	My brother and I are skilled at playing chess.
-A0504	Gỏıchē pójī lỉqpīa da.	My sister is a doctor.
-A0506	Tỉ póhō fủ chíejīo da.	His son is at school.
-A0514	Chủa shú «Hảnā» jí da.	My name is "Hana".
-A0521	Bủ tỉ máq úsōnāgūa da.	It is not in the United States.
-A0523	Chủa hı súq moq.	What's your name?
-A0528	Nủ chỏaıjāq máq kùı hı rảı moq?	Why is it that expensive?
-A0529	Tỉ pósūq pảo hı rảı moq.	Where are your parents?
-A0535	uủsōnā mí Lỉsā da.	Lisa is American.
-A0544	Sa pỏq bı lảo jí tî póq da.	There's some people I'm waiting for
-A0546	Bủ tủı súq tóqfūa ba.	Don't sit on the table.				✔️
-A0557	Kỉaqtōe hó póhō da.	He cut his hair.
-A0574	Tảodūa gủsīoqfā súq, mả jẻo moq.	You know how to bike, don't you?				✔️
-A0580	Jẻo dủa jí dûa súq co rảı da.	I do know how much you know.
-A0593	Chỉa jí lî sỏa súq ja da.	I need your help.		✔️
-A0594	Shỷ sỏa súq jí súq ba.	Let me help you.		✔️
-A0605	Mả shỷ kủq súq jí sa súq moq.	Do you allow me to talk to you?
-A0705	Jảq lủaı hoı lủa da.	That story is very funny.
-A0714	Sỏq sảo ní jío nïe ní dỏaq da.	This is the biggest building in the city.
-A0716	Pủ tủa tỉ súq hoı kủe hı moq.	Where did you put that book?
-A0725	Tỉ pójī lỉqfū úsōnāgūa da.	My daughter is in the United States.
-A0729	Chỏ jí ke rëo pósūq sủetā hóa da.	I like the color of your sweater.
-A0738	Mả bủ nâqfū sa rảı súq moq.	Do you not have any sons?
-A0752	Bủ dủa súq tîo dẻ súq da.	You don’t know how beautiful you are.	✔️
-A0755	Bủ dủa súq tîopūı mýı da.	You don’t know how many we are.	✔️
-A0835	Keo háq bı, chỏ tu máq da!	But as for the food, everyone liked it!
-A0843	Mả hỉaq pảı súq moq.	Do you have few friends?
-A0895	Kỏe mảı jí súq tuq pỏq da.	I choose you, out of all people, to love.
-A0896	Kỏe rủaq pũ jí bû hóq da.	I chose to declare that it is false.
-A0897	Kỏe rủaq jĩa jí jêo hóq da.	I chode to declare that it is true.
-A0901	Kủaı pủagōaı jí áq da.	I want to massage myself.
-A0939	Lỏı hó baq bủ sủq da.	They hate people who aren't you.		✔️
-A0945	Bủe pójī nủotōq sa pủı rỉq lỉao da.	Many green fungi live in my mattress.
-A0946	Kủoı shủeq ní rïoq baq rỉqchāı da.	This type of green tea is less bitter.
-A0947	Kủoı sỏe ní rïoq baq kảfē da.	This type of coffee is less sour.
-A0951	Hỏaq chòe jûaq bủ hỏaı kûoq da.	It burns until even bone doesn't remain.
-A0953	Chỉ sıa pỏq chêaq tảı góıchē da.	Nobody believes that the doctor is trusted to succeed.
-A0967	Bủ kỉu rỉudōa baq fủq të gẻı da.	An article of clothing which has been worn is not able to be given back.
-A0968	Mủoq ní baq chủaı nỏaı roı baq kẻaq dủaobōe da.	This is made of frozen milk and salty cookies.
-A0969	Nẻo sa pủı shỉapōaqsē ní kỏıtīeq da.	Many pieces of broken glass are on this walking way.
-A0971	Dủı sẻakūaı jí lî fả ja bíajīo da.	I am too exhausted to go to hospital.
-A0982	Mả nỉ tẻaqrīaı lú nảı jỏaı súq hóa moq.	Is it this bra that you're searching for now?
-A0990	Bủ tâq nảosīqtūa súq nìe ní hẻqchūo ba.	Do not bathe yourself in this container.
-A0992	Chủfāq tủa tỉ jí súq húıtāojīo ka.	I am taking you to jail.
-A0994	Ke nủaq bı shỏ jảq gẻaq póhō nỉq fủq da.	As for that night, her new clothing got very dirty.
+A0136	Bủ dủa jí tî pójī fỏq hı da.	I don't know where my phone is.		✔️	✔️					
+A0137	Mả lủı tỉdūashō súq pójī fỏq moq.	Have you found my phone?		✔️	✔️					
+A0138	Bủ jẻı pójī fỏq ní da.	This is not my phone.		✔️	✔️					
+A0164	Tảo súq hı jìa jíachāq moq.	What are you doing tommorow?		✔️	✔️					
+A0172	Jảq dẻ rúa ıq jỉe hó da.	The flowers are very beautiful to him.			baq					
+A0179	Lủerēo baq mảojā da.	Bananas are yellow.			baq					
+A0180	Mủqdōa súq lúerēo jí ba.	Give me the yellow thing.		✔️	❌					
+A0182	Chỏaq hó jí rào pújōa da.	He visited me last week.		✔️	✔️					
+A0195	Bủ pỉe déo baq kảfē ba.	May the child not drink coffee.		✔️	❌					
+A0220	Kảqsī hó baq pủao dùoı sa shỉ hỏrā da.	He looks at clouds for an hour.		✔️	?					
+A0234	Mả chỏ súq póhō kủa moq.	Did you like his room?		❌	✔️					
+A0235	Kủaq kỉe súq hó ba.	Thank him.		✔️	❌					
+A0236	Kủaq kỉe jí ka.	Thank you.		✔️	❌					
+A0238	Kủaq shẻo jí ka.	I apologize.		✔️	?					
+A0246	Fả mýı sa kỉqjīo ba.	Let's to a movie theater.		✔️	✔️					
+A0247	Bủ chỏ jí ní kỉq da.	I don't like this movie.		✔️	❌					
+A0251	Dảqfāı sûo pójī jỉoqkēa da.	My computer is often broken.		✔️	❌					
+A0261	Dủa jí tâo jí hı rào lúechāq da.	I know what I did on Wednesday.		✔️	✔️					
+A0268	Dủa jí tâo súq hı rảı rào léaqfīa lỏqcāo da.	I know what you did last summer.		✔️	✔️					
+A0272	Pảo lú lẻaqbūa hóa jí na sa sảq da.	My neighbors are parents of 3.		✔️	✔️					
+A0273	Pảı pójī lẻaqbūa jí da.	My neighbors are friends of mine.		✔️	✔️					
+A0276	Tảq mảı súq ba.	Love yourself.		✔️	❌					
+A0279	Mả mủıdūa súq shú «tủa» moq.	"Do you understand the word ""tua""?"		✔️	❌					
+A0282	Mả pảı hó mí Lỉy moq.	Is he friends with Lee?		✔️	❌					
+A0283	Mỏaq súq hı lủ rảq hóa hoı chảq moq.	What do you remember of that day?		!	✔️					
+A0286	Mả jẻı súq mí Lỉy moq.	Are you Lee?		✔️	❌					
+A0291	Ní pa mẻa lú pảı hóa jí da.	This is one of my friends.		✔️	✔️					
+A0310	Gảq fả jí súq Méhīkōgūa nha.	I promise to go with you to Mexico.			?					
+A0311	Hỉa ní moq.	What is this?			❌					
+A0312	Mả chủa shú «Lỉy» súq moq.	"Is ""Lee"" your name?"			✔️					
+A0317	Nỉodē níjāo nỉaı da.	That animal is cute.			❌					
+A0320	Sỏqchō súq hı rảı baq shảmū roı baq pỉsō moq.	What's your favorite out of apples and pears?			baq					
+A0323	Dẻq kủq bébē shú «mảmā» ru shú «pảpā» da.	"The baby can say ""mama"" and ""papa""."			✔️					
+A0334	Aỏ tảo moy jí hóq da.	I would have done the same thing.			❌					
+A0337	Pủ dủashō jí lû pỉao Fárāqsēzū da.	I noticed that the French language is complex.			✔️					
+A0340	Chỏq jí sa pỉanō ru sa gỉtā da.	I use a piano and a guitar.			?					
+A0341	Pỏaq lũı shía da.	The glass has broken.			✔️					
+A0348	Bủ chỏ jí rîe jí baq pủı pỏq da.	I don't like being in the middle of a crowd.								
+A0356	Lẻo tủa sỉ pósūq lỉqpāo súq hó da.	Your mom is trying to get you to pay attention to her.			✔️					
+A0361	Chẻo lủı rủao gú da.	The two have forgiven each other.			✔️					
+A0364	Pảq go tu shỉ nỉaq sa jỏ cảo da.	Every year has four seasons.			❌					
+A0374	Nẻı rı jỏ sóa moq?	Are there nine or four helpers?			✔️					
+A0376	Jảq gỉ Mí Gúhēı Tẻoq da!	Twenty Questions is awesome!			✔️					
+A0379	Sảo nảogūaq Sárālīa da.	Australia is a big island.			?					
+A0382	Sa sủao pa lủ bủ dủa súq hóa da.	There is something important that you don't know.			✔️					
+A0383	Sỉachōa tu ba.	Silence!			?					
+A0384	Sẻa hó jìa gûaı hó da.	He will relax after he works.			✔️					
+A0391	Dỉe jí tâogāq mýı réısōı ka.	I hereby suggest we play Go.			✔️					
+A0407	Pỏjī rı pỏsūq ní bỉo moq.	This cup, is it mine or yours?			✔️					
+A0408	Sủe góıchē jí lî bủ pỉe ja baq bỉrā da.	The doctor asked me not to drink beer.			?					
+A0409	Jảq bủ chỉ jí hóq da.	I don't believe it at all.			✔️					
+A0414	Mả tỏaqdēq súq Tóaqzū moq.	Do you speak Toaq?			✔️					
+A0415	Jảq fủı châocāq ja baq gủsīoq da.	Riding a bicycle is very easy.			✔️					
+A0416	Nỏa lî nỏaq ja cu ní kủe da.	It's difficult to read this book.			✔️					
+A0419	Mả fủı go súq lî nỏaq ja baq Jủqgūo lảı moq.	Is it easy to you to read Chinese characters?			baq					
+A0424	Jỉa hảqsūe jí to ro baq gảlōnūeq to baq bảkānūeq.	I will order either chicken or beef, or both.			❌					
+A0425	Hảqbāı jí to ru baq tủzȳ rào níchāq to baq pỉcā rào jỉachāq nha.	I'll cook soup today, and pizza tomorrow.								
+A0426	Dủq pỉe súq to rı baq chảı to baq kảfē moq?	Do you (habitually) drink tea or coffee?			❌					
+A0430	Shảo jí lû kảqgāı sıa rảı jí.	I want nothing to see me.			✔️					
+A0439	Dủ gỉq lẻ hóq da.	That seems improbable.			✔️					
+A0448	Bủ nủo hó dùoı sa fẻ chảq cà jâq jảq nủokūaı hó.	He hasn't slept for five days, causing (him) to be very very tired.		✔️	❌					
+A0449	Iq shả tâı súq bı hỉoq jí da.	If you win, I'll be proud.			✔️					
+A0461	Chẻo lủaqgāq mí Chảq roı póhō pỉa.	Chang and his sibling play with each other.			✔️					
+A0465	Mủqdōa súq fóq jí ba.	Hand me the phone.								
+A0470	Mả gủo dẻoqsōı pó lâqcāı súq roı pósūq pỉa moq?	Was you and and your sibling being loud an argument?			tue					
+A0473	Tu lủ sỉ hóa hoı kỉq pa chỏ máq da.	All those who watched the aforementioned movie liked it.			✔️					
+A0474	Tu sï hóa hoı kỉq pa chỏ máq da.	All those who watched the aforementioned movie liked it.			✔️					
+A0476	Mả fỉeq ku súq ní moq.	Is it you who created this?			✔️					
+A0477	Chủq hó ku sa shảmū da	It's an apple that he ate.								
+A0480	Mả chỉ súq jêı hó mí Chảq moq?	Do you think he is Chang?								
+A0483	Nỏ ní kủqtōaı Tóaqzū da.	This sentence is in Toaq.								
+A0489	Mủı go hoı tỏa sa gủ da.	That word has two meanings.								
+A0490	Nỉqdāo hı rảı moq.	What's new?								
+A0494	Chẻ súq hı rảı moq.	What is your job?				✔️				
+A0503	Jỏe lỷ tảogāq jí ru pójī nảqpīa sháhā da.	My brother and I are skilled at playing chess.								
+A0504	Gỏıchē pójī lỉqpīa da.	My sister is a doctor.								
+A0506	Tỉ póhō fủ chíejīo da.	His son is at school.								
+A0514	Chủa shú «Hảnā» jí da.	"My name is ""Hana""."								
+A0521	Bủ tỉ máq úsōnāgūa da.	It is not in the United States.								
+A0523	Chủa hı súq moq.	What's your name?								
+A0528	Nủ chỏaıjāq máq kùı hı rảı moq?	Why is it that expensive?								
+A0529	Tỉ pósūq pảo hı rảı moq.	Where are your parents?								
+A0535	uủsōnā mí Lỉsā da.	Lisa is American.								
+A0544	Sa pỏq bı lảo jí tî póq da.	There's some people I'm waiting for								
+A0546	Bủ tủı súq tóqfūa ba.	Don't sit on the table.				✔️				
+A0557	Kỉaqtōe hó póhō da.	He cut his hair.								
+A0574	Tảodūa gủsīoqfā súq, mả jẻo moq.	You know how to bike, don't you?				✔️				
+A0580	Jẻo dủa jí dûa súq co rảı da.	I do know how much you know.								
+A0593	Chỉa jí lî sỏa súq ja da.	I need your help.		✔️						
+A0594	Shỷ sỏa súq jí súq ba.	Let me help you.		✔️						
+A0605	Mả shỷ kủq súq jí sa súq moq.	Do you allow me to talk to you?								
+A0705	Jảq lủaı hoı lủa da.	That story is very funny.								
+A0714	Sỏq sảo ní jío nïe ní dỏaq da.	This is the biggest building in the city.								
+A0716	Pủ tủa tỉ súq hoı kủe hı moq.	Where did you put that book?								
+A0725	Tỉ pójī lỉqfū úsōnāgūa da.	My daughter is in the United States.								
+A0729	Chỏ jí ke rëo pósūq sủetā hóa da.	I like the color of your sweater.								
+A0738	Mả bủ nâqfū sa rảı súq moq.	Do you not have any sons?								
+A0752	Bủ dủa súq tîo dẻ súq da.	You don’t know how beautiful you are.	✔️							
+A0755	Bủ dủa súq tîopūı mýı da.	You don’t know how many we are.	✔️							
+A0835	Keo háq bı, chỏ tu máq da!	But as for the food, everyone liked it!								
+A0843	Mả hỉaq pảı súq moq.	Do you have few friends?								
+A0895	Kỏe mảı jí súq tuq pỏq da.	I choose you, out of all people, to love.								
+A0896	Kỏe rủaq pũ jí bû hóq da.	I chose to declare that it is false.								
+A0897	Kỏe rủaq jĩa jí jêo hóq da.	I chode to declare that it is true.								
+A0901	Kủaı pủagōaı jí áq da.	I want to massage myself.								
+A0939	Lỏı hó baq bủ sủq da.	They hate people who aren't you.		✔️						
+A0945	Bủe pójī nủotōq sa pủı rỉq lỉao da.	Many green fungi live in my mattress.								
+A0946	Kủoı shủeq ní rïoq baq rỉqchāı da.	This type of green tea is less bitter.								
+A0947	Kủoı sỏe ní rïoq baq kảfē da.	This type of coffee is less sour.								
+A0951	Hỏaq chòe jûaq bủ hỏaı kûoq da.	It burns until even bone doesn't remain.								
+A0953	Chỉ sıa pỏq chêaq tảı góıchē da.	Nobody believes that the doctor is trusted to succeed.								
+A0967	Bủ kỉu rỉudōa baq fủq të gẻı da.	An article of clothing which has been worn is not able to be given back.								
+A0968	Mủoq ní baq chủaı nỏaı roı baq kẻaq dủaobōe da.	This is made of frozen milk and salty cookies.								
+A0969	Nẻo sa pủı shỉapōaqsē ní kỏıtīeq da.	Many pieces of broken glass are on this walking way.								
+A0971	Dủı sẻakūaı jí lî fả ja bíajīo da.	I am too exhausted to go to hospital.								
+A0982	Mả nỉ tẻaqrīaı lú nảı jỏaı súq hóa moq.	Is it this bra that you're searching for now?								
+A0990	Bủ tâq nảosīqtūa súq nìe ní hẻqchūo ba.	Do not bathe yourself in this container.								
+A0992	Chủfāq tủa tỉ jí súq húıtāojīo ka.	I am taking you to jail.								
+A0994	Ke nủaq bı shỏ jảq gẻaq póhō nỉq fủq da.	As for that night, her new clothing got very dirty.								
+	Dủa hó sıa da.	She knows nothing.								
+	Dủa hó sıa rảı da.	She knows nothing.								
+	Dủa hó sıa pỏ jí da.	She knows nothing about me.								
+	Dủa hó sıa räq jí da.	She knows nothing about me.								
+	Pảı jí sıa da.	I have no friends.								
+	Pảı jí sıa rảı da.	I have no friends.								
+	Lỏı jí sıa da.	I don’t hate anyone.								
+	Lỏı jí sıa rảı da.	I don’t hate anyone.								
+	Lỏı sıa jí da.	No one hates me.								
+	Lỏı sıa rảı jí da.	No one hates me.								
+	Mảı jí sıa da.	I don’t love anyone.								
+	Mảı jí sıa rảı da.	I don’t love anyone.								
+	Mảı sıa jí da.	No one loves me.								
+	Mảı sıa rảı jí da.	No one loves me.								
+	Lẻoshāı jí jìa sıa da.	I will never give up.								
+	Gủo sıa lêoshāı jí da.	I will never give up.								
+	Lẻoshāı múy jìa sıa ba.	We must never give up.								
+	Lẻoshāı mýı jìa sıa ba.	We must never give up.								
+	Mả hủogāı súq sıa küq jí hóa moq.	Did you hear nothing I said?								
+	Mả hủogāı súq sıa lủ kủq jí hóa moq.	Did you hear nothing I said?								
+	Mả tảochō súq sıa moq.	Is there nothing you enjoy doing?								
+	Mả jảı súq rào sıa moq.	Are you never happy?								
+	Mả fẻı hó rào sıa moq.	Are they never angry?								
+	Mảı sa lỉq sıa nảq da.	Some women don’t love any men.								
+	Mảı sa nảq sıa lỉq da.	Some men don’t love any women.								
+	Lỏı sıa tu rẻq da.	No one hates everyone.								
+	Tảochō sıa tu da.	No one enjoys doing everyting.								
+	Jỏe sıa rảı tu da.	No one is an expert at everything.								
+	Jỏe sıa sıa da.	No one is an expert at nothing.								
+	Nỉeq sıa sıa da.	No one is a beginner at nothing.								
+	Mảı jí tu rẻq da.	I love all humans.								
+	Mảı jí tu nỉaı da.	I love all animals.								
+	Mảı jí tu mỉe da.	I love all living things.								
+	Mảı máy tu rẻq ba.	We should love all humans.								
+	Mảı máy tu nỉaı ba.	We should love all animals.								
+	Mảı máy tu mỉe ba.	We should love all living things.								
+	Jỏe tu sa rảı da.	Everyone is good at something.								
+	Nỉeq tu sa rảı da.	Everyone is poor at something.								
+	Dủa hó tu da!	She knows everything!								
+	Dủa jí tu pỏ súq da.	I know everything about you.								
+	Kủaı jí dûa ja tu pỏ ní pỉo da.	I want to know everything about this rock.								
+	Kủaı jí dûa ja tu pỏ hóe da.	I want to know everything about the sun.								
+	Kủaı jí dûa ja tu pỏ míao da.	I want to know everything about the moon.								
+	Kảqsī jí míao rào tu shỉ nủaq da.	I look at the moon every night.								
+	Mảı tu shỉ rẻq shí rẻq ba.	All humans should love themselves.								
+	Mảı tu shỉ pỏq shí pỏq ba.	All people should love themselves.								
+	Bủ mâı tu shỉ rẻq shí rẻq da.	Not all humans love themselves.								
+	Bủ mâı tu shỉ pỏq shí pỏq da.	Not all people love themselves.								
+	Mảı tu shỉ rẻq áq ba.	All humans should love themselves.								
+	Mảı tu shỉ pỏq áq ba.	All people should love themselves.								
+	Bủ mâı tu shỉ rẻq áq da.	Not all humans love themselves.								
+	Bủ mâı tu shỉ pỏq áq da.	Not all people love themselves.								
+	Zảo jí ke kảtō da.	I’m familiar with the cat.								
+	Zảo jí ke kủnē da.	I’m familiar with the dog.								
+	Zảo jí ke cỉe da.	I’m familiar with the fish.								
+	Zảo jí ke tẻasāorā da.	I’m familiar with the dinosaur.								
+	Mảı jí ke kảtō da.	I love the cat.								
+	Mảı jí ke kủnē da.	I love the dog.								
+	Mảı jí ke cỉe da.	I love the fish.								
+	Mảı jí ke tẻasāorā da.	I love the dinosaur.								
+	Pảıgōaı jí ke kảtō da.	I pet the cat.								
+	Pảıgōaı jí ke kủnē da.	I pet the dog.								
+	Jỉaı jí ke cỉe da.	I hold the fish.								
+	Chảocāq jí ke tẻasāorā da!	I ride the dinosaur!								
+	Pảı jí ke pỏq.	I’m friends with the person.								
+	Pảı ke pỏq jí.	The person is friends with me.								
+	Shảo dủa jí ke düa súq hóa da.	I want to know what you know.								
+	Shảo bỏ jí ke bö súq hóa da.	I want to own what you own.								
+	Tảo súq ke täo jí ba.	Do what I do.								
+	Kẻo bủ kủq súq ke küq jí hóa ba.	But don’t say what I say.								
+	Dủa súq ke söq sủao da.	You know the most important thing.								
+	Hỉa ke söq sủao moq.	What’s the most important thing?								
+	Chỉ jí ke chï hó hóa da.	I believe what they believe.								
+	Keo háq bı, jảq gỉ máq da!	But as for the food, it was very good!								
+	Keo líq bı, jỏe sủaq hó da.	But as for the woman, she is a good singer.								
+	Keo náq bı, nỉeq sủaq hó da.	But as for the man, he is not a good singer.								
+	Keo jỏe sủaq súq da!	But you’re a good singer!								
+	Keo bủ lỉe jí jôe sủaq ja da.	But I don’t feel like a good singer.								
+	Keo sủaq súq dẽ pũjūı.	But you sang beautifully just now.								
+	Keo kủoı jỏe sủaq jí ní pỏq da.	But I’m not as good a singer as these people.								
+	Keo bủ bỏq hóq jôe sủaq súq da.	But that doesn’t prevent you from being a good singer.								
+	Keo lỉe jìa sa súq jôe sủaq ja nha.	But I promise one day you’ll feel like a good singer.								
+	Keo jảq fỏıcā fîeq há baq mủa da.	But writing examples is very boring.								
+	Keo sủa hóq da.	But it’s necessary.								
+	Tıu tảo jí hóq nha.	So I’ll do it.								
+	Tıu tảo sa hóq ba.	So someone should do it.								
+	Tıu tảo súq hóq ba!	So do it!								
+	Pảı súq co rảı moq.	How many friends do you have?								
+	Pảı súq co moq.	How many friends do you have?								
+	Fỉeq súq co lẻa moq.	How many artworks have you created?								
+	Fỉeq súq co kủe moq.	How many books have you written?								
+	Pảı súq co päı jí moq.	How many of my friends are you friends with?								
+	Sủaq co rảı dè moq.	How many sang beautifully?								
+	Sủaq co dè moq.	How many sang beautifully?								
+	Sủaq co rẻq dè moq.	How many people sang beautifully?								
+	Sủaq co rảı bù dẻ moq.	How many sang non-beautifully?								
+	Sủaq co bù dẻ moq.	How many sang non-beautifully?								
+	Sủaq co rẻq bù dẻ moq.	How many people sang non-beautifully?								
+	Dủa mýı pâı súq co rảı da.	We know how many friends you have.								
+	Dủa mýı pâı súq co da.	We know how many friends you have.								
+	Dủa mýı fîeq súq co lẻa da.	We know how many pieces of art you’ve created.								
+	Dủa mýı fîeq súq co kủe da.	We know how many books you’ve written.								
+	Dủa mýı pâı súq co päı jí da.	We know how many of my friends are your friends.								
+	Dủa mýı sûaq co rảı dè da.	We know how many sang beautifully.								
+	Dủa mýı sûaq co dè da.	We know how many sang beautifully.								
+	Dủa mýı sûaq co rẻq dè da.	We know how many people sang beautifully.								
+	Dủa mýı sûaq co rảı bù dẻ da.	We know how many sang non-beautifully.								
+	Dủa mýı sûaq co bù dẻ da.	We know how many sang non-beautifully.								
+	Dủa mýı sûaq co rẻq bù dẻ da.	We know how many people sang non-beautifully.								
