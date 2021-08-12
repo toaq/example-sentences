@@ -5,7 +5,6 @@ je      je* 50      keo* 50     tiu* 50
 bi      bi* 50
 go      go* 25      cu* 25
 da      da* 200     ba* 100     ka* 100     nha* 50     moq* 100
-iq      iq* 50
 
 ku      ku* 25      tou* 25     moy 25      joy 25
 aq      aq* 15      cheq* 15
