@@ -24,8 +24,8 @@ mo/teo  mó 25       mỏ 10
 mi      mí 40       mï 5        mỉ 25       mî 5
 shu     shú 25      shủ 2       shû 2
 
-lu-1    lû 50       lî 50
-lu-2    lú 50       lü 30       lủ 20       hoa* 50
+la      lâ 50       lä 30
+lu      lú 50
 ma      mả 50       mâ 50       tỉo 25      tîo 25
 
 p-pnn   ji* 50      suq* 50     ho* 50      muy* 20     myi* 20     may* 20     ha* 10
