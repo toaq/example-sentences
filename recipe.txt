@@ -10,7 +10,7 @@ ku      ku* 25      tou* 25     moy 25      joy 25
 aq      aq* 15      cheq* 15
 
 kio/ki  kio* 10     ki* 10
-ju      ju* 10      la* 10
+ju      ju* 10
 hu      hu* 25
 
 term    na* 50      ga* 50      cei* 50
