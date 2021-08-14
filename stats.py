@@ -144,6 +144,9 @@ account_file( recipe, "A_sentences.tsv" )
 
 # Print the words we found
 
+target_sum = 0
+count_sum = 0
+
 print()
 
 for cls in recipe:
@@ -158,6 +161,9 @@ for cls in recipe:
         target = item[2]
         count = len(item[3])
 
+        target_sum += target
+        count_sum += min(target, count)
+
         length = 5 + len(str(count)) + 1 + len(str(target))
 
         word  = word + (5 - len(word)) * " "
@@ -169,3 +175,7 @@ for cls in recipe:
         print(word + count + denom + padding, end='')
 
     print()
+
+print("Total: " + str(count_sum) + "/" + str(target_sum))
+print()
+
