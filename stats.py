@@ -170,12 +170,12 @@ for cls in recipe:
         count = colorize(str(count), count / target)
         denom = greyify("/" + str(target))
 
-        padding = (15 - length) * " "
+        padding = (14 - length) * " "
 
         print(word + count + denom + padding, end='')
 
     print()
 
-print("Total: " + str(count_sum) + "/" + str(target_sum))
+print("  Total: " + str(count_sum) + "/" + str(target_sum))
 print()
 

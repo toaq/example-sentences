@@ -1,9 +1,9 @@
 A0001	Nủokūaı jí da.	I'm tired.		✔️	✔️					
 A0002	Nủokūaı súq da.	You are tired.		✔️	✔️					
-A0003	Nủokūaı hó da.	They are tired.		✔️	✔️					
+A0003	Nủokūaı nháo da.	They are tired.		✔️	✔️					
 A0004	Mả nủokūaı súq moq.	Are you tired?		✔️	✔️					
-A0006	Tỉ hó ní da.	They are here.		✔️	✔️	✔️				
-A0007	Bủ tỉ hó ní da.	They are not here.		✔️	✔️	✔️				
+A0006	Tỉ nháo ní da.	They are here.		✔️	✔️	✔️				
+A0007	Bủ tỉ nháo ní da.	They are not here.		✔️	✔️	✔️				
 A0008	Bủajīo máq da.	It's a house.		✔️	✔️	✔️				
 A0009	Mả bủajīo ní moq.	Is this a house?		✔️	✔️	✔️				
 A0010	Tỉ déo hı moq.	Where are the children?		✔️	✔️	✔️				
@@ -14,8 +14,8 @@ A0014	Mả pỉekūaı súq moq.	Are you thirsty?		✔️	✔️	✔️
 A0015	Pỉe súq ba.	Drink!		✔️	✔️	✔️				
 A0016	Chỏ jí baq nảo da.	I like water.				✔️				
 A0017	Bủ chỏ jí baq bỉrā da.	I don't like beer.				✔️				
-A0018	Bỉa hó da.	He is sick.		✔️	✔️	✔️				
-A0019	Chủfāq bủa hó sa bỉajīo da.	He is staying at some hospital.		✔️	✔️					
+A0018	Bỉa nháo da.	He is sick.		✔️	✔️	✔️				
+A0019	Chủfāq bủa nháo sa bỉajīo da.	He is staying at some hospital.		✔️	✔️					
 A0020	Mả kỏa ní nảo moq.	Is this water cold?		✔️	✔️	✔️				
 A0021	Bủ kỏa máq da.	It is not cold.		✔️	✔️	✔️				
 A0022	Chỉ jí hêq náo sa cỉe da.	I believe the water contains some fish.		✔️	✔️					
@@ -26,7 +26,7 @@ A0027	Kỉarēo pójī kỉaq da.	My hair is red.		✔️	✔️	❓
 A0028	Mả bủaı póhō kỉaq moq.	Is his hair long?		✔️	✔️	✔️				
 A0030	Pủ shỏ shỉe bébē da.	The baby woke up.		✔️	✔️	✔️				
 A0031	Tỉ go hı sa cỉurīaq moq?	Where is there a toilet?		✔️	?	✔️				
-A0032	Chỏ hó cháı da.	He likes the tea.		✔️	✔️	✔️				
+A0032	Chỏ nháo cháı da.	He likes the tea.		✔️	✔️	✔️				
 A0033	Pủ pủa pỉe jí cháı da.	I enjoyed drinking the tea.		✔️	✔️	✔️				
 A0034	Nỏqgī baq chảı da.	Tea tastes good.				✔️				
 A0036	Dủ chủqkūaı súq da.	You seem hungry.		✔️	✔️	✔️				
@@ -38,7 +38,7 @@ A0041	Bủo chúıhāq da.	Breakfast is ready.		✔️	✔️	✔️
 A0042	Fả déo chíejīo ba.	May the child go to the school.		✔️	✔️	✔️				
 A0044	Chỏ jí súq da.	I'm fond of you.		✔️	✔️	✔️				
 A0045	Tủa chỉe súq jí ba.	Teach me.		✔️	?	✔️				
-A0046	Chủfāq gẻı hó sa sảo chẻa da.	He's wearing a big hat.		✔️	✔️					
+A0046	Chủfāq gẻı nháo sa sảo chẻa da.	He's wearing a big hat.		✔️	✔️					
 A0047	Lủaı ní chẻa da.	This hat is funny.		✔️	✔️					
 A0048	Mả hẻqshēa chéoq moq.	Is the bottle empty?		✔️	✔️					
 A0049	Lủı pỏaq chéoq da.	The bottle has broken.		✔️	✔️					
@@ -55,14 +55,14 @@ A0068	Mả dẻ ní moq.	Is this beautiful?		✔️	✔️
 A0069	Bủ dẻq nỏaq jí da.	I can't read.		✔️	✔️					
 A0070	Mả dẻq lỉaı súq moq.	Can you swim?		✔️	✔️					
 A0071	Rào níchāq bı dẻq jí tu da.	Today, I can do anything.		✔️	✔️					
-A0072	Dẻq ní dẻo sa lủ bủ dẻq jí hóa da.	This kid can do things that I can't do.		✔️	✔️					
+A0072	Dẻq ní dẻo sa lủ bủ dẻq jí nháoa da.	This kid can do things that I can't do.		✔️	✔️					
 A0073	Chủfāq fả jí jéarīaq da.	I am going to the store.		✔️	✔️					
 A0075	Fả súq hı rảı moq.	Where are you going?		✔️	✔️	✔️				
-A0076	Shảo jí gâq súq hó rào níchāq da.	I want you to accompany him today.		✔️	✔️					
+A0076	Shảo jí gâq súq nháo rào níchāq da.	I want you to accompany him today.		✔️	✔️					
 A0077	Kúe pa gủq tóqfūa na ru nẻo déaq da.	The book is on the floor underneath the table.		✔️	✔️					
 A0078	Sảo gủa Fárāqsēgūa da.	France is a big country.		✔️	✔️					
 A0079	Mả gủa Kánādāgūa moq.	Is Canada a country?		✔️	✔️	✔️				
-A0081	Bủ tỉ hó gúaırīaq da.	He isn't at work.		✔️	✔️	✔️				
+A0081	Bủ tỉ nháo gúaırīaq da.	He isn't at work.		✔️	✔️	✔️				
 A0082	Mả tỉjāo gúaırīaq pósūq bủajīo moq.	Is the workplace far from your house?		✔️	✔️	✔️				
 A0083	Bủ hóq da.	It's not true.		✔️	✔️					
 A0084	Tỉjūı máq chíejīo da.	It's close to the school.		✔️	✔️					
@@ -81,12 +81,12 @@ A0099	Nủo jí rào baq nủaq da.	I'm asleep at night.
 A0102	Kủorēo pójī bỉkīnī da.	My bikini is black.		✔️	✔️					
 A0103	Nỏqgī ní hảq da.	This food tastes good.		✔️	✔️					
 A0104	Mả nỏqgī ní súq moq.	Does this taste good to you?		✔️	✔️					
-A0105	Mỏaq jí lû bảorēo táqchāo da.	I remember that the car is white.		✔️	✔️					
+A0105	Mỏaq jí lâ bảorēo táqchāo da.	I remember that the car is white.		✔️	✔️					
 A0106	Mả mỏaq súq sıa rảı moq.	Do you remember nothing?		✔️	✔️					
 A0110	Jỏetāo súq ba.	Practice.		✔️	✔️					
 A0111	Jỏetāo jí ba.	May I practice.		✔️	✔️					
-A0112	Jỏetāo hó rào tu nủaq da.	He practices every night.		✔️	✔️					
-A0113	Hı hảq pa lủ shảo súq bôjēa jí hóa moq.	What food do you want me to buy?		✔️	✔️					
+A0112	Jỏetāo nháo rào tu nủaq da.	He practices every night.		✔️	✔️					
+A0113	Hı hảq pa lủ shảo súq bôjēa jí nháoa moq.	What food do you want me to buy?		✔️	✔️					
 A0114	Mả dủı lỏq háq moq.	Is the food too hot?		✔️	✔️	✔️				
 A0115	Dủı lỏq háq da.	The food is too hot.		✔️	✔️					
 A0117	Chỏaıjāq ní hảq da.	This food is expensive.		✔️	✔️					
@@ -119,20 +119,20 @@ A0170	Tỉo gẻo ní jỉo moq.	How old is this building?		✔️	✔️
 A0171	Jảq gẻo ní jỉo da.	This building is very old.		✔️	✔️					
 A0173	Gỉ hóq jìe jí da.	It is good to me.		✔️	❌					
 A0174	Jỉaı súq pójī mủq ba.	Hold my hand.		✔️	✔️					
-A0175	Chủfāq jỉaı hó sa shảmū da.	He is holding an apple.		✔️	✔️					
-A0176	Mả chỉ súq lû jỉao moq.	Do you believe in god?		✔️	✔️					
-A0177	Mả chỉ súq lû jỉq sa jỉao moq.	Do you believe any gods exist?		✔️	✔️					
+A0175	Chủfāq jỉaı nháo sa shảmū da.	He is holding an apple.		✔️	✔️					
+A0176	Mả chỉ súq lâ jỉao moq.	Do you believe in god?		✔️	✔️					
+A0177	Mả chỉ súq lâ jỉq sa jỉao moq.	Do you believe any gods exist?		✔️	✔️					
 A0178	Bủ chủq súq shámū ba.	Don't eat the apple.		✔️	✔️					
 A0184	Tu pỏq pa chỏ báq jỏafāo da.	Everyone likes the weekend.		✔️	baq					
 A0189	Pủ jẻa bỏ jí sa pủıdūı da.	I bought too many things.		✔️	?					
 A0190	Jẻo hóq da.	It's true.		✔️	✔️					
-A0191	Jẻo sıa lủ rủaq súq hóa da.	Nothing you say is true.		✔️	✔️					
+A0191	Jẻo sıa lủ rủaq súq nháoa da.	Nothing you say is true.		✔️	✔️					
 A0194	Kủorēo ní kảfē da.	This coffee is black.		✔️	✔️					
 A0196	Kảqgāı jí súq da.	I see you.		✔️	✔️					
 A0197	Bủ kảqgāı jí máq da.	I don't see it.		✔️	✔️					
 A0198	Kảqgāı súq hı moq.	What do you see?		✔️	✔️					
 A0199	Mả kảqgī ní jìe súq moq.	Does this look good to you?		✔️	✔️					
-A0201	Chỏ hó baq tỉaqrēo kảqhūa da.	He likes brown eyes.		✔️	baq					
+A0201	Chỏ nháo baq tỉaqrēo kảqhūa da.	He likes brown eyes.		✔️	baq					
 A0204	Rủqshūa da.	It's raining.		✔️	✔️					
 A0205	Mả dảqfāı rủqshūa moq.	Does it frequently rain?		✔️	✔️					
 A0206	Mả hỏ ní moq.	Is that him?		✔️	✔️					
@@ -140,29 +140,29 @@ A0207	Hỉo ka.	Hello!		✔️	✔️
 A0208	Pủa chủq súq ba.	Enjoy your meal!		✔️	✔️					
 A0209	Pủ dỏa bỏ hı rảı ní súq moq.	Who gave this to you?		✔️	✔️					
 A0210	Dỏa bỏ súq ní pójī nảqpīa ba.	Give this to my brother.		✔️	✔️					
-A0212	Jảı hó kùı jîajūı jéaqcāo da.	He's happy because it will soon be spring.		✔️	✔️					
+A0212	Jảı nháo kùı jîajūı jéaqcāo da.	He's happy because it will soon be spring.		✔️	✔️					
 A0213	Jẻaq sủaı pósūq ba.	Go faster!		✔️	✔️					
-A0215	Mả jẻı hó ní moq.	Is he this guy?		✔️	✔️					
-A0217	Jẻı jí lú jỉa tảı hóa ba.	May I be the one to succeed!		✔️	✔️					
+A0215	Mả jẻı nháo ní moq.	Is he this guy?		✔️	✔️					
+A0217	Jẻı jí lú jỉa tảı nháoa ba.	May I be the one to succeed!		✔️	✔️					
 A0219	Shảı nủ kảqsī súq jí ba.	Stop looking at me like that.		✔️	✔️					
 A0221	Kảı súq pósūq chủa ba.	Write your name.		✔️	✔️					
-A0222	Ché chỉe pa kảı lú kủq ché chỉetūa hóa da.	The learner writes what the teacher says.		✔️	✔️					
+A0222	Ché chỉe pa kảı lú kủq ché chỉetūa nháoa da.	The learner writes what the teacher says.		✔️	✔️					
 A0223	Tủoq ní kảıfūa da.	This desk is heavy.		✔️	✔️					
 A0224	Bủ dẻq hỉe jí ní kảıfūa da.	I can't carry this desk.		✔️	✔️					
 A0225	Bỏ jí sa shỉ bảorēo kảıfūa ru sa shỉ kủorēo kảıfūa da.	I have a white desk and a black desk.		✔️	✔️					
 A0227	Pủ kủq jí mó « Chủa hı rảı súq moq » teo da.	"I said ""What's your name?""."		✔️	✔️					
-A0228	Chỉ jí lû bủ hủogāı hó lû kủq súq da.	I think he didn't hear you say anything.		✔️	✔️					
+A0228	Chỉ jí lâ bủ hủogāı nháo lâ kủq súq da.	I think he didn't hear you say anything.		✔️	✔️					
 A0229	Kủq súq sa ba.	Say something.		✔️	✔️					
 A0230	Hoı kủa pa sảo rı nủı moq.	Is the afermentioned room big or small? 		!	✔️					
 A0232	Nỉefā súq níjāo kủa ba.	Go inside that room.		✔️	✔️					
 A0233	Pảq go ní jỉo sa sảq kủa da.	This building has three rooms.		✔️	✔️					
 A0237	Kùı hı rảı bı bủ kủaq shẻo súq moq.	Why aren't you apologizing?		✔️	✔️					
 A0239	Kủı hóq hı moq.	Why is it?		✔️	✔️					
-A0240	Bỏ hó sa pủı gẻo kủe da.	He has many old books.		✔️	✔️					
+A0240	Bỏ nháo sa pủı gẻo kủe da.	He has many old books.		✔️	✔️					
 A0242	Jảq chủqkūaı jí nãı da.	I'm very hungry now.		✔️	✔️					
 A0243	Mả mảo chủqkūaı súq moq.	Are you also hungry?		!	✔️					
-A0245	Hı kỉq pa lủ chỏ súq hóa moq.	What movies do you like?		✔️	✔️					
-A0248	Mẻo hó kùı lû kỉachāq níchāq da.	He's sad because today is a Monday.		✔️	✔️					
+A0245	Hı kỉq pa lủ chỏ súq nháoa moq.	What movies do you like?		✔️	✔️					
+A0248	Mẻo nháo kùı lâ kỉachāq níchāq da.	He's sad because today is a Monday.		✔️	✔️					
 A0250	Mả bỏ súq sa kỏqpīutā moq.	Do you have a computer?		✔️	❌					
 A0254	Jủa kẻa ní da.	This is a strange machine.		✔️	✔️					
 A0255	Mả dẻq súq lî nỏaq ja túq nỉ lảı moq.	Are you capable of reading all of these letters?		✔️	✔️					
@@ -172,14 +172,14 @@ A0260	Jảq pảıgī pó póhō lủo da.	His family is very friendly.		✔️	
 A0262	Mả pủ kủq jí sa lủaı moq.	Did I say something funny?		✔️	✔️					
 A0263	Bủ lủaı hóq da.	It's not funny.		✔️	✔️					
 A0264	Rào púchāq bı nỏaq jí sa jảq lủaı da.	Yesterday I read some very funny things.		✔️	✔️					
-A0267	Mả rào ní lỏqcāo bı fả hó Fárāqsē moq.	Does he go to France this summer?		✔️	✔️					
-A0270	Dảı nảı lỏı hó jí da.	It's possible that he hates me now.		✔️	✔️					
+A0267	Mả rào ní lỏqcāo bı fả nháo Fárāqsē moq.	Does he go to France this summer?		✔️	✔️					
+A0270	Dảı nảı lỏı nháo jí da.	It's possible that he hates me now.		✔️	✔️					
 A0271	Lỏı jí baq kỉachāq da.	I hate Mondays.		✔️	baq					
 A0274	Mảı jí súq da.	I love you.		✔️	✔️					
 A0275	Mả mảı súq jí moq.	Do you love me?		✔️	✔️					
-A0277	Mảo lû pủ kảqgāı jí sa tỉqshōaı da.	I also saw a butterfly.		✔️	✔️					
+A0277	Mảo lâ pủ kảqgāı jí sa tỉqshōaı da.	I also saw a butterfly.		✔️	✔️					
 A0278	Mảo dủ sủo máq da.	It, too, seems broken.		✔️	✔️					
-A0280	Mủıdūa hó sıa küq jí da.	He doesn't understand anything that I say.		✔️	?					
+A0280	Mủıdūa nháo sıa küq jí da.	He doesn't understand anything that I say.		✔️	?					
 A0281	Mỉ Sảrā ní da.	This is Sarah.		✔️	✔️					
 A0284	Mỏı jí nãı da.	I'm thinking.		✔️	✔️					
 A0285	Jỉ da.	It's me.		✔️	✔️					
@@ -192,23 +192,23 @@ A0297	Kùı hı bı mẻo súq moq.	Why are you sad?		✔️	✔️
 A0298	Mẻo jí kùı bû nỉtī súq da.	I'm sad because you aren't here.		✔️	✔️					
 A0299	Kảqsī súq ní nảrāqrēo fủq ba.	Look at that orange clothing.		✔️	✔️					
 A0301	Bủ nảqfū ní dẻo jí da.	This boy is not my son.		✔️	❌					
-A0302	Ní lỉqdēo bı rủaq hó lû fủ hó súq da.	This girl said she was your daughter.		✔️	✔️					
+A0302	Ní lỉqdēo bı rủaq nháo lâ fủ nháo súq da.	This girl said she was your daughter.		✔️	✔️					
 A0303	Nỉe sa pỏq náokūa da.	Someone is in the bathroom.			✔️					
 A0304	Tẻa déo kùı nûaqchū da.	The child is scared because it's midnight.			✔️					
 A0305	Nủo súq hu bébē ba.	Sleep, baby!			✔️					
 A0306	Nủı máq da keo chỏqgī máq da.	It's small but it's useful.			✔️					
 A0307	Nẻo púqhō sa sảo nủofūa da.	They are on a big bed.			✔️					
 A0308	Bỏ hoı pỏq sıa nủaı da.	The afermentioned people have no money.			✔️					
-A0309	Chỏ hó to ru baq nủaı to shú ‹ nủaı › da.	"He likes money and the word ""money""."			baq					
+A0309	Chỏ nháo to ru baq nủaı to shú ‹ nủaı › da.	"He likes money and the word ""money""."			baq					
 A0313	Bủ mủıdūa jí da.	I don't understand.			✔️					
 A0315	Chẻo kảqgāı súq roı jí nĩqgūo ba.	Let's look at each other again.			✔️					
-A0316	Nỉqgūo tảo súq hóq ba.	 Do it again!			✔️					
+A0316	Nỉqgūo tảo súq hóq ba.	Do it again!			✔️					
 A0319	Nỏqgāı súq ní pỉsō ba.	Taste this pear.			✔️					
-A0321	Nỏqgī háq lü lủı bảı súq hóa da.	The food that you have made tastes good.			✔️					
+A0321	Nỏqgī háq lä lủı bảı súq nháoa da.	The food that you have made tastes good.			✔️					
 A0322	Nẻo kúe tóqfūa da.	The book is on the table.			✔️					
-A0335	Bủ dủa jí hûaqchō hó baq kảfē rı baq chảı da.	I don't know whether he prefers coffee or tea.			❌					
-A0336	Dủ pỉao lú dỉe súq hóa da.	Your suggestion seems complex.			✔️					
-A0338	Jảq pủı lú dẻq hó hóa da.	He can do a lot of things.			✔️					
+A0335	Bủ dủa jí hûaqchō nháo baq kảfē rı baq chảı da.	I don't know whether he prefers coffee or tea.			❌					
+A0336	Dủ pỉao lú dỉe súq nháoa da.	Your suggestion seems complex.			✔️					
+A0338	Jảq pủı lú dẻq nháo nháoa da.	He can do a lot of things.			✔️					
 A0339	Mả shảo súq pâı súq jí moq.	Do you want to be my friend?			✔️					
 A0342	Cả pỏaq hı rảı shía moq.	What broke the glass?								
 A0344	Dỉa lảqcāı súq ba!	Be less loud!			❌					
@@ -219,11 +219,11 @@ A0351	Shỉqgāı súq ní shỉqgī rủa ba.	Smell this fragrant flower!			✔
 A0353	Tủao, m… jủa da.	It's a little, um… weird.			✔️					
 A0357	Mả kảqgāı súq jí moq.	Do you see me?			✔️					
 A0358	Dủe hı shỉ tỏa moq.	What word is correct?			✔️					
-A0359	Shỉ lú mảı jẽo jí hóa da.	There is one thing I truly love.			?					
-A0360	Déo pïa hóa jí bı gủ hó da.	The children who are my siblings are two in number.			✔️					
+A0359	Shỉ lú mảı jẽo jí nháoa da.	There is one thing I truly love.			?					
+A0360	Déo pïa nháoa jí bı gủ nháo da.	The children who are my siblings are two in number.			✔️					
 A0362	Sảq mí Dủagī Sỉmī da.	The Wise Monkeys are three.			❌	✔️				
 A0363	Shảq sa sảq nủı shủao pójī bủajīo da.	There are three little birds in front of my house.			✔️					
-A0365	Dẻq kảqgāı tu pỏq lû jỏ ní tủıfūa da.	Everyone can see that there are four chairs here.			✔️					
+A0365	Dẻq kảqgāı tu pỏq lâ jỏ ní tủıfūa da.	Everyone can see that there are four chairs here.			✔️					
 A0366	Hẻ pảq go baq mủq sa fẻ chẻı da.	A hand has five fingers.			baq					
 A0367	Kảqgāı jí sa fẻ bảobāo da.	I see five dogs.			✔️					
 A0368	Cỉ pỏq tì chíejīo da.	There are five people at school.			✔️	✔️				
@@ -232,7 +232,7 @@ A0371	Dỉaı póq süaı ru nïtī da.	There are seven people who are fast and 
 A0372	Mả kảqgāı súq róaı shủao moq?	Did you see the eight birds?			✔️					
 A0375	Mủaqtūa náq sa nẻı sỏıchē päıgīq	The man killed nine enemy soldiers.			?					
 A0378	Rủırēo séoq da.	The sky is gray.			✔️					
-A0380	Chỉ hó gêaq baq sủhū da.	They believe that pigs are dirty.			baq					
+A0380	Chỉ nháo gêaq baq sủhū da.	They believe that pigs are dirty.			baq					
 A0381	Mả sủq ní moq.	Is this you?								
 A0385	Sẻa súq nãı ba.	Rest now.			✔️					
 A0388	Pủ gủchīo sỉqtūa jí máq da.	I cleaned it twice.			✔️					
@@ -245,19 +245,19 @@ A0401	Bủ dảqfāı tảoshāo fả jí da.	I don't often intend to go.			✔�
 A0402	Dảqfāı bủ tảoshāo fả jí da.	Often I don't intend to go.			✔️	✔️				
 A0403	Dảqfāı tảoshāo bủ fả jí da.	Often I intend not to go.			✔️	✔️				
 A0406	Tỉaqrēo pójī kỉaq da.	My hair is brown.			✔️					
-A0413	Shỉ mí Jỏe roı hó da.	Joe and he are one and the same.			✔️					
-A0418	Nỏa mủıdūa lú kủq hó hóa da.	It's difficult to understand what he says.			✔️					
+A0413	Shỉ mí Jỏe roı nháo da.	Joe and he are one and the same.			✔️					
+A0418	Nỏa mủıdūa lú kủq nháo nháoa da.	It's difficult to understand what he says.			✔️					
 A0420	Ha ha, mả jẻo hóq moq?	Ha ha, is that true?			✔️					
-A0422	Bủ cảıdūa jí hóq. Je, dảı bỉa hó da.	I'm not certain. Maybe he's ill.								
+A0422	Bủ cảıdūa jí hóq. Je, dảı bỉa nháo da.	I'm not certain. Maybe he's ill.								
 A0423	Tảochō jí to ru lî nỏaq to lî lủaıkūq da.	I like to do both reading and telling jokes.								
 A0427	Sa dỏ bı chủfāq chủq jí dó da.	I'm eating something right now.			✔️					
-A0428	Tu rảı tï hóa níjāo bı bủ kảqsī súq ráı ba.	About everything that's over there: don't look at it. 			✔️					
+A0428	Tu rảı tï nháoa níjāo bı bủ kảqsī súq ráı ba.	About everything that's over there: don't look at it. 			✔️					
 A0432	Chủo ní hı rảı moq.	What is this for?			✔️					
 A0434	Mỉu dảı jí hóq da.	I think it is possible.			✔️					
 A0435	Mỉu jí dâı hóq da.	I think it is possible.			✔️					
 A0436	Mỉu púqhō bû dảı hóq da.	They think it's not possible.								
 A0437	Mả mỉujēq súq jí moq.	Do you agree with me?			✔️					
-A0438	Lẻ jỉa bủ jảı hó da.	He probably won't be happy.			✔️					
+A0438	Lẻ jỉa bủ jảı nháo da.	He probably won't be happy.			✔️					
 A0442	Mả dẻq kảqgāı súq pó jí ga bủajīo moq?	Can you see my house?			?					
 A0444	Gủaı jãq baq mỏrī da. Jảq dảqfāı mão hâo da.	Ants work very hard. Very frequently as well.			baq					
 A0445	Tỏechūo máq da. Ru lỏı jí baq hảo.	It's a knife. And I hate those.			baq					
@@ -272,7 +272,7 @@ A0469	Jỉa chảocāq súq gúsīoq ro ríochāo	You will ride the bike or (pil
 A0472	Bủ kỏ shỉ jí méo.	I am not among the first of those who are sad.			❌					
 A0475	Tảq shảo dẻdūo jí da. Mả lủsū súq moq?	I want to dance. Do you?								
 A0478	Kảqgāı jí ku sa shủao	A bird, is what I saw.								
-A0481	Bủ jêı hó jí da.	I am not him.								
+A0481	Bủ jêı nháo jí da.	I am not him.								
 A0482	Bủ hỏ jí da.	I am not him.								
 A0486	Kỏe súq sa tỉao ba.	Pick something appropriate.								
 A0487	Kỏe súq sa shỉ tíaı lî hỉe ba.	Choose one of the boxes for you to carry.								
@@ -283,7 +283,7 @@ A0496	Jảq fỏıcā pó pósūq tẻoq.	Your questions are very boring.				✔
 A0497	Mả tẻoq ní moq?	Was that a question?								
 A0500	Tủoq ní shỉ cẻa da.	This bag is heavy.				✔️				
 A0501	Tủoq ní pủq cẻa da.	These bags are heavy.				✔️				
-A0507	Tỉ hó núofūa kùı bîa hó da.	He's in bed because he's sick.								
+A0507	Tỉ nháo núofūa kùı bîa nháo da.	He's in bed because he's sick.								
 A0508	Bủ chủqkūaı jí, keo pỉekūaı jí da.	I'm not hungry, but I am thirsty.								
 A0513	Dủı rẻoq tîshō súq da.	You showed up too late.								
 A0515	Tỉo gẻo súq moq.	How old are you?								
@@ -292,32 +292,32 @@ A0517	Chẻ chỉetūa jí da.	I'm a teacher.
 A0518	Sỏqchō súq hı rảı réokāq moq.	What's your favorite color?								
 A0519	Sỏqchō jí mío réokāq da.	My favorite color is blue.								
 A0520	Kỏa pójī mủq da.	My hands are cold.								
-A0522	Jỏe lỉaı hó da.	He swims well.								
+A0522	Jỏe lỉaı nháo da.	He swims well.								
 A0524	Shủ ‹ Mẻrī › pójī chủa da.	My name is Mary.				✔️				
 A0525	Pủ jỉu jí tì Kánādāgūa da.	I was born in Canada.								
 A0527	Bủ jảq gỉ ní chỏaqjīo da.	This hotel isn't very good.								
-A0530	Tỉ hó náokūa da.	He is in the bathroom.								
+A0530	Tỉ nháo náokūa da.	He is in the bathroom.								
 A0531	Mả Jủqgūo pósūq pảı moq.	Is your friend Chinese?								
-A0532	Jẻo Jủqgūo hó da.	He is indeed chinese.								
+A0532	Jẻo Jủqgūo nháo da.	He is indeed chinese.								
 A0533	Nỉe kámērā pójī cẻa da.	The camera is in my bag.								
 A0534	Mả kủorēo pósūq gủsīoq moq.	Is your bike black?								
 A0536	Mỉ Hỉkārū jí da.	I'm Hikaru.								
 A0537	Bủ chủfāq kảqsī jí tíbī da.	I am not looking at tv right now.								
 A0539	Bủ rủqshūa da.	It didn't rain.								
-A0541	Chủfāq lảo hó tîshō púıchāo da.	He is waiting for the bus to arrive.								
-A0542	Chủq hó sa shỉ shảmū da.	He eats an apple.								
+A0541	Chủfāq lảo nháo tîshō púıchāo da.	He is waiting for the bus to arrive.								
+A0542	Chủq nháo sa shỉ shảmū da.	He eats an apple.								
 A0543	Lảo jí tî sa pỏq da.	I'm waiting for some people to be here.								
 A0548	Mả dỉ tủa rỉa jí chúao moq.	Am I allowed to open the window?				✔️				
 A0549	Mả dẻq tủa rỉa jí chúao moq.	Am I able to open the window?				✔️				
-A0559	Pủ dủasūe jí hó mâ mảo tảoshāo fả hó da.	I asked him whether he intended to go as well.								
+A0559	Pủ dủasūe jí nháo mâ mảo tảoshāo fả nháo da.	I asked him whether he intended to go as well.								
 A0564	Shảı mẻo súq ba.	Stop being sad.								
 A0565	Kảqsī jí sa kỉq rào nídāq.	I'm watching a movie now.								
-A0567	Pủ tẻoqkūq jí cu hó mó «mả tỉaq baq mủao moq?» teo da.	"I asked him ""Are trees brown?"""								
+A0567	Pủ tẻoqkūq jí cu nháo mó «mả tỉaq baq mủao moq?» teo da.	"I asked him ""Are trees brown?"""								
 A0568	Lủı bẻo mỉu jí da.	I've changed my mind.				✔️				
 A0577	Tỉo sảo máq moq.	How big is it?				✔️				
 A0578	Bủ dủa jí tîo sảo máq da.	I don't know how big it is.								
 A0581	Hỉaı súq kùı hı rảı moq.	Why are you laughing?								
-A0582	Pủ kủq hó mó « Gẻqkūaı jí pójī lỉqpāo da » teo da.	He said «I miss my mom»								
+A0582	Pủ kủq nháo mó « Gẻqkūaı jí pójī lỉqpāo da » teo da.	He said «I miss my mom»								
 A0587	Rỏq súq kùı hı moq.	Why are you crying?		✔️						
 A0590	Mả bỉaq dảqjāq nủo súq moq.	Have you slept long enough?		✔️						
 A0591	Sỉu mủ nỏqsē baq sẻpē baq gỏsō da.	The taste of snake is similar to that of chicken.		✔️	!	!				
@@ -329,9 +329,9 @@ A0601	Gỉ jíuchāq ba!	Happy birthday!		✔️
 A0606	Tỉjāı jí súq da.	I'm happy you are here.								
 A0608	Bủ hỉaorīeq jí ba.	I mustn't run away.								
 A0609	Kủaq shẻo tủa gỉq fỏaq jí súq ka.	Sorry for making you uncomfortable.								
-A0610	Sỏq hủı hı rảı lú tảo hó hóa moq?	What's the worst thing he has done?								
+A0610	Sỏq hủı hı rảı lú tảo nháo nháoa moq?	What's the worst thing he has done?								
 A0616	Dủe hóq da!	That's right!								
-A0618	Pảq go hó sa jỏ shỉaq da.	It has four legs.								
+A0618	Pảq go nháo sa jỏ shỉaq da.	It has four legs.								
 A0635	Dẻ tu pỏq da.	All people are beautiful.								
 A0636	Shảı ba hu búoq!	Oh, stop it, you clown!								
 A0640	Tỉeqbīao jí da.	I'm lost.								
@@ -342,23 +342,23 @@ A0704	Mả pỏsūq ní cẻa moq.	Is this bag yours?
 A0708	Sủejī chôq súq ní kỏqpīutā ka.	Please use this computer.								
 A0709	Pủ jẻa jí sa rỏaı kủe da.	I bought eight books.								
 A0711	Nỉq póhō chảo da.	His car is new.								
-A0712	Pủ shỏ hó lî gỏıchē da.	He became a doctor.								
+A0712	Pủ shỏ nháo lî gỏıchē da.	He became a doctor.								
 A0713	Mả dảqshēı súq bìe ní moq.	Do you have time after this?								
 A0718	Dẻ ní fủaq da.	This picture is beautiful.								
 A0719	Rào nínūaq bı jảq dẻ núaqgīo da.	The stars are very beautiful tonight.								
 A0721	Bủaı póhō shỉaq da.	She has long legs.								
 A0722	Mả mỏaı pójī shỉaq moq.	Are my legs thick?								
 A0726	Gẻı pójī lỉqfū sa củırēo da.	My daughter is wearing something magenta.								
-A0727	Shảo jí lû rào níchāq bı pủa gảqsīa jí da.	Today I want to enjoy some time to myself.								
+A0727	Shảo jí lâ rào níchāq bı pủa gảqsīa jí da.	Today I want to enjoy some time to myself.								
 A0730	Chỏ súq hı rẻo moq.	Which color do you like?								
-A0731	Chủfāq chỉetāo hó da.	He is studying now.								
+A0731	Chủfāq chỉetāo nháo da.	He is studying now.								
 A0733	Jảqtūao dỏq ní sủetā da.	This sweater is a little short.								
 A0734	Dỏq póhō shỉaq da.	His legs are short.								
 A0735	Lủı shûa sa rảı cháotīeq da.	Something has fallen on the road.								
 A0737	Nảqfū sa dỉaı jí da.	I have seven sons.								
 A0739	Tỉ sa bảorēo kảtō sóaq da.	There is a white cat in the garden.								
 A0740	Tủı sa bảorēo tẻıgē múao da.	There is a white owl sitting on the tree.								
-A0741	Pủ sỏa hó sa bỉa kủnē da.	She helped a sick dog.								
+A0741	Pủ sỏa nháo sa bỉa kủnē da.	She helped a sick dog.								
 A0743	Jảq lỉu ní pủefūq da.	These shoes are very light.								
 A0744	Lỉu pósūq cẻa da.	Your bag is light.								
 A0745	Pỉe súq hı rảı moq?	What (thing) are you drinking?	✔️							
@@ -371,16 +371,16 @@ A0751	Tỉo sảo gúa moq?	How big is the country?	✔️
 A0753	Mả mỏaq sa tỉ tîo nỏqgī baq mảtū moq?	Does anyone here remember how delicious honey is?	✔️							
 A0754	Tỉopūı élū moq?	How many are the elephants?	✔️							
 A0756	Hỉa ní moq?	What’s this?	✔️							
-A0757	Dủashāo hó hîa ní da.	They want to know what this is.	✔️							
+A0757	Dủashāo nháo hîa ní da.	They want to know what this is.	✔️							
 A0758	Nảı chûq jí da.	(Now) I eat.	✔️							
-A0759	Pủ kâqgāı hó sa jủa da.	They saw something strange.	✔️							
+A0759	Pủ kâqgāı nháo sa jủa da.	They saw something strange.	✔️							
 A0760	Jỉa fâ jí méı da.	I will go to the mountain.	✔️							
 A0761	Tỉa súq jío da.	You are behind the building.	✔️							
 A0762	Dủa jí tîa súq jío da.	I know that you are behind the building.	✔️							
 A0763	Sa rảı bı dủa jí chô súq ráı da	There is something I know you like.	✔️							
 A0764	Dủa jí chô súq sa rảı da.	I know that there is something you like.	✔️							
 A0765	Hı rảı bı dủa súq chô jí ráı moq?	Which thing (X) [is such that] you know that I like the thing (X)?	✔️							
-A0767	Mỉ Sảrā hó da.	Their name is Sara.	✔️							
+A0767	Mỉ Sảrā nháo da.	Their name is Sara.	✔️							
 A0768	Tỉ mí Tỏmī hı rảı moq?	Where is Tommy?	✔️							
 A0769	Dủa jí mî Sảrā súq da.	I know that your name is Sara.	✔️							
 A0770	Chỏ tu mỉ Jủlīa baq rủa da.	Every Julia likes flowers.	✔️							
@@ -393,12 +393,12 @@ A0778	Mả kảqgāı súq kúnē moq?	Do you see the dog?	✔️
 A0779	Gỉ hı shảmū moq.	Which apples are good?	✔️							
 A0780	Nủı shámū da.	The apple is small.	✔️							
 A0781	Kủnē ní da.	This is a dog.	✔️							
-A0782	Chỏ mýı súq da.	We like you.	✔️							
+A0782	Chỏ míy súq da.	We like you.	✔️							
 A0783	Jỉ ní da.	This is me.	✔️							
 A0784	Sủq núo da.	The one who sleeps is you.	✔️							
 A0800	Fảı jảı jí da.	I'm typical in being happy.								
 A0801	Fảı tủoq ní pỉohēa da.	This stone is typically heavy.								
-A0802	Fảı mỉa pảı hó da.	She is typical in being popular.								
+A0802	Fảı mỉa pảı nháo da.	She is typical in being popular.								
 A0803	Fảı hỉaq bỏ póq da.	The person is typical in being poor.								
 A0804	Fảı lỉu líqdēo da.	The girl is typically light.								
 A0805	Fảı lỉu náqdēo da.	The boy is typically light.								
@@ -407,7 +407,7 @@ A0807	Fảı mẻocā níjāo da.	That's typical in being sad.
 A0809	Fảı mỏınīeq súq da.	You're typically stupid.								
 A0810	Lẻı jảı jí da.	I'm rare in being happy.								
 A0811	Lẻı tủoq ní pỉohēa da.	This stone is rare in being heavy.								
-A0812	Lẻı mỉa pảı hó da.	She is rare in being popular.								
+A0812	Lẻı mỉa pảı nháo da.	She is rare in being popular.								
 A0813	Lẻı hỉaq bỏ póq da.	The person is rare in being poor.								
 A0814	Lẻı lỉu líqdēo da.	The girl is uncommonly light.								
 A0815	Lẻı lỉu náqdēo da.	The boy is uncommonly light.								
@@ -417,15 +417,15 @@ A0819	Lẻı mỏınīeq súq da.	You're uncommonly stupid.
 A0820	Gảq jí súq fâ ja pỏq búe da.	I go with you to the home.								
 A0821	Gảq súq jí fâ ja pỏq búe da.	You come with me to the home.								
 A0824	Mả jỉa gảq súq moq.	Will you join?								
-A0827	Keo gảq jí hó!	But I'm with him!								
+A0827	Keo gảq jí nháo!	But I'm with him!								
 A0828	Bủ dảı gâq fả jí da.	It won't be possible for me to go with.								
-A0830	Mỉa dủa hó da.	She knows a lot.								
-A0831	Mỉa bủo hó da.	He's ready for anything.								
+A0830	Mỉa dủa nháo da.	She knows a lot.								
+A0831	Mỉa bủo nháo da.	He's ready for anything.								
 A0832	Mỉa mỏe nãı jí da.	I'm feeling a lot of emotions right now.								
 A0833	Jảq mỉa jí lî tỉ ja pỏq ja gủa rào sa rảı da.	I've been to a lot of countries at one point or another.								
 A0834	Tủao mỉa súq lî kủq ja pỏq ja rảı jí da.	You've said a lot of things to me.								
-A0838	Kủq hó mĩa cả da.	He spoke, causing many things to happen.								
-A0839	Hỉaq bỏ hó da.	He doesn't own much.								
+A0838	Kủq nháo mĩa cả da.	He spoke, causing many things to happen.								
+A0839	Hỉaq bỏ nháo da.	He doesn't own much.								
 A0840	Hỉaq bỏ jí da.	I don't own much.								
 A0841	Hỉaq mỉu súq da.	You don't have many opinions.								
 A0842	Dủı hỉaq mỉu súq da.	You have too few opinions.								
@@ -440,7 +440,7 @@ A0891	"Tẻ kủq mó ""Pảı jí súq ba."" teo da."	".""You should be my frie
 A0894	Kỏe jí súq túq pỏq lî mảı ja pỏq ja dẻ da.	I choose you, beautiful, out of all people, to love.								
 A0898	Keo, hảı kỏe tảo jí da!	But, I have already decided what to do!								
 A0907	Zảq sa pủaı mỏqsūtā da!	A wild monster appears!		✔️						
-A0908	Ní fỉeq bı zảo jí hó da.	That creator I'm familiar with.		✔️						
+A0908	Ní fỉeq bı zảo jí nháo da.	That creator I'm familiar with.		✔️						
 A0912	Jỏe shỉy baq kỏnīq da.	Rabbits are good at disappearing.		✔️						
 A0917	Mả tủzȳ baq nảosāı kẻsō moq.	Is melted cheese a soup?		✔️						
 A0940	Jủaı kùı tîshā sa rủaı nẻoq gòe túao mỉnū da.	Some people are serious because a certain noble Mx. will arrive in a few minutes.		✔️						
@@ -449,7 +449,7 @@ A0948	Sỏe ru shủeq ní zẻo kùı bû kỏaq máq da.	That fruit is sour an
 A0961	Gỉq lẻ hôaı mỏaq róaqrōaq sa pỏ súq da.	It's unlikely that grandparent still remembers something of yours.								
 A0981	Nỏqrūe kúochāı pǒ ní hảqrīaq na jìe jí da.	This restaurant's black tea is weak in flavour to me.								
 A0991	Pỏ súq ní tỏesē ka.	This slice is hereby yours.								
-A0995	Pósūq tỏakūe bı nảı chỏq hó máq, ju bủ dủa jí nâı tỉ hó hı rảı da.	As for your dictionary, he is currently using it (I don't know where he is now).								
+A0995	Pósūq tỏakūe bı nảı chỏq nháo máq, ju bủ dủa jí nâı tỉ nháo hı rảı da.	As for your dictionary, he is currently using it (I don't know where he is now).								
 A1001	Hỉa ke sủqpā kảqgāı moq.	What is it you are looking at?								
 A0005	Bủa súq hı moq.	Where do you live?		✔️	✔️	✔️				
 A0025	Chủq rào níchāq jí sa cỉe da.	I ate some fish today.		✔️	✔️	❓				
@@ -461,38 +461,38 @@ A0092	Mả tảochō hủosī súq baq gỉaq moq.	Do you enjoy listening to mus
 A0093	Tảochō hủosī jí baq gỉaq jãq da.	I really enjoy listening to music.								
 A0097	Chỏ jí shêa gẻı jí ıq hẻ nûo jí da.	I like the fact that when I sleep, I wear nothing.								
 A0100	Tảochō chủq sa gẻo pỏq baq gủı da.	Some old people like to eat grains.								
-A0116	Jẻa bỏ tì jéarīaq hó sa hảq da.	He buys some food at the store.		✔️	✔️					
+A0116	Jẻa bỏ tì jéarīaq nháo sa hảq da.	He buys some food at the store.		✔️	✔️					
 A0124	Bủ hủı hoı chỏaqjīo da.	The afermentioned hotel isn't bad.		✔️	✔️					
 A0126	Baq ẻlū bı bủaı póhō hủohūa da.	About elephants: they have long ears.								
-A0133	Bủ pû hỉo hó jí da.	He didn't greet me.		✔️	!					Ilmen
-A0135	Bủa hó Mérīkā da.	He lives in the Americas.		✔️	❌					Ilmen
+A0133	Bủ pû hỉo nháo jí da.	He didn't greet me.		✔️	!					Ilmen
+A0135	Bủa nháo Mérīkā da.	He lives in the Americas.		✔️	❌					Ilmen
 A0136	Bủ dủa jí tî pójī fỏq hı da.	I don't know where my phone is.		✔️	✔️					
 A0137	Mả lủı tỉdūashō súq pójī fỏq moq.	Have you found my phone?		✔️	✔️					
 A0138	Bủ jẻı pójī fỏq ní da.	This is not my phone.		✔️	✔️					
 A0164	Tảo súq hı jìa jíachāq moq.	What are you doing tommorow?		✔️	✔️					
-A0172	Jảq dẻ rúa ıq jỉe hó da.	The flowers are very beautiful to him.			baq					
+A0172	Jảq dẻ rúa ıq jỉe nháo da.	The flowers are very beautiful to him.			baq					
 A0179	Lủerēo baq mảojā da.	Bananas are yellow.			baq					
 A0180	Mủqdōa súq lúerēo jí ba.	Give me the yellow thing.		✔️	❌					
-A0182	Chỏaq hó jí rào pújōa da.	He visited me last week.		✔️	✔️					
+A0182	Chỏaq nháo jí rào pújōa da.	He visited me last week.		✔️	✔️					
 A0195	Bủ pỉe déo baq kảfē ba.	May the child not drink coffee.		✔️	❌					
-A0220	Kảqsī hó baq pủao dùoı sa shỉ hỏrā da.	He looks at clouds for an hour.		✔️	?					
+A0220	Kảqsī nháo baq pủao dùoı sa shỉ hỏrā da.	He looks at clouds for an hour.		✔️	?					
 A0234	Mả chỏ súq póhō kủa moq.	Did you like his room?		❌	✔️					
-A0235	Kủaq kỉe súq hó ba.	Thank him.		✔️	❌					
+A0235	Kủaq kỉe súq nháo ba.	Thank him.		✔️	❌					
 A0236	Kủaq kỉe jí ka.	Thank you.		✔️	❌					
 A0238	Kủaq shẻo jí ka.	I apologize.		✔️	?					
-A0246	Fả mýı sa kỉqjīo ba.	Let's to a movie theater.		✔️	✔️					
+A0246	Fả míy sa kỉqjīo ba.	Let's to a movie theater.		✔️	✔️					
 A0247	Bủ chỏ jí ní kỉq da.	I don't like this movie.		✔️	❌					
 A0251	Dảqfāı sûo pójī jỉoqkēa da.	My computer is often broken.		✔️	❌					
 A0261	Dủa jí tâo jí hı rào lúechāq da.	I know what I did on Wednesday.		✔️	✔️					
 A0268	Dủa jí tâo súq hı rảı rào léaqfīa lỏqcāo da.	I know what you did last summer.		✔️	✔️					
-A0272	Pảo lú lẻaqbūa hóa jí na sa sảq da.	My neighbors are parents of 3.		✔️	✔️					
+A0272	Pảo lú lẻaqbūa nháoa jí na sa sảq da.	My neighbors are parents of 3.		✔️	✔️					
 A0273	Pảı pójī lẻaqbūa jí da.	My neighbors are friends of mine.		✔️	✔️					
 A0276	Tảq mảı súq ba.	Love yourself.		✔️	❌					
 A0279	Mả mủıdūa súq shú «tủa» moq.	"Do you understand the word ""tua""?"		✔️	❌					
-A0282	Mả pảı hó mí Lỉy moq.	Is he friends with Lee?		✔️	❌					
-A0283	Mỏaq súq hı lủ rảq hóa hoı chảq moq.	What do you remember of that day?		!	✔️					
+A0282	Mả pảı nháo mí Lỉy moq.	Is he friends with Lee?		✔️	❌					
+A0283	Mỏaq súq hı lủ rảq nháoa hoı chảq moq.	What do you remember of that day?		!	✔️					
 A0286	Mả jẻı súq mí Lỉy moq.	Are you Lee?		✔️	❌					
-A0291	Ní pa mẻa lú pảı hóa jí da.	This is one of my friends.		✔️	✔️					
+A0291	Ní pa mẻa lú pảı nháoa jí da.	This is one of my friends.		✔️	✔️					
 A0310	Gảq fả jí súq Méhīkōgūa nha.	I promise to go with you to Mexico.			?					
 A0311	Hỉa ní moq.	What is this?			❌					
 A0312	Mả chủa shú «Lỉy» súq moq.	"Is ""Lee"" your name?"			✔️					
@@ -500,20 +500,20 @@ A0317	Nỉodē níjāo nỉaı da.	That animal is cute.			❌
 A0320	Sỏqchō súq hı rảı baq shảmū roı baq pỉsō moq.	What's your favorite out of apples and pears?			baq					
 A0323	Dẻq kủq bébē shú «mảmā» ru shú «pảpā» da.	"The baby can say ""mama"" and ""papa""."			✔️					
 A0334	Aỏ tảo moy jí hóq da.	I would have done the same thing.			❌					
-A0337	Pủ dủashō jí lû pỉao Fárāqsēzū da.	I noticed that the French language is complex.			✔️					
+A0337	Pủ dủashō jí lâ pỉao Fárāqsēzū da.	I noticed that the French language is complex.			✔️					
 A0340	Chỏq jí sa pỉanō ru sa gỉtā da.	I use a piano and a guitar.			?					
 A0341	Pỏaq lũı shía da.	The glass has broken.			✔️					
 A0348	Bủ chỏ jí rîe jí baq pủı pỏq da.	I don't like being in the middle of a crowd.								
-A0356	Lẻo tủa sỉ pósūq lỉqpāo súq hó da.	Your mom is trying to get you to pay attention to her.			✔️					
+A0356	Lẻo tủa sỉ pósūq lỉqpāo súq nháo da.	Your mom is trying to get you to pay attention to her.			✔️					
 A0361	Chẻo lủı rủao gú da.	The two have forgiven each other.			✔️					
 A0364	Pảq go tu shỉ nỉaq sa jỏ cảo da.	Every year has four seasons.			❌					
 A0374	Nẻı rı jỏ sóa moq?	Are there nine or four helpers?			✔️					
 A0376	Jảq gỉ Mí Gúhēı Tẻoq da!	Twenty Questions is awesome!			✔️					
 A0379	Sảo nảogūaq Sárālīa da.	Australia is a big island.			?					
-A0382	Sa sủao pa lủ bủ dủa súq hóa da.	There is something important that you don't know.			✔️					
+A0382	Sa sủao pa lủ bủ dủa súq nháoa da.	There is something important that you don't know.			✔️					
 A0383	Sỉachōa tu ba.	Silence!			?					
-A0384	Sẻa hó jìa gûaı hó da.	He will relax after he works.			✔️					
-A0391	Dỉe jí tâogāq mýı réısōı ka.	I hereby suggest we play Go.			✔️					
+A0384	Sẻa nháo jìa gûaı nháo da.	He will relax after he works.			✔️					
+A0391	Dỉe jí tâogāq míy réısōı ka.	I hereby suggest we play Go.			✔️					
 A0407	Pỏjī rı pỏsūq ní bỉo moq.	This cup, is it mine or yours?			✔️					
 A0408	Sủe góıchē jí lî bủ pỉe ja baq bỉrā da.	The doctor asked me not to drink beer.			?					
 A0409	Jảq bủ chỉ jí hóq da.	I don't believe it at all.			✔️					
@@ -524,18 +524,18 @@ A0419	Mả fủı go súq lî nỏaq ja baq Jủqgūo lảı moq.	Is it easy to 
 A0424	Jỉa hảqsūe jí to ro baq gảlōnūeq to baq bảkānūeq.	I will order either chicken or beef, or both.			❌					
 A0425	Hảqbāı jí to ru baq tủzȳ rào níchāq to baq pỉcā rào jỉachāq nha.	I'll cook soup today, and pizza tomorrow.								
 A0426	Dủq pỉe súq to rı baq chảı to baq kảfē moq?	Do you (habitually) drink tea or coffee?			❌					
-A0430	Shảo jí lû kảqgāı sıa rảı jí.	I want nothing to see me.			✔️					
+A0430	Shảo jí lâ kảqgāı sıa rảı jí.	I want nothing to see me.			✔️					
 A0439	Dủ gỉq lẻ hóq da.	That seems improbable.			✔️					
-A0448	Bủ nủo hó dùoı sa fẻ chảq cà jâq jảq nủokūaı hó.	He hasn't slept for five days, causing (him) to be very very tired.		✔️	❌					
+A0448	Bủ nủo nháo dùoı sa fẻ chảq cà jâq jảq nủokūaı nháo.	He hasn't slept for five days, causing (him) to be very very tired.		✔️	❌					
 A0449	Iq shả tâı súq bı hỉoq jí da.	If you win, I'll be proud.			✔️					
 A0461	Chẻo lủaqgāq mí Chảq roı póhō pỉa.	Chang and his sibling play with each other.			✔️					
 A0465	Mủqdōa súq fóq jí ba.	Hand me the phone.								
 A0470	Mả gủo dẻoqsōı pó lâqcāı súq roı pósūq pỉa moq?	Was you and and your sibling being loud an argument?			tue					
-A0473	Tu lủ sỉ hóa hoı kỉq pa chỏ máq da.	All those who watched the aforementioned movie liked it.			✔️					
-A0474	Tu sï hóa hoı kỉq pa chỏ máq da.	All those who watched the aforementioned movie liked it.			✔️					
+A0473	Tu lủ sỉ nháoa hoı kỉq pa chỏ máq da.	All those who watched the aforementioned movie liked it.			✔️					
+A0474	Tu sï nháoa hoı kỉq pa chỏ máq da.	All those who watched the aforementioned movie liked it.			✔️					
 A0476	Mả fỉeq ku súq ní moq.	Is it you who created this?			✔️					
-A0477	Chủq hó ku sa shảmū da	It's an apple that he ate.								
-A0480	Mả chỉ súq jêı hó mí Chảq moq?	Do you think he is Chang?								
+A0477	Chủq nháo ku sa shảmū da	It's an apple that he ate.								
+A0480	Mả chỉ súq jêı nháo mí Chảq moq?	Do you think he is Chang?								
 A0483	Nỏ ní kủqtōaı Tóaqzū da.	This sentence is in Toaq.								
 A0489	Mủı go hoı tỏa sa gủ da.	That word has two meanings.								
 A0490	Nỉqdāo hı rảı moq.	What's new?								
@@ -551,7 +551,7 @@ A0529	Tỉ pósūq pảo hı rảı moq.	Where are your parents?
 A0535	uủsōnā mí Lỉsā da.	Lisa is American.								
 A0544	Sa pỏq bı lảo jí tî póq da.	There's some people I'm waiting for								
 A0546	Bủ tủı súq tóqfūa ba.	Don't sit on the table.				✔️				
-A0557	Kỉaqtōe hó póhō da.	He cut his hair.								
+A0557	Kỉaqtōe nháo póhō da.	He cut his hair.								
 A0574	Tảodūa gủsīoqfā súq, mả jẻo moq.	You know how to bike, don't you?				✔️				
 A0580	Jẻo dủa jí dûa súq co rảı da.	I do know how much you know.								
 A0593	Chỉa jí lî sỏa súq ja da.	I need your help.		✔️						
@@ -561,17 +561,17 @@ A0705	Jảq lủaı hoı lủa da.	That story is very funny.
 A0714	Sỏq sảo ní jío nïe ní dỏaq da.	This is the biggest building in the city.								
 A0716	Pủ tủa tỉ súq hoı kủe hı moq.	Where did you put that book?								
 A0725	Tỉ pójī lỉqfū úsōnāgūa da.	My daughter is in the United States.								
-A0729	Chỏ jí ke rëo pósūq sủetā hóa da.	I like the color of your sweater.								
+A0729	Chỏ jí ke rëo pósūq sủetā nháoa da.	I like the color of your sweater.								
 A0738	Mả bủ nâqfū sa rảı súq moq.	Do you not have any sons?								
 A0752	Bủ dủa súq tîo dẻ súq da.	You don’t know how beautiful you are.	✔️							
-A0755	Bủ dủa súq tîopūı mýı da.	You don’t know how many we are.	✔️							
+A0755	Bủ dủa súq tîopūı míy da.	You don’t know how many we are.	✔️							
 A0835	Keo háq bı, chỏ tu máq da!	But as for the food, everyone liked it!								
 A0843	Mả hỉaq pảı súq moq.	Do you have few friends?								
 A0895	Kỏe mảı jí súq tuq pỏq da.	I choose you, out of all people, to love.								
 A0896	Kỏe rủaq pũ jí bû hóq da.	I chose to declare that it is false.								
 A0897	Kỏe rủaq jĩa jí jêo hóq da.	I chode to declare that it is true.								
 A0901	Kủaı pủagōaı jí áq da.	I want to massage myself.								
-A0939	Lỏı hó baq bủ sủq da.	They hate people who aren't you.		✔️						
+A0939	Lỏı nháo baq bủ sủq da.	They hate people who aren't you.		✔️						
 A0945	Bủe pójī nủotōq sa pủı rỉq lỉao da.	Many green fungi live in my mattress.								
 A0946	Kủoı shủeq ní rïoq baq rỉqchāı da.	This type of green tea is less bitter.								
 A0947	Kủoı sỏe ní rïoq baq kảfē da.	This type of coffee is less sour.								
@@ -581,14 +581,14 @@ A0967	Bủ kỉu rỉudōa baq fủq të gẻı da.	An article of clothing which
 A0968	Mủoq ní baq chủaı nỏaı roı baq kẻaq dủaobōe da.	This is made of frozen milk and salty cookies.								
 A0969	Nẻo sa pủı shỉapōaqsē ní kỏıtīeq da.	Many pieces of broken glass are on this walking way.								
 A0971	Dủı sẻakūaı jí lî fả ja bíajīo da.	I am too exhausted to go to hospital.								
-A0982	Mả nỉ tẻaqrīaı lú nảı jỏaı súq hóa moq.	Is it this bra that you're searching for now?								
+A0982	Mả nỉ tẻaqrīaı lú nảı jỏaı súq nháoa moq.	Is it this bra that you're searching for now?								
 A0990	Bủ tâq nảosīqtūa súq nìe ní hẻqchūo ba.	Do not bathe yourself in this container.								
 A0992	Chủfāq tủa tỉ jí súq húıtāojīo ka.	I am taking you to jail.								
 A0994	Ke nủaq bı shỏ jảq gẻaq póhō nỉq fủq da.	As for that night, her new clothing got very dirty.								
-	Dủa hó sıa da.	She knows nothing.								
-	Dủa hó sıa rảı da.	She knows nothing.								
-	Dủa hó sıa pỏ jí da.	She knows nothing about me.								
-	Dủa hó sıa räq jí da.	She knows nothing about me.								
+	Dủa nháo sıa da.	She knows nothing.								
+	Dủa nháo sıa rảı da.	She knows nothing.								
+	Dủa nháo sıa pỏ jí da.	She knows nothing about me.								
+	Dủa nháo sıa räq jí da.	She knows nothing about me.								
 	Pảı jí sıa da.	I have no friends.								
 	Pảı jí sıa rảı da.	I have no friends.								
 	Lỏı jí sıa da.	I don’t hate anyone.								
@@ -602,12 +602,12 @@ A0994	Ke nủaq bı shỏ jảq gẻaq póhō nỉq fủq da.	As for that night,
 	Lẻoshāı jí jìa sıa da.	I will never give up.								
 	Gủo sıa lêoshāı jí da.	I will never give up.								
 	Lẻoshāı múy jìa sıa ba.	We must never give up.								
-	Lẻoshāı mýı jìa sıa ba.	We must never give up.								
-	Mả hủogāı súq sıa küq jí hóa moq.	Did you hear nothing I said?								
-	Mả hủogāı súq sıa lủ kủq jí hóa moq.	Did you hear nothing I said?								
+	Lẻoshāı míy jìa sıa ba.	We must never give up.								
+	Mả hủogāı súq sıa küq jí nháoa moq.	Did you hear nothing I said?								
+	Mả hủogāı súq sıa lủ kủq jí nháoa moq.	Did you hear nothing I said?								
 	Mả tảochō súq sıa moq.	Is there nothing you enjoy doing?								
 	Mả jảı súq rào sıa moq.	Are you never happy?								
-	Mả fẻı hó rào sıa moq.	Are they never angry?								
+	Mả fẻı nháo rào sıa moq.	Are they never angry?								
 	Mảı sa lỉq sıa nảq da.	Some women don’t love any men.								
 	Mảı sa nảq sıa lỉq da.	Some men don’t love any women.								
 	Lỏı sıa tu rẻq da.	No one hates everyone.								
@@ -623,10 +623,10 @@ A0994	Ke nủaq bı shỏ jảq gẻaq póhō nỉq fủq da.	As for that night,
 	Mảı máy tu mỉe ba.	We should love all living things.								
 	Jỏe tu sa rảı da.	Everyone is good at something.								
 	Nỉeq tu sa rảı da.	Everyone is poor at something.								
-	Dủa hó tu da!	She knows everything!								
+	Dủa nháo tu da!	She knows everything!								
 	Dủa jí tu pỏ súq da.	I know everything about you.								
 	Kủaı jí dûa ja tu pỏ ní pỉo da.	I want to know everything about this rock.								
-	Kủaı jí dûa ja tu pỏ hóe da.	I want to know everything about the sun.								
+	Kủaı jí dûa ja tu pỏ nháoe da.	I want to know everything about the sun.								
 	Kủaı jí dûa ja tu pỏ míao da.	I want to know everything about the moon.								
 	Kảqsī jí míao rào tu shỉ nủaq da.	I look at the moon every night.								
 	Mảı tu shỉ rẻq shí rẻq ba.	All humans should love themselves.								
@@ -651,16 +651,16 @@ A0994	Ke nủaq bı shỏ jảq gẻaq póhō nỉq fủq da.	As for that night,
 	Chảocāq jí ke tẻasāorā da!	I ride the dinosaur!								
 	Pảı jí ke pỏq.	I’m friends with the person.								
 	Pảı ke pỏq jí.	The person is friends with me.								
-	Shảo dủa jí ke düa súq hóa da.	I want to know what you know.								
-	Shảo bỏ jí ke bö súq hóa da.	I want to own what you own.								
+	Shảo dủa jí ke düa súq nháoa da.	I want to know what you know.								
+	Shảo bỏ jí ke bö súq nháoa da.	I want to own what you own.								
 	Tảo súq ke täo jí ba.	Do what I do.								
-	Kẻo bủ kủq súq ke küq jí hóa ba.	But don’t say what I say.								
+	Kẻo bủ kủq súq ke küq jí nháoa ba.	But don’t say what I say.								
 	Dủa súq ke söq sủao da.	You know the most important thing.								
 	Hỉa ke söq sủao moq.	What’s the most important thing?								
-	Chỉ jí ke chï hó hóa da.	I believe what they believe.								
+	Chỉ jí ke chï nháo nháoa da.	I believe what they believe.								
 	Keo háq bı, jảq gỉ máq da!	But as for the food, it was very good!								
-	Keo líq bı, jỏe sủaq hó da.	But as for the woman, she is a good singer.								
-	Keo náq bı, nỉeq sủaq hó da.	But as for the man, he is not a good singer.								
+	Keo líq bı, jỏe sủaq nháo da.	But as for the woman, she is a good singer.								
+	Keo náq bı, nỉeq sủaq nháo da.	But as for the man, he is not a good singer.								
 	Keo jỏe sủaq súq da!	But you’re a good singer!								
 	Keo bủ lỉe jí jôe sủaq ja da.	But I don’t feel like a good singer.								
 	Keo sủaq súq dẽ pũjūı.	But you sang beautifully just now.								
@@ -683,17 +683,17 @@ A0994	Ke nủaq bı shỏ jảq gẻaq póhō nỉq fủq da.	As for that night,
 	Sủaq co rảı bù dẻ moq.	How many sang non-beautifully?								
 	Sủaq co bù dẻ moq.	How many sang non-beautifully?								
 	Sủaq co rẻq bù dẻ moq.	How many people sang non-beautifully?								
-	Dủa mýı pâı súq co rảı da.	We know how many friends you have.								
-	Dủa mýı pâı súq co da.	We know how many friends you have.								
-	Dủa mýı fîeq súq co lẻa da.	We know how many pieces of art you’ve created.								
-	Dủa mýı fîeq súq co kủe da.	We know how many books you’ve written.								
-	Dủa mýı pâı súq co päı jí da.	We know how many of my friends are your friends.								
-	Dủa mýı sûaq co rảı dè da.	We know how many sang beautifully.								
-	Dủa mýı sûaq co dè da.	We know how many sang beautifully.								
-	Dủa mýı sûaq co rẻq dè da.	We know how many people sang beautifully.								
-	Dủa mýı sûaq co rảı bù dẻ da.	We know how many sang non-beautifully.								
-	Dủa mýı sûaq co bù dẻ da.	We know how many sang non-beautifully.								
-	Dủa mýı sûaq co rẻq bù dẻ da.	We know how many people sang non-beautifully.								
+	Dủa míy pâı súq co rảı da.	We know how many friends you have.								
+	Dủa míy pâı súq co da.	We know how many friends you have.								
+	Dủa míy fîeq súq co lẻa da.	We know how many pieces of art you’ve created.								
+	Dủa míy fîeq súq co kủe da.	We know how many books you’ve written.								
+	Dủa míy pâı súq co päı jí da.	We know how many of my friends are your friends.								
+	Dủa míy sûaq co rảı dè da.	We know how many sang beautifully.								
+	Dủa míy sûaq co dè da.	We know how many sang beautifully.								
+	Dủa míy sûaq co rẻq dè da.	We know how many people sang beautifully.								
+	Dủa míy sûaq co rảı bù dẻ da.	We know how many sang non-beautifully.								
+	Dủa míy sûaq co bù dẻ da.	We know how many sang non-beautifully.								
+	Dủa míy sûaq co rẻq bù dẻ da.	We know how many people sang non-beautifully.								
 	Shỉ súhū da.	The pig is one in number.								
 	Shỉ ní sủhū da.	This pig is one in number.								
 	Shỉ sủhū ní da.	This is one pig.								
@@ -751,7 +751,7 @@ A0994	Ke nủaq bı shỏ jảq gẻaq póhō nỉq fủq da.	As for that night,
 	Hẻınēı cíe da.	The fish are nineteen in number.								
 	Hẻınēı ní cỉe da.	These fish are nineteen in number.								
 	Hẻınēı cỉe ní da.	These are nineteen fish.								
-	Gủhēı hóbī da.	The sheep are twenty in number.								
+	Gủhēı nháobī da.	The sheep are twenty in number.								
 	Gủhēı ní hỏbī da.	These sheep are twenty in number.								
 	Gủhēı hỏbī ní da.	These are twenty sheep.								
 	Je, dủa ku jí jîa hı da.	I’m the one who knows what will happen.								
@@ -761,9 +761,9 @@ A0994	Ke nủaq bı shỏ jảq gẻaq póhō nỉq fủq da.	As for that night,
 	Je, dủa jí ku pû hı da.	What I know is what happened.								
 	Je, dủa jí ku kûı hı da.	What I know is what the reason is.								
 	Mảı jí ku súq da.	You’re the one I love.								
-	Mảı jí ku hó da.	He’s the one I love.								
+	Mảı jí ku nháo da.	He’s the one I love.								
 	Mảı ku jí súq da.	I’m the one who loves you.								
-	Mảı ku jí hó da.	I’m the one who loves him.								
+	Mảı ku jí nháo da.	I’m the one who loves him.								
 	Fỉeq jí ku ní da.	This is what I invented.								
 	Fỉeq jí ku níjāo da.	That is what I invented.								
 	Fỉeq súq ku ní da.	This is what you invented.								
@@ -779,29 +779,29 @@ A0994	Ke nủaq bı shỏ jảq gẻaq póhō nỉq fủq da.	As for that night,
 	Tủa ku míy hóq da.	It is us who caused that.								
 	Tủa ku múy hóq da.	It is us who caused that.								
 	Shảo jí tou hóq da.	That’s all I want.								
-	Shảo hó tou hóq da.	That’s all she wants.								
+	Shảo nháo tou hóq da.	That’s all she wants.								
 	Shảo tou jí hóq da.	I’m the only one who wants this.								
-	Shảo tou hó hóq da.	She’s the only one who wants this.								
+	Shảo tou nháo hóq da.	She’s the only one who wants this.								
 	Bủ shâo jí tou hóq da.	That’s not all I want.								
-	Bủ shâo hó tou hóq da.	That’s not all she wants.								
+	Bủ shâo nháo tou hóq da.	That’s not all she wants.								
 	Bủ shâo tou jí hóq da.	I’m not the only one who wants that.								
-	Bủ shâo tou hó hóq da.	She’s not the only one who wants that.								
+	Bủ shâo tou nháo hóq da.	She’s not the only one who wants that.								
 	Bủ shảo jí tou hóq da.	That’s the only thing I don’t want.								
-	Bủ shảo hó tou hóq da.	That’s the only thing she doesn’t want.								
+	Bủ shảo nháo tou hóq da.	That’s the only thing she doesn’t want.								
 	Bủ shảo tou jí hóq da.	I’m the only one who doesn’t want that.								
-	Bủ shảo tou hó hóq da.	She’s the only one who doesn’t want that.								
+	Bủ shảo tou nháo hóq da.	She’s the only one who doesn’t want that.								
 	Sủaq jí tou máq da.	I’m only singing this.								
-	Sủaq hó tou máq da.	They’re only singing this.								
+	Sủaq nháo tou máq da.	They’re only singing this.								
 	Sủaq tou jí máq da.	I’m the only one who’s singing this.								
-	Sủaq tou hó máq da.	They’re the only one who’s singing this.								
+	Sủaq tou nháo máq da.	They’re the only one who’s singing this.								
 	Bủ sûaq jí tou máq da.	This isn’t the only thing I’m singing.								
-	Bủ sûaq hó tou máq da.	This isn’t the only thing they’re singing.								
+	Bủ sûaq nháo tou máq da.	This isn’t the only thing they’re singing.								
 	Bủ sûaq tou jí máq da.	I’m not the only one who’s singing this.								
-	Bủ sûaq tou hó máq da.	They’re not the only one who’s singing this.								
+	Bủ sûaq tou nháo máq da.	They’re not the only one who’s singing this.								
 	Bủ sủaq jí tou máq da.	This is the only thing I’m not singing.								
-	Bủ sủaq hó tou máq da.	This is the only thing they’re not singing.								
+	Bủ sủaq nháo tou máq da.	This is the only thing they’re not singing.								
 	Bủ sủaq tou jí máq da.	I’m the only one who’s not singing this.								
-	Bủ sủaq tou hó máq da.	They’re the only one who’s not singing this.								
+	Bủ sủaq tou nháo máq da.	They’re the only one who’s not singing this.								
 	Mảı jí tou súq da.	You’re the only one I love.								
 	Gảq jí súq nha.	I promise I’ll join you.								
 	Gảq hảo jí súq nha.	I promise I’ll join you in that.								
@@ -866,25 +866,25 @@ A0994	Ke nủaq bı shỏ jảq gẻaq póhō nỉq fủq da.	As for that night,
 	Dủa mí Caılū moy hóq da.	Cailu knows that, too.								
 	Dủa mí Hủaq moy hóq da.	Huaq knows that, too.								
 	Dủa mí ảshȳ moy hóq da.	Ash knows that, too.								
-	Pảı moy mí Hỏaqgīo hó da.	Hoaqgio, too, is friends with them.								
-	Pảı moy mí Cỉqshȳ hó da.	Ciqshy, too, is friends with them.								
-	Pảı moy mí Caılū hó da.	Cailu, too, is friends with them.								
-	Pảı moy mí Hủaq hó da.	Huaq, too, is friends with them.								
-	Pảı moy mí ảshȳ hó da.	Ash, too, is friends with them.								
-	Pảı mí Hỏaqgīo moy hó da.	Hoaqgio is friends with them, too.								
-	Pảı mí Cỉqshȳ moy hó da.	Ciqshy is friends with them, too.								
-	Pảı mí Caılū moy hó da.	Cailu is friends with them, too.								
-	Pảı mí Hủaq moy hó da.	Huaq is friends with them, too.								
-	Pảı mí ảshȳ moy hó da.	Ash is friends with them, too.								
+	Pảı moy mí Hỏaqgīo nháo da.	Hoaqgio, too, is friends with them.								
+	Pảı moy mí Cỉqshȳ nháo da.	Ciqshy, too, is friends with them.								
+	Pảı moy mí Caılū nháo da.	Cailu, too, is friends with them.								
+	Pảı moy mí Hủaq nháo da.	Huaq, too, is friends with them.								
+	Pảı moy mí ảshȳ nháo da.	Ash, too, is friends with them.								
+	Pảı mí Hỏaqgīo moy nháo da.	Hoaqgio is friends with them, too.								
+	Pảı mí Cỉqshȳ moy nháo da.	Ciqshy is friends with them, too.								
+	Pảı mí Caılū moy nháo da.	Cailu is friends with them, too.								
+	Pảı mí Hủaq moy nháo da.	Huaq is friends with them, too.								
+	Pảı mí ảshȳ moy nháo da.	Ash is friends with them, too.								
 	Mỉu mí Hỏaqgīo gî maq da.	Hoaqgio thinks it’s good.								
 	Mỉu mí Hỏaqgīo gî moy máq da.	Hoaqgio thinks that it, too, is good.								
 	Mỉu moy mí Hỏaqgīo gî máq da.	Hoaqgio, too, thinks that it is good.								
 	Mỉu jí gî máq da.	I think it’s good.								
 	Mỉu jí gî moy máq da.	I think that it, too, is good.								
 	Mỉu moy jí gî máq da.	I, too, think that it is good.								
-	Mỉu hó gî máq da.	They think it is good.								
-	Mỉu hó gî moy máq da.	They think that it, too, is good.								
-	Mỉu moy hó gî máq da.	They, to, think that it is good.								
+	Mỉu nháo gî máq da.	They think it is good.								
+	Mỉu nháo gî moy máq da.	They think that it, too, is good.								
+	Mỉu moy nháo gî máq da.	They, to, think that it is good.								
 	Mỉu púqhō gî máq da.	They think it is good.								
 	Mỉu púqhō gî moy máq da.	They think that it, too, is good.								
 	Mỉu moy púqhō gî máq da.	They, too, think that it is good.								
@@ -898,3 +898,829 @@ A0994	Ke nủaq bı shỏ jảq gẻaq póhō nỉq fủq da.	As for that night,
 	Mả mỉu mí ảshȳ gî máq moq.	Does Ash think that it is good?								
 	Mả mỉu mí Shỉ gî máq moq.	Does Shi think that it is good?								
 	Mả mỉu mí Gủ gî máq moq.	Does Gu think that it is good.								
+	Mỉ Hỏaqgīo jí da.	I’m Hoaqgio.								
+	Mỉ Hỏemāı jí da.	I’m Hoemai.								
+	Mỉ Mỏılūq jí da.	I’m Moiluq.								
+	Mỉ Tảq jí da.	I’m Taq.								
+	Mỉ Lỉq jí da.	I’m Liq.								
+	Mỉ Gào Híu jí da.	I’m Gào Híu.								
+	Mỉ Mảgī jí da.	I’m Magi.								
+	Mỉ Mảı jí da.	I’m Mai.								
+	Mỉ Mảıkū jí da.	I’m Maiku.								
+	Mỉ Shỉ jí da.	I’m Shi.								
+	Mỉ Gủ jí da.	I’m Gu.								
+	Zảo jí sa mỉ Hỏaqgīo da.	I know someone named Hoaqgio.								
+	Zảo jí sa mỉ Hỏemāı da.	I know someone named Hoemai.								
+	Zảo jí sa mỉ Mỏılūq da.	I know someone named Moiluq.								
+	Zảo jí sa mỉ Tảq da.	I know someone named Taq.								
+	Zảo jí sa mỉ Lỉq da.	I know someone named Liq.								
+	Zảo jí sa mỉ Gào Híu da.	I know someone named Gào Híu.								
+	Zảo jí sa mỉ Mảgī da.	I know someone named Magi.								
+	Zảo jí sa mỉ Mảı da.	I know someone named Mai.								
+	Zảo jí sa mỉ Mảıkū da.	I know someone named Maiku.								
+	Zảo jí sa mỉ Shỉ da.	I know someone named Shi.								
+	Zảo jí sa mỉ Gủ da.	I know someone named Gu.								
+	Mủı hı shú nủaı moq.	What does the word “nuai” mean?								
+	Mủı hı shú gỏa moq.	What does the word “goa” mean?								
+	Mủı hı shú lảo moq.	What does the word “lao” mean?								
+	Mủı hı shú shủaı moq.	What does the word “shuai” mean?								
+	Mủı hı shú gỏaı moq.	What does the word “goai” mean?								
+	Mủı hı shú dảqdēkī moq.	What does the word “daqdeki” mean?								
+	Mủı hı shú pảıgīq moq.	What does the word “paigiq” mean?								
+	Mủı hı shú nảochēoq moq.	What does the word “naocheoq” mean?								
+	Mủı hı shú củakūq moq.	What does the word “cuakuq” mean?								
+	Mủı hı shú dủashō moq.	What does the word “duasho” mean?								
+	Mả zảo súq shú dảqdēkī moq.	Do you know the word “daqdeki”?								
+	Mả zảo súq shú rủogī moq.	Do you know the word “ruogi”?								
+	Mả zảo súq shú bỏu moq.	Do you know the word “bou”?								
+	Mả zảo súq shú jỏenē moq.	Do you know the word “joene”?								
+	Mả zảo súq shú fỷlȳshȳ moq.	Do you know the word “fylyshy”?								
+	Mả zảo súq shú nẻkōpā moq.	Do you know the word “nekopa”?								
+	Tỉ tu shỉ áq da.	Everyting is at itself.								
+	Mảı tu shỉ rẻq áq ba.	Every human should love themselves.								
+	Mảı tu shỉ pỏq áq ba.	Every person should love themselves.								
+	Bủ chỏ sıa shỉ rẻq áq ba.	No human should fail to like themselves.								
+	Bủ chỏ sıa shỉ pỏq áq ba.	Nobody should fail to like themselves.								
+	Rảo tu shỉ áq ba.	Everything is simultaneous with itself.								
+	Kủq nháo sa áq da.	They said something to themselves.								
+	Lỏı sıa rẻq áq ba.	No human should hate themselves.								
+	Lỏı sıa pỏq áq ba.	No one should hate themselves.								
+	Jủoq lôı sıa rẻq áq da.	No human should hate themselves.								
+	Jủoq lôı sıa pỏq áq da.	No one should hate themselves.								
+	Bủ lôı sa shỉ rẻq áq ba.	No human should hate themselves.								
+	Bủ lôı sa shỉ pỏq áq ba.	No one should hate themselves.								
+	Mảı mí Shỉ áq da.	Shi loves herself.								
+	Mảı mí Gủ áq da.	Gu loves herself.								
+	Tủa jảı jí áq da.	I made myself happy.								
+	Tủa nủo jí áq da.	I put myself to sleep.								
+	Tủa shảı jẻo jí áq hóq da.	I made myself stop doing it.								
+	Tủa pảı jí áq nháo da.	I made myself a friend of his.								
+	Tủa pảıgīq jí áq nháo da.	I made myself an enemy of his.								
+	Mảı gú lỉq cheq da.	The two women love each other.								
+	Mả mảı gú lỉq cheq moq.	Do the two women love each other?								
+	Dảqmīq mâı gú lỉq cheq moq.	The two women love each other eternally.								
+	Mảı gú nảq cheq da.	The two men love each other.								
+	Mả mảı gú nảq cheq moq.	Do the two men love each other?								
+	Dảqmīq mâı gú nảq cheq moq.	The two men love each other eternally.								
+	Mảı náq roı líq cheq da.	The man and the woman love each other.								
+	Mả mảı náq roı líq cheq moq.	Do the man and the woman love each other?								
+	Dảqmīq mâı náq roı líq cheq moq.	The man and the woman love each other eternally.								
+	Mỉu gỉ gú cheq da.	The two approve of one another.								
+	Mỉu gỉ ní gủ cheq da.	These two approve of one another.								
+	Mỉu gỉ sáq cheq da.	The three approve of one another.								
+	Mỉu gỉ ní sảq cheq da.	These three approve of one another.								
+	Shảo jảı jó cheq da.	The four want one another to be happy.								
+	Shảo jảı ní jỏ cheq da.	These four want one another to be happy.								
+	Shảo cẻaı fé cheq da.	The five want one another to suffer.								
+	Shảo cẻaı ní fẻ cheq da.	These five want one another to suffer.								
+	Chỉ mủaq cí cheq da.	The six believed each other to be dead.								
+	Chỉ mủaq ní cỉ cheq da.	These six believed each other to be dead.								
+	Chỉ mỉe díaı cheq da.	The seven believed each other to be alive.								
+	Chỉ mỉe ní dỉaı cheq da.	These seven believed each other to be alive.								
+	Tủa jẻaq shảogī róaı da.	The eight made one another more virtuous.								
+	Tủa jẻaq shảogī ní rỏaı da.	These eight made one another more virtuous.								
+	Tủa jẻaq shảohūı néı da.	The nine made one another more evil.								
+	Tủa jẻaq shảohūı ní nẻı da.	These nine made one another more evil.								
+	Rảq héı cheq da.	The ten things relate to one another.								
+	Rảq ní hẻı cheq da.	These ten things relate to one another.								
+	Bủ rảq héıshī cheq da.	The eleven things are unrelated to one another.								
+	Bủ rảq ní hẻıshī cheq da.	These elevent things are unrelated to one another.								
+	Bủ râq héıgū cheq da.	The twelve things don’t all relate to one another.								
+	Bủ râq ní hẻıgū cheq da.	These twelve things don’t all relate to one another.								
+	Mảı tuq rẻq cheq ba.	All humans should love each other.								
+	Mảı tuq pỏq cheq ba.	All people should love each other.								
+	Pảı tuq rẻq cheq ba.	All humans should be friends with one another.								
+	Pảı tuq pỏq cheq ba.	All people should be friends with one another.								
+	Chỏ tuq rẻq cheq ba.	All humans should like one another.								
+	Chỏ tuq pỏq cheq ba.	All people should like one another.								
+	Kủaı sỏa tuq rẻq cheq ba.	All humans should want to help one another.								
+	Kủaı sỏa tuq pỏq cheq ba.	All people should want to help one another.								
+	Shảo gỉlīe tuq rẻq cheq ba.	All humans should want good things for each other.								
+	Shảo gỉlīe tuq pỏq cheq ba.	All people should want good things for each other.								
+	Shảo ỏkēı tuq cheq ba.	Everyone should want each other to be okay.								
+	Lẻ to ru shíkō to gúkō da.	The first and second thing are both likely.								
+	Lẻ to ru nîeq sủaq jí to dûa nháo róu da.	It’s likely that I’m poor at singing and that they know it.								
+	Lẻ to ru bû mảı nháo jí, to mâı fúy ku súq da.	It’s likely that they don’t love me, and that you’re the one they love.								
+	Pảı jí to ru nháo to pónhāo pảı da.	I’m friends with them and with their friends.								
+	Chỏ jí to ru nháo to pónhāo pảı da.	I like them and their friends.								
+	Zảo jí to ru nháo to pónhāo pảı da.	I know them and their friends.								
+	Jỏe nỏaq to ru míy to súo da.	You guys and us are both good at reading.								
+	Jỏe shỏ pảı to ru míy to súo da.	You guys and us are both good at making friends.								
+	Jỏe chỏq to ru míy to súo tóaqzū da.	You guys and us are both good at using Toaq.								
+	Jỏe shảı pảı to ru míy to súo da.	You guys and us are both good at losing friends.								
+	Jỏe kảıfīeq to ru míy to súo da.	You guys and us are both good at writing.								
+	Nỉeq nỏaq to ru míy to súo da.	You guys and us are both bad at reading.								
+	Nỉeq shỏ pảı to ru míy to súo da.	You guys and us are both bad at making friends.								
+	Nỉeq chỏq to ru míy to súo tóaqzū da.	You guys and us are both bad at using Toaq.								
+	Nỉeq sủaq to ru míy to súo da.	You guys and us are both bad at singing.								
+	Nỉeq kảıfīeq to ru míy to súo da.	You guys and us are both good at writing.								
+	Chỏq súq to ra ní to níjāo ba.	Use either this or that (or both).								
+	Kủq súq to ra shú hỉo to shú shảıhīo ba.	Say either “hello” or “goodbye” (or both).								
+	Rủaq súq to ra nhô hóq to bû hóq da.	Say that it’s true or say that it’s false (or both).								
+	To ra rủaq nhỏ súq hóq to rủaq bủ súq hóq ba.	Either say it’s true or say it’s false (or both).								
+	Pảı nháo to ra mí Shỉ to mí Gủ da.	They’re friends with either Shi or Gu (or both).								
+	Pảı nháo mí Shỉ ra mí Gủ da.	They’re friends with either Shi or Gu (or both).								
+	Chỏq jí baq nảokāıchūo ra baq lỏhākāıcūo da.	I’ll use a pen or a pencil (or both).								
+	Chỏq jí baq dảqkēa ra baq dảqdēkī da.	I’ll use a clock or a stopwatch (or both).								
+	Kủı hóq mâı jí súq cy, ra pâı jí súq da.	It’s either because I love you or because we’re friends (or both).								
+	Kủı hóq sûa hóq sa cy, ra shâo sa hóq da.	It’s either because it was necessary or because someone wanted it (or both).								
+	Nhỏ ra bủ tu shỉ da.	Everything is true or false (or both).								
+	Dẻo ra kỏaq tu shỉ rẻq da.	Every human is a child or an adult (or both).								
+	Dẻo ra kỏaq tu shỉ hẻqfā da.	Every elf is a child or an adult (or both).								
+	Shảo sıa hóq da.	No one wants that to happen.								
+	Mỉu sıa gî hóq da.	No one thinks that’s good.								
+	Mỉu gỉ sıa hóq da.	No one thinks that’s good.								
+	Bủ shảo sıa hóq da.	No one doesn’t want that.								
+	Bủ mỉu sıa gî hóq da.	No one doesn’t think that’s good.								
+	Bủ mỉu gỉ sıa hóq da.	No one doesn’t think that’s good.								
+	Tỉ jí tu da.	I’m everywhere.								
+	Pỏq tu shỉ rẻq da.	Every human is a person.								
+	Bủ rêq tu shỉ pỏq da.	Not every person is a human.								
+	Chỏq súq ní dảqdēkī mîeq ja hóq ba.	Use this stopwatch to measure it.								
+	Chỏq súq ní tủoqdēkī mîeq ja hóq ba.	Use this scale to measure it.								
+	Chỏq súq ní bủaıdēkī mîeq ja hóq ba.	Use this ruler to measure it.								
+	Chỏq súq ní kỉlōdēkī mîeq ja hóq ba.	Use this balance to measure it.								
+	Chỏq súq ní lỏqdēkī mîeq ja hóq ba.	Use this thermometer to measure it.								
+	Mỉeq súq hóq chùochā ní dảqdēkī ba.	Use this stopwatch to measure it.								
+	Mỉeq súq hóq chùochā ní tủoqdēkī ba.	Use this scale to measure it.								
+	Mỉeq súq hóq chùochā ní buaıdēkī ba.	Use this ruler to measure it.								
+	Mỉeq súq hóq chùochā ní kỉlōdēkī ba.	Use this balance to measure it.								
+	Mỉeq súq hóq chùochā ní lỏqdēkī ba.	Use this thermometer to measure it.								
+	Mỉeq súq hóq chùochā sa mẻa ní lỏqdēkī ba.	Use one of these thermometers to measure it.								
+	Tỉ baq kảtō pójī gỏaq da.	There are cats in my garden.								
+	Tỉ baq kủnē pójī gỏaq da.	There are dogs in my garden.								
+	Kủq pù jí mó «Kủaq ka.» teo da.	I said “Thanks”.								
+	Kủq jìa jí mó «Kủaq ka.» teo da.	I’ll say “Thanks”.								
+	Kủq shè hóq jí mó «Kủaq ka.» teo da.	If so, I’ll say “Thanks”.								
+	Kủq shè bû hóq cy jí mó «Kủaq da.» teo da.	If not, I’ll say “Thanks”.								
+	Tỉ sa sảq dẻ rủa pójī gỏaq da.	There are three beautiful flowers in my garden.								
+	Tỉ sa jỏ fỉe kẻqnīu pójī gỏaq da.	There are four ugly weeds in my garden.								
+	Tỉ sa fẻ nỉu pójī gỏaq da.	There are five plants in my garden.								
+	Fẻ níu tï pójī gỏaq da.	There are exactly five plants in my garden.								
+	Cỉ ke küı hûı hóq da.	There are six reasons why that’s bad.								
+	Cỉ ke küı lôı jí nháo da.	There are six reasons why I hate him.								
+	Chỉ jí sa cỉ da.	I believe six things.								
+	Cỉ dáı fảq da.	One of six things will happen.								
+	Dỉaı dáı fảq da.	One of seven things will happen.								
+	Shảo jí sa dỉaı da.	I want seven things.								
+	Shảo nháo sa rỏaı da.	They want eight things.								
+	Rỏaı náı gủaı da.	There are eight people working right now.								
+	Rỏaı pú gủaı da.	There are eight people who were working.								
+	Rỏao jía gủaı da.	There are eight people who will be working.								
+	Nẻı ke tï pójī gỏaq da.	There are nine things in my garden.								
+	Nẻı ke kảtō tï pójī gỏaq da.	There are nine cats in my garden.								
+	Nẻı ke cỉe chüq jí hóa rào níchāq da.	I ate exactly nine fish today.								
+	Nẻı ke cỉe chúq nháo hóa rào púchāq da.	They ate exactly nine fish yesterday.								
+	Hẻı shúao käqgāı jí hóa da.	I see exactly ten birds.								
+	Kảqgāı jí sa hẻı shủao da.	I see ten birds.								
+	Hẻı cá da.	There are ten causes.								
+	Hẻı kúı da.	There are ten consequences.								
+	Rảo hóq sa hẻı da.	It was simultaneous with ten other things.								
+	Hẻı sıa gủ da.	Noting that are two in number are ten in number.								
+	Hẻı póq mäı jí hóa da.	I love ten people.								
+	Hẻı póq mäı jí da.	Ten people love me.								
+	Pỏq jí da.	I am a person.								
+	Pỏq súq da.	You are a person.								
+	Pỏq nháo da.	They are a person.								
+	Pỏq míy da.	We are people.								
+	Pỏq múy da.	We are people.								
+	Pỏq máy da.	We are people.								
+	Pỏq súo da.	You are people.								
+	Gỉ pỏq jí da.	I am a good person.								
+	Gỉ pỏq súq da.	You are a good person.								
+	Gỉ pỏq nháo da.	They are a good person.								
+	Gỉ pỏq míy da.	We are good people.								
+	Gỉ pỏq múy da.	We are good people.								
+	Gỉ pỏq máy da.	We are good people.								
+	Gỉ pỏq súo da.	You are good people.								
+	Jỉa beı sa da!	Something will happen!								
+	Jỉa sıa da.	Nothing will happen.								
+	Jỉa sıa rảq da.	Nothing relevant will happen.								
+	Jỉa sa pủı rảq da.	Many relevant things will happen.								
+	Jỉa hóq da.	That will happen.								
+	Chỏq jí ke tủoqdēkī.	I used the scale.								
+	Ke tủoqdēkī bı, chỏq jí máq.	As for the scale, I used it.								
+	Chỏq jí ke kỉlōdēkī.	I used the balance.								
+	Ke kỉlōdēkī bı, chỏq jí máq da.	As for the balance, I used it.								
+	Chỏq jí ke lỏqdēkī.	I used the thermometer.								
+	Ke lỏqdēkī bı, chỏq jí máq da.	As for the thermometer, I used it.								
+	Chỏq jí ke dảqdēkī.	I used the stopwatch.								
+	Ke dảqdēkī bı, chỏq jí máq da.	As for the stopwatch, I used it.								
+	Chỏq jí ke bủaıdēkī.	I used the ruler.								
+	Ke bủaıdēkī bı, chỏq jí máq da.	As for the ruler, I used it.								
+	Nủo ke lỉq da.	The woman is sleeping.								
+	Ke lỉq bı, nủo líq da.	As for the woman, she’s sleeping.								
+	Ke lỉq bı, nủo hó da.	As for the woman, she’s sleeping.								
+	Nủo ke nảq da.	The man is sleeping.								
+	Ke nảq bı, nủo náq da.	As for the man, he’s sleeping.								
+	Ke nảq bı, nủo hó da.	As for the man, he’s sleeping.								
+	Nủo ke rẻq da.	The human is sleeping.								
+	Ke rẻq bı, nủo réq da.	As for the human, they’re sleeping.								
+	Ke rẻq bı, nủo hó da.	As for the human, they’re sleeping.								
+	Nủo ke nỉaı da.	The animal is sleeping.								
+	Ke nỉaı bı, nủo níaı da.	As for the animal, they’re sleeping.								
+	Ke nỉaı bı, nủo hó da.	As for the animal, they’re sleeping.								
+	Kủaı jí mâı tu ja da.	I want to be loved by everyone.								
+	Lẻo jí mâı tu ja da.	I’m trying to be loved by everyone.								
+	Shỏ jí mâı tu ja da.	I’m now loved by everyone.								
+	Kủaı jí mâı ja tu da.	I want to love everyone.								
+	Lẻo jí mâı ja tu da.	I’m trying to love everyone.								
+	Shỏ jí mâı ja tu da.	I now love everyone.								
+	Kủaı míy mâı tu ja da.	We want to be loved by everyone.								
+	Lẻo míy mâı tu ja da.	We’re trying to be loved by everyone.								
+	Shỏ míy mâı tu ja da.	We are now loved by everyone.								
+	Kủaı míy mâı ja tu da.	We want to love everyone.								
+	Lẻo míy mâı ja tu da.	We’re trying to love everyone.								
+	Shỏ míy mâı ja tu da.	We now love everyone.								
+	Kủaı jí nûo ja da.	I want to sleep.								
+	Lẻo jí nûo ja da.	I’m trying to sleep.								
+	Shỏ jí nûo ja da.	I fall asleep.								
+	Kủaı míy nûo ja da.	We want to sleep.								
+	Lẻo míy nûo ja da.	We’re trying to sleep.								
+	Shỏ míy nûo ja da.	We fall asleep.								
+	Kủaı jí kâqgāı ja máq da.	I want to see it.								
+	Lẻo jí kâqgāı ja máq da.	I’m trying to see it.								
+	Shỏ jí kâqgāı ja máq da.	Now I see it.								
+	Kủaı míy kâqgāı ja máq da.	We want to see it.								
+	Lẻo jí kâqgāı ja máq da.	We’re trying to see it.								
+	Shỏ míy kâqgāı ja máq da.	Now we see it.								
+	Cả hóq jâı jí na ru mẻo nháo da.	It made me happy and him sad.								
+	Cả hóq jâı jí cy ru mêo nháo da.	It made me happy and him sad.								
+	Cả hóq jâı jí na ra mẻo nháo da.	It makes me happy and/or him sad.								
+	Cả hóq jâı jí cy ra mêo nháo da.	It makes me happy and/or him sad.								
+	Cả hóq jâı jí na ro mẻo nháo da.	It makes me happy or him sad (not both).								
+	Cả hóq jâı jí cy ro mêo nháo da.	It makes me happy or him sad (not both).								
+	Cả hóq jâı jí cy roı mêo nháo da.	It makes me happy and him sad.								
+	Cả hóq jâı jí cy rı mêo nháo moq.	Will it make me happy or him sad?								
+	Rảo gûaı réq cy, nûo jí da.	While the person is working, I sleep.								
+	Rảo nûo jí cy, gûaı réq da.	While I sleep, the person is working.								
+	Rảo gûaı súq cy, nûo jí da.	While you’re working, I sleep.								
+	Rảo nûo jí cy, gûaı súq da.	While I sleep, you’re working.								
+	Rảo gûaı súo cy, nûo jí da.	While you’re all working, I sleep.								
+	Rảo nûo jí cy, gûaı súo da.	While I sleep, you’re all working.								
+	Rảo gûaı líq cy, nûo jí da.	While the woman is working, I sleep.								
+	Rảo nûo jí cy, gûaı líq da.	While I sleep, the woman is working.								
+	Rảo gûaı náq cy, nûo jí da.	While the man is working, I sleep.								
+	Rảo nûo jí cy, gûaı náq da.	While I sleep, the man is working.								
+	Rảo gûaı réq cy, nûo múy da.	While the person is working, we sleep.								
+	Rảo nûo múy cy, gûaı réq da.	While we sleep, the person is working.								
+	Rảo gûaı líq cy, nûo múy da.	While the woman is working, we sleep.								
+	Rảo nûo múy cy, gûaı líq da.	While we sleep, the woman is working.								
+	Rảo gûaı náq cy, nûo múy da.	While the man is working, we sleep.								
+	Rảo nûo múy cy, gûaı náq da.	While we sleep, the man is working.								
+	Rảo nûo jí cy, gûaı náq da.	While I sleep, the man is working.								
+	Rảo gûaı réq cy, nûo míy da.	While the person is working, we sleep.								
+	Rảo nûo míy cy, gûaı réq da.	While we sleep, the person is working.								
+	Rảo gûaı líq cy, nûo míy da.	While the woman is working, we sleep.								
+	Rảo nûo míy cy, gûaı líq da.	While we sleep, the woman is working.								
+	Rảo gûaı náq cy, nûo míy da.	While the man is working, we sleep.								
+	Rảo nûo míy cy, gûaı náq da.	While we sleep, the man is working.								
+	Líq bı, gủaı hó da.	As for the woman, she’s working.								
+	Náq bı, gủaı hó da.	As for the man, he’s working.								
+	Táo bı, gủaı hó da.	As for the do-er, they’re working.								
+	Póq bı, gủaı hó da.	As for the people, they’re working.								
+	Réq bı, gủaı hó da.	As for the people, they’re working.								
+	Pú nủo bı, nảı gủaı hó da.	As for the ones who were sleeping, they’re working now.								
+	Pú sẻa bı, nảı gủaı hó da.	As for the ones who were relaxing, they’re working now.								
+	Chó bı, gủaı hó da.	As for the liker, they’re working.								
+	Kúq bı, gủaı hó da.	As for the talker, they’re talking.								
+	Chóa bı, gủaı hó da.	As for the speaker, they’re talking.								
+	Hoı pỏq bı, gủaı hó da.	As for the aforementioned person, they’re working.								
+	Hoı rẻq bı, gủaı hó da.	As for the aforementioned human, they’re working.								
+	Hoı lỉq bı, gủaı hó da.	As for the aforementioned women, they’re working.								
+	Hoı nảq bı, gủaı hó da.	As for the aforementioned men, they’re working.								
+	Sa pỏq bı, gủaı hó da.	Some people are working.								
+	Sa rẻq bı, gủaı hó da.	Some humans are working.								
+	Sa lỉq bı, gủaı hó da.	Some women are working.								
+	Sa nảq bı, gủaı hó da.	Some men are working.								
+	Sa pủ nủo bı, gủaı hó da.	Some people who were sleeping are working.								
+	Sa pỏq bı, hỉo hó jí da.	Some people greeted me.								
+	Sa rẻq bı, hỉo hó jí da.	Some humans greeted me.								
+	Sa lỉq bı, hỉo hó jí da.	Some women greeted me.								
+	Sa nảq bı, hỉo hó jí da.	Some men greeted me.								
+	Sa pỏq bı, tỉ hó da.	Some people are here.								
+	Sa rẻq bı, tỉ hó da.	Some humans are here.								
+	Sa lỉq bı, tỉ hó da.	Some women are here.								
+	Sa nảq bı, tỉ hó da.	Some men are here.								
+	Sa pỏq bı, sỉ hó ní da.	Some people are paying attention to that.								
+	Sa rẻq bı, sỉ hó ní da.	Some humans are paying attention to that.								
+	Sa lỉq bı, sỉ hó ní da.	Some women are paying attention to that.								
+	Sa nảq bı, sỉ hó ní da.	Some men are paying attention to that.								
+	Sa pỏq bı, mỉu lẻ hó hóq da.	Some people think that’s likely.								
+	Sa rẻq bı, mỉu lẻ hó hóq da.	Some humans think that’s likely.								
+	Sa lỉq bı, mỉu lẻ hó hóq da.	Some women think that’s likely.								
+	Sa nảq bı, mỉu lẻ hó hóq da.	Some men think that’s likely.								
+	Sa pỏq bı, tỏe hó baq zẻo da.	Some people are cutting fruit.								
+	Sa rẻq bı, tỏe hó baq zẻo da.	Some humans are cutting fruit.								
+	Sa lỉq bı, tỏe hó baq zẻo da.	Some women are cutting fruit.								
+	Sa nảq bı, tỏe hó baq zẻo da.	Some men are cutting fruit.								
+	Sa pỏq bı, mỉu jảq lẻ hó hóq da.	Some people think it’s very likely.								
+	Sa rẻq bı, mỉu jảq lẻ hó hóq da.	Some humans think it’s very likely.								
+	Sa lỉq bı, mỉu jảq lẻ hó hóq da.	Some women think it’s very likely.								
+	Sa nảq bı, mỉu jảq lẻ hó hóq da.	Some men think it’s very likely.								
+	Sa pủı nảq bı, mỉu jảq lẻ hó hóq da.	Many men think it’s very likely.								
+	Tảo múy hóq ba.	We should do it.								
+	Tảo sa shỉ mẻa múy hóq ba.	One of us should do it.								
+	Tảo ku múy hóq ba.	We should be the ones to do it.								
+	Tảo ku sa shỉ mẻa múy hóq ba.	One of us should be the one to do it.								
+	Je, tảo múy hóq ba.	We should do it.								
+	Je, tảo sa shỉ mẻa múy hóq ba.	One of us should do it.								
+	Je, tảo ku múy hóq ba.	We should be the ones to do it.								
+	Je, tảo ku sa shỉ mẻa múy hóq ba.	One of us should be the one to do it.								
+	Tảo máy hóq ba.	We should do it.								
+	Tảo sa shỉ mẻa máy hóq ba.	One of us should do it.								
+	Tảo ku máy hóq ba.	We should be the ones to do it.								
+	Tảo ku sa shỉ mẻa máy hóq ba.	One of us should be the one to do it.								
+	Je, tảo máy hóq ba.	We should do it.								
+	Je, tảo sa shỉ mẻa máy hóq ba.	One of us should do it.								
+	Je, tảo ku máy hóq ba.	We should be the ones to do it.								
+	Je, tảo ku sa shỉ mẻa máy hóq ba.	One of us should be the one to do it.								
+	Tảo súo hóq ba.	You should do it.								
+	Tảo sa shỉ mẻa súo hóq ba.	One of you should do it.								
+	Tảo ku súo hóq ba.	You should be the ones to do it.								
+	Tảo ku sa shỉ mẻa súo hóq ba.	One of you should be the one to do it.								
+	Je, tảo súo hóq ba.	You should do it.								
+	Je, tảo sa shỉ mẻa súo hóq ba.	One of you should do it.								
+	Je, tảo ku súo hóq ba.	You should be the ones to do it.								
+	Je, tảo ku sa shỉ mẻa súo hóq ba.	One of you should be the one to do it.								
+	Je, jỉa tảo máy hóq da.	We all will do it.								
+	Je, jỉa tảo ku máy hóq da.	We all will be the ones to do it.								
+	Je, pủ tảo máy hóq da.	We all did it.								
+	Je, pủ tảo ku máy hóq da.	We all were the ones who did it.								
+	Je, tảo máy hóq da.	We are all doing it.								
+	Je, tảo ku máy hóq da.	We all are the ones doing it.								
+	Tảq mảı há ba.	One should love oneself.								
+	Tảq mỉu gỉ há ba.	One should think well of oneself.								
+	Tảq pảı há ba.	One should be a friend to oneself.								
+	Tảq zảo há ba.	One should know oneself.								
+	Mảı há áq ba.	One should love oneself.								
+	Mỉu gỉ há áq ba.	One should think well of oneself.								
+	Pảı há áq ba.	One should be a friend to oneself.								
+	Zảo há áq ba.	One should know oneself.								
+	Tỉ hoı pỏq da.	The aforementioned people are here.								
+	Tỉ hoı rẻq da	The aforementioned humans are here.								
+	Tỉ hoı lỉq da.	The aforementioned women are here.								
+	Tỉ hoı nảq da.	The aforementioned men are here.								
+	Tỉ hoı sủaq da.	The aforementioned singers are here.								
+	Tỉ hoı gỏıchē da.	The aforementioned doctors.								
+	Tỉ hoı da.	The aforementioned ones are here.								
+	Mỉu gỉ jí tuq rẻq da.	I think all humans are good.								
+	Mỉu gỉ jí tuq lỉq da.	I think all women are good.								
+	Mỉu gỉ jí tuq nảq da.	I think all men are good.								
+	Je, shảo jí tou hóq da.	That’s all I want.								
+	Je, shảo nháo tou hóq da.	That’s all she wants.								
+	Je, shảo tou jí hóq da.	I’m the only one who wants this.								
+	Je, shảo tou nháo hóq da.	She’s the only one who wants this.								
+	Je, bủ shâo jí tou hóq da.	That’s not all I want.								
+	Je, bủ shâo nháo tou hóq da.	That’s not all she wants.								
+	Je, bủ shâo tou jí hóq da.	I’m not the only one who wants that.								
+	Je, bủ shâo tou nháo hóq da.	She’s not the only one who wants that.								
+	Je, bủ shảo jí tou hóq da.	That’s the only thing I don’t want.								
+	Je, bủ shảo nháo tou hóq da.	That’s the only thing she doesn’t want.								
+	Je, bủ shảo tou jí hóq da.	I’m the only one who doesn’t want that.								
+	Je, bủ shảo tou nháo hóq da.	She’s the only one who doesn’t want that.								
+	Je, sa pỏq bı, mỉu jảq lẻ hó hóq da.	Some people think it’s very likely.								
+	Je, sa rẻq bı, mỉu jảq lẻ hó hóq da.	Some humans think it’s very likely.								
+	Je, sa lỉq bı, mỉu jảq lẻ hó hóq da.	Some women think it’s very likely.								
+	Je, sa nảq bı, mỉu jảq lẻ hó hóq da.	Some men think it’s very likely.								
+	Je, sa pủı nảq bı, mỉu jảq lẻ hó hóq da.	Many men think it’s very likely.								
+	Shảo jí tâo ku jí hóq da.	I want to be the one to do it.								
+	Shảo jí tâo ku súq hóq da.	I want you to be the one to do it.								
+	Shảo jí tâo ku nháo hóq da.	I want them to be the ones to do it.								
+	Shảo jí tâo ku súo hóq da.	I want you all to be the ones to do it.								
+	Jảq sỉ líq máq da.	The woman is watching it closely.								
+	Jảq sỉ náq máq da.	The man is watching it closely.								
+	Jảq sỉ réq máq da.	The human is watching it closely.								
+	Jảq sỉ pỏq máq da.	The person is watching it closely.								
+	Jảq sỉ sa lỉq máq da.	A woman is watching it closely.								
+	Jảq sỉ sa nảq máq da.	A man is watching it closely.								
+	Jảq sỉ sa rẻq máq da.	A human is watching it closely.								
+	Jảq sỉ sa pỏq máq da.	A person is watching it closely.								
+	Jảq sỉ jí máq da.	I’m watching it closely.								
+	Jảq sỉ nháo máq da.	They’re watching it closely.								
+	Kûq nháo máq bı, chỉ jí róu da.	I think they said that.								
+	Kûq nháo máq bı, dủa jí róu da.	I know they said that.								
+	Fâ nháo máq bı, chỉ jí róu da.	I think they went there.								
+	Fâ nháo máq bı, dủa jí róu da.	I know they went there.								
+	Fâ nháo cu máq bı, chỉ jí róu da.	I think they came from there.								
+	Fâ nháo cu máq bı, dủa jí róu da.	I know they came from there.								
+	Fâ nháo dóaq bı, chỉ jí róu da.	I think they went to the town.								
+	Fâ nháo dóaq bı, dủa jí róu da.	I know they went to the town.								
+	Fâ nháo cu dóaq bı, chỉ jí róu da.	I think they came from the town.								
+	Fâ nháo cu dóaq bı, dủa jí róu da.	I know they came from the town.								
+	Fâ nháo gúa bı, chỉ jí róu da.	I think they went to the country.								
+	Fâ nháo gúa bı, dủa jí róu da.	I know they went to the country.								
+	Fâ nháo cu gúa bı, chỉ jí róu da.	I think they came from the country.								
+	Fâ nháo cu gúa bı, dủa jí róu da.	I know they went to the country.								
+	Mâı súq jí bı, cả róu mâı jí súq da.	Your loving me makes me love you.								
+	Pảı súq jí bı, cả róu pâı jí súq da.	Your being a friend to me makes me a friend to you.								
+	Mảı súq jí bı, cả róu mâı jí tuq pỏq da.	Your loving me makes me love all people.								
+	Pảı súq jí bı, cả róu pâı jí tuq pỏq da.	Your being a friend to me makes me a friend to all people.								
+	Jîa mảı jí súq bı, dảı róu da.	It’s possible that I’ll love you one day.								
+	Jîa mảı jí nháo bı, dảı róu da.	It’s possible that I’ll love him one day.								
+	Jîa mảı jí líqdēo bı, dảı róu da.	It’s possible that I’ll love the girl one day.								
+	Jîa mảı jí náqdēo bı, dảı róu da.	It’s possible that I’ll love the boy one day.								
+	Jîa mảı jí déo bı, dảı róu da.	It’s possible that I’ll love the child one day.								
+	Kûq nháo máq bı, dảı róu da.	It’s possible she said that.								
+	Fâ nháo máq bı, dảı róu da.	It’s possible they went there.								
+	Fâ nháo cu máq bı, dảı róu da.	It’s possible they came from there.								
+	Fâ nháo dóaq bı, dảı róu da.	It’s possible they went to the town.								
+	Fâ nháo cu dóaq bı, dảı róu da.	It’s possible they came from the town.								
+	Fâ nháo gúa bı, dảı róu da.	It’s possible they went to the country.								
+	Fâ nháo cu gúa bı, dảı róu da.	It’s possible they came from the country.								
+	Fâ nháo ní Fárāqsēgūa bı, dảı róu da.	It’s possible she came here from France.								
+	Fâ nháo ní úsōnāgūa bı, dảı róu da.	It’s possible she came here from the US.								
+	Fâ nháo ní Dóıchēgūa bı, dảı róu da.	It’s possible she came here from Germany.								
+	Fâ nháo ní Lágērīa bı, dảı róu da.	It’s possible she came here from Algeria.								
+	Fâ nháo ní Bárēınīgūa bı, dảı róu da.	It’s possible she came here from Bahrain.								
+	Fâ nháo ní Bénīqgūa bı, dảı róu da.	It’s possible she came here from Benini.								
+	Fâ nháo ní Chílēgūa bı, dảı róu da.	It’s possible she came here from Chile.								
+	Fâ nháo ní Hóqdūrāgūa bı, dảı róu da.	It’s possible she came here from Honduras.								
+	Fâ nháo ní Kánādāgūa bı, dảı róu da.	It’s possible she came here from Canada.								
+	Jîa mảı jí súq bı, lẻ róu da.	It’s likely that I’ll love you one day.								
+	Jîa mảı jí nháo bı, lẻ róu da.	It’s likely that I’ll love him one day.								
+	Jîa mảı jí líqdēo bı, lẻ róu da.	It’s likely that I’ll love the girl one day.								
+	Jîa mảı jí náqdēo bı, lẻ róu da.	It’s likely that I’ll love the boy one day.								
+	Jîa mảı jí déo bı, lẻ róu da.	It’s likely that I’ll love the child one day.								
+	Kûq nháo máq bı, lẻ róu da.	It’s likely she said that.								
+	Fâ nháo máq bı, lẻ róu da.	It’s likely they went there.								
+	Fâ nháo cu máq bı, lẻ róu da.	It’s likely they came from there.								
+	Fâ nháo dóaq bı, lẻ róu da.	It’s likely they went to the town.								
+	Fâ nháo cu dóaq bı, lẻ róu da.	It’s likely they came from the town.								
+	Fâ nháo gúa bı, lẻ róu da.	It’s likely they went to the country.								
+	Fâ nháo cu gúa bı, lẻ róu da.	It’s likely they came from the country.								
+	Fâ nháo ní Fárāqsēgūa bı, lẻ róu da.	It’s likely she came here from France.								
+	Fâ nháo ní úsōnāgūa bı, lẻ róu da.	It’s likely she came here from the US.								
+	Fâ nháo ní Dóıchēgūa bı, lẻ róu da.	It’s likely she came here from Germany.								
+	Fâ nháo ní Lágērīa bı, lẻ róu da.	It’s likely she came here from Algeria.								
+	Fâ nháo ní Bárēınīgūa bı, lẻ róu da.	It’s likely she came here from Bahrain.								
+	Fâ nháo ní Bénīqgūa bı, lẻ róu da.	It’s likely she came here from Benini.								
+	Fâ nháo ní Chílēgūa bı, lẻ róu da.	It’s likely she came here from Chile.								
+	Fâ nháo ní Hóqdūrāgūa bı, lẻ róu da.	It’s likely she came here from Honduras.								
+	Fâ nháo ní Kánādāgūa bı, lẻ róu da.	It’s likely she came here from Canada.								
+	Lẻ fâ nháo ní Fárāqsēgūa da.	It’s likely she came here from France.								
+	Lẻ fâ nháo ní úsōnāgūa da.	It’s likely she came here from the US.								
+	Lẻ fâ nháo ní Dóıchēgūa da.	It’s likely she came here from Germany.								
+	Lẻ fâ nháo ní Lágērīa da.	It’s likely she came here from Algeria.								
+	Lẻ fâ nháo ní Bárēınīgūa da.	It’s likely she came here from Bahrain.								
+	Lẻ fâ nháo ní Bénīqgūa da.	It’s likely she came here from Benini.								
+	Lẻ fâ nháo ní Chílēgūa da.	It’s likely she came here from Chile.								
+	Lẻ fâ nháo ní Hóqdūrāgūa da.	It’s likely she came here from Honduras.								
+	Lẻ fâ nháo ní Kánādāgūa da.	It’s likely she came here from Canada.								
+	Tỉo rảq ní jí moq.	How much does this relate to me?								
+	Tỉo rảq ní Tóaqzū moq.	How much does this relate to Toaq?								
+	Tỉo rảq ní ke fü jí moq.	How much does this relate to my child?								
+	Tỉo rảq kúqsē jí moq.	How much does the text relate to me?								
+	Tỉo rảq kúqsē Tóaqzū moq.	How much does the text relate to Toaq?								
+	Tỉo rảq kúqsē ke fü jí moq.	How much does the text relate to my child?								
+	Tỉo rảq lú kủq góıchē hóa ky jí moq.	How much does what the doctor said relate to me?								
+	Tỉo rảq lú kủq góıchē hóa ky Tóaqzū moq.	How much does what the doctor said relate to Toaq?								
+	Tỉo rảq lú kủq góıchē hóa ky ke fü jí moq.	How much does what the doctor said relate to my child?								
+	Tỉo chỉ líq lú rủaq súq hóa còu hó moq.	How much did the women believe what you told them?								
+	Tỉo chỉ líq lú rủaq póq hóa còu líq moq.	How much did the women believe what the person told them?								
+	Tỉo chỉ líq lú rủaq tu shỉ hóa còu hó moq.	How much did the women believe what everyone told them?								
+	Tỉo sỉ súq lú rủaq jí hóa còu súq moq.	How much attention are you paying to what I’m telling you?								
+	Tỉo sỉ súq lú rủaq póq hóa còu súq moq.	How much attention are you paying to what the person is telling you?								
+	Tỉo sỉ súq lú rủaq tu hóa còu súq moq.	How much attention are you paying to what everyone is telling you?								
+	Tỉo dảı hóq moq.	How possible is it?								
+	Tỉo dảı jîa mảı súq jí moq.	How possible is it that you will love me?								
+	Tỉo dảı dûa nháo moq.	How possible is it that they know?								
+	Tỉo dảı dûa nháo hóq moq.	How possible is it that they know this?								
+	Tỉo dảı pû kủq nháo sa sỉu moq.	How possible is it that he said something similar?								
+	Tỉo dẻ nháo moq.	How beautiful are they?								
+	Tỉo dẻ máq moq.	How beautiful are they?								
+	Tỉo dẻ hoı rẻq moq.	How beautiful are the aforementioned humans?								
+	Tỉo dẻ lú mảı súq hóa moq.	How beautiful are the ones you love?								
+	Tỉo dẻ lú mảı hóa súq moq.	How beautiful are the ones who love you?								
+	Mỉeq jí mâ hảı tỉ nháo da.	I’ll check whether they’re here yet.								
+	Mỉeq jí mâ hảı tỉ nháo ba.	I should check whether they’re here yet.								
+	Tıu mỉeq jí mâ hảı tỉ nháo da.	So I’ll check whether they’re here yet.								
+	Mỉeq jí mâ hủosī nháo da.	I’ll check whether they’re listening.								
+	Mỉeq jí mâ hủosī nháo ba.	I should check whether they’re listening.								
+	Tıu mỉeq jí mâ hủosī nháo da.	So I’ll check whether they’re listening.								
+	Mỉeq jí mâ kảqgāı nháo shítūaq da.	I’ll check whether they saw the unicorn.								
+	Mỉeq jí mâ kảqgāı nháo shítūaq ba.	I should check whether they saw the unicorn.								
+	Tıu mỉeq jí mâ kảqgāı nháo shítūaq da.	So I’ll check whether they saw the unicorn.								
+	Dủa jí mâ dảı hóq da.	I know whether it’s possible.								
+	Tıu dủa jí mâ dảı hóq da.	So I know whether it’s possible.								
+	Dủa jí tîo dảı hóq da.	I know how possible it is.								
+	Tıu dủa jí tîo dảı hóq da.	So I know how possible it is.								
+	Dủa jí mâ chỉ nháo hóq da.	I know whether they believe it.								
+	Tıu dủa jí mâ chỉ nháo hóq da.	So I know whether they believe it.								
+	Dủa jí tîo chỉ nháo hóq da.	I know how much they believe it.								
+	Tıu dủa jí tîo chỉ nháo hóq da.	So I know how much they believe it.								
+	Dủa jí mâ shảo nháo hóq da.	I know whether they want it to happen.								
+	Tıu dủa jí mâ shảo nháo hóq da.	So I know whether they want it to happen.								
+	Dủa jí tîo shảo nháo hóq da.	I know how much they want it to happen.								
+	Tıu dủa jí tîo shảo nháo hóq da.	So I know how much they want it to happen.								
+	Dủa jí mâ shảo súo hóq da.	I know whether you want it to happen.								
+	Tıu dủa jí mâ shảo súo hóq da.	So I know whether you want it to happen.								
+	Dủa jí tîo shâo súo hóq da.	I know how much you want it to happen.								
+	Tıu dủa jí tîo shảo suq hóa da.	So I know how much you want it to happen.								
+	Dủa jí mâ rỏe líqdēo da.	I know whether the girl is well or not.								
+	Dủa jí mâ rỏe náqdēo da.	I know whether the boy is well or not.								
+	Dủa jí mâ rỏe déo da.	I know whether the child is well or not.								
+	Dủa jí mâ bỉa líqdēo da.	I know whether the girl is ill or not.								
+	Dủa jí mâ bỉa náqdēo da.	I know whether the boy is ill or not.								
+	Dủa jí mâ bỉa déo da.	I know whether the child is well or not.								
+	Dủa jí tîo rỏe líqdēo da.	I know how well the girl is.								
+	Dủa jí tîo rỏe náqdēo da.	I know how well the boy is.								
+	Dủa jí tîo rỏe déo da.	I know how well the child is.								
+	Dủa jí tîo bỉa líqdēo da.	I know how ill the girl is.								
+	Dủa jí tîo bỉa náqdēo da.	I know how ill the boy is.								
+	Dủa jí tîo bỉa déo da.	I know how ill the child is.								
+	Sỉ jí tîo rỏe líqdēo da.	I’m thinking about how well the girl is.								
+	Sỉ jí tîo rỏe náqdēo da.	I’m thinking about how well the boy is.								
+	Sỉ jí tîo rỏe déo da.	I’m thinking about how well the child is.								
+	Sỉ jí tîo bỉa líqdēo da.	I’m thinking about how ill the girl is.								
+	Sỉ jí tîo bỉa náqdēo da.	I’m thinking about how ill the boy is.								
+	Sỉ jí tîo bỉa déo da.	I’m thinking about how ill the child is.								
+	Dủashāo jí tîo rỏe líqdēo da.	I want to know how well the girl is.								
+	Dủashāo jí tîo rỏe náqdēo da.	I want to know how well the boy is.								
+	Dủashāo jí tîo rỏe déo da.	I want to know how well the child is.								
+	Dủashāo jí tîo bỉa líqdēo da.	I want to know how sick the girl is.								
+	Dủashāo jí tîo bỉa náqdēo da.	I want to know how sick the boy is.								
+	Dủashāo jí tîo bỉa déo da.	I want to know how sick the child is.								
+	Dủashāo jí mâ rỏe líqdēo da.	I want to know if the girl is well.								
+	Dủashāo jí mâ rỏe náqdēo da.	I want to know if the boy is well.								
+	Dủashāo jí mâ rỏe déo da.	I want to know if the child is well.								
+	Dủashāo jí mâ bỉa líqdēo da.	I want to know if the girl is ill.								
+	Dủashāo jí mâ bỉa náqdēo da.	I want to know if the boy is ill.								
+	Dủashāo jí mâ bỉa déo da.	I want to know if the child is ill.								
+	Tủa dủa súq jí mâ rỏe líqdēo ba.	Tell me whether the girl is well.								
+	Tủa dủa súq jí mâ rỏe náqdēo ba.	Tell me whether the boy is well.								
+	Tủa dủa súq jí mâ rỏe déo ba.	Tell me whether the child is well.								
+	Tủa dủa súq jí mâ bỉa líqdēo ba.	Tell me whether the girl is ill.								
+	Tủa dủa súq jí mâ bỉa náqdēo ba.	Tell me whether the boy is ill.								
+	Tủa dủa súq jí mâ bỉa déo ba.	Tell me whether the child is ill.								
+	Tủa dủa jìa góıchē múy mâ rỏe líqdēo da.	The doctor will tell us whether the girl is well.								
+	Tủa dủa jìa góıchē múy mâ rỏe náqdēo da.	The doctor will tell us whether the boy is well.								
+	Tủa dủa jìa góıchē múy mâ rỏe déo da.	The doctor will tell us whether the child is well.								
+	Tủa dủa jìa góıchē múy mâ bỉa líqdēo da.	The doctor will tell us whether the girl is well.								
+	Tủa dủa jìa góıchē múy mâ bỉa náqdēo da.	The doctor will tell us whether the boy is well.								
+	Tủa dủa jìa góıchē múy mâ bỉa déo da.	The doctor will tell us whether the child is well.								
+	Tủa dủa súq jí mâ mảı súq sa bủ jỉ ba.	Tell me whether you love someone else.								
+	Tủa dủa súq jí mâ mảı nháo sa bủ jỉ ba.	Tell me whether they love someone else.								
+	Tủa dủa súq jí mâ mỉa pảı súq ba.	Tell me whether you have a lot of friends.								
+	Tủa dủa súq jí mâ mỉa pảı nháo ba.	Tell me whether they have a lot of friends.								
+	Tủa dủa súq jí mâ pảı súq nháo ba.	Tell me whether you’re friends with them.								
+	Tủa dủa súq jí mâ pảı suq roı nháo cheq ba.	Tell me whether you’re friends with them.								
+	Cả go hóq sa pủı da.	Many things cause this.								
+	Cả go hóq tou sa bủ pủı da.	Only a few things cause this.								
+	Cả go hóq mâı jí súq da.	It’s because I love you.								
+	Cả go hóq pâı jí súq da.	It’s because I’m your friend.								
+	Cả go hóq mâı jí nháo da.	It’s because I love them.								
+	Cả go hóq pâı jí nháo da.	It’s because I’m their friend.								
+	Cả go hóq kûq tu da.	It’s because everyone is talking.								
+	Cả go hóq kûq sıa da.	It’s because no one is talking.								
+	Cả go hóq tî jí máq da.	It’s because I’m there.								
+	Cả go hóq bû tỉ jí máq da.	It’s because I’m not there.								
+	Pảı go jí sa pủı da.	I have many friends.								
+	Mảı go jí sa pủı da.	Many people love me.								
+	Chỏ go jí sa pủı da.	Many people like me.								
+	Pảı go jí sa bủ pủı da.	I have a few friends.								
+	Mảı go jí sa bủ pủı da.	A few people love me.								
+	Chỏ go jí sa bủ pủı da.	A few people like me.								
+	Pảı go jí tou sa bủ pủı da.	I have only a few friends.								
+	Mảı go jí tou sa bủ pủı da.	Only a few people love me.								
+	Chỏ go jí tou sa bủ pủı da.	Only a few people like me.								
+	Chỏq súq cu hóq ní chủo ba.	Use this tool to do it.								
+	Chỏq súq cu hóq ní dảqdēkī ba.	Use this stopwatch to do it.								
+	Chỏq súq cu hóq ní bủaıdēkī ba.	Use this ruler to do it.								
+	Chỏq súq cu hóq ní tủoqdēkī ba.	Use this scale to do it.								
+	Chỏq súq cu hóq ní kỉlōdēkī ba.	Use this balance to do it.								
+	Chỏq súq cu hóq ní lỏqdēkī ba.	Use this thermometer to do it.								
+	Je, pảı go jí sa pủı da.	I have many friends.								
+	Je, mảı go jí sa pủı da.	Many people love me.								
+	Je, chỏ go jí sa pủı da.	Many people like me.								
+	Je, pảı go jí sa bủ pủı da.	I have a few friends.								
+	Je, mảı go jí sa bủ pủı da.	A few people love me.								
+	Je, chỏ go jí sa bủ pủı da.	A few people like me.								
+	Je, pảı go jí tou sa bủ pủı da.	I have only a few friends.								
+	Je, mảı go jí tou sa bủ pủı da.	Only a few people love me.								
+	Je, chỏ go jí tou sa bủ pủı da.	Only a few people like me.								
+	Hỉo jí líq da.	I greet the women.								
+	Hỉo jí náq da.	I greet the men.								
+	Hỉo jí réq da.	I greet the people.								
+	Hỉo jí nháo da.	I greet them.								
+	Hỉo pù jí líq da.	I greeted the women.								
+	Hỉo pù jí náq da.	I greeted the men.								
+	Hỉo pù jí réq da.	I greeted the people.								
+	Hỉo pù jí nháo da.	I greeted them.								
+	Hỉo jí líq pù da.	I greeted the women.								
+	Hỉo jí náq pù da.	I greeted the men.								
+	Hỉo jí réq pù da.	I greeted the people.								
+	Hỉo jí nháo pù da.	I greeted them.								
+	Hỉo jìa jí líq da.	I will greet the women.								
+	Hỉo jìa jí náq da.	I will greet the men.								
+	Hỉo jìa jí réq da.	I will greet the people.								
+	Hỉo jìa jí nháo da.	I will greet them.								
+	Hỉo jí líq jìa da.	I will greet the women.								
+	Hỉo jí náq jìa da.	I will greet the men.								
+	Hỉo jí réq jìa da.	I will greet the people.								
+	Hỉo jí nháo jìa da.	I will greet them.								
+	Keo, pảı go jí sa pủı da.	But I have many friends.								
+	Keo, mảı go jí sa pủı da.	But many people love me.								
+	Keo, chỏ go jí sa pủı da.	But many people like me.								
+	Keo, pảı go jí sa bủ pủı da.	But I have a few friends.								
+	Keo, mảı go jí sa bủ pủı da.	But a few people love me.								
+	Keo, chỏ go jí sa bủ pủı da.	But a few people like me.								
+	Keo, pảı go jí tou sa bủ pủı da.	But I have only a few friends.								
+	Keo, mảı go jí tou sa bủ pủı da.	But only a few people love me.								
+	Keo, chỏ go jí tou sa bủ pủı da.	But only a few people like me.								
+	Chỏq súq to ro ní to níjāo ba.	Use either this or that (not both).								
+	Kủq súq to ro shú hỉo to shú shảıhīo ba.	Say either “hello” or “goodbye” (not both).								
+	Rủaq súq to ro nhô hóq to bû hóq da.	Say that it’s true or say that it’s false (not both).								
+	To ro rủaq nhỏ súq hóq to rủaq bủ súq hóq ba.	Either say it’s true or say it’s false (not both).								
+	Pảı nháo to ro mí Shỉ to mí Gủ da.	They’re friends with either Shi or Gu (not both).								
+	Pảı nháo mí Shỉ ro mí Gủ da.	They’re friends with either Shi or Gu (not both).								
+	Chỏq jí baq nảokāıchūo ro baq lỏhākāıcūo da.	I’ll use a pen or a pencil (not both).								
+	Chỏq jí baq dảqkēa ro baq dảqdēkī da.	I’ll use a clock or a stopwatch (not both).								
+	Kủı hóq mâı jí súq cy, ro pâı jí súq da.	It’s either because I love you or because we’re friends (not both).								
+	Kủı hóq sûa hóq sa cy, ro shâo sa hóq da.	It’s either because it was necessary or because someone wanted it (not both).								
+	Nhỏ ro bủ tu shỉ da.	Everything is true or false (not both).								
+	Dẻo ro kỏaq tu shỉ rẻq da.	Every human is a child or an adult (not both).								
+	Dẻo ro kỏaq tu shỉ hẻqfā da.	Every elf is a child or an adult (not both).								
+	Hỉo jí líq roı ke päı hó da.	I greet the woman and her friend.								
+	Hỉo jí náq roı ke päı hó da.	I greet the man and his friend.								
+	Hỉo jí réq roı ke päı hó da.	I greed the person and their friend.								
+	Hỉo jí mí Shỉ roı mí Gủ da.	I greet Shi and Gu.								
+	Hỉo mí Shỉ roı mí Gủ jí da.	Shi and Gu greet me.								
+	Hỉo jí mí Hủaq roı mí Cỉqshȳ da.	I greet Huaq and Ciqshy.								
+	Hỉo mí Hủaq roı mí Cíqshȳ jí da.	Huaq and Ciqshy greet me.								
+	Hỉo jí mí Cảılū roı géo nảq da.	I greet Cailu and the old man.								
+	Gỉo mí Cảılū roı géo nảq jí da.	Cailu and the old man greet me.								
+	Kủaı bỏ súq shíkō rı gúkō moq.	Do you want the first or the second?								
+	Kủaı bỏ súq sáqkō rı jókō moq.	Do you want the third or the forth?								
+	Kủaı bỏ súq fékō rı cíkō moq.	Do you want the fifth or the sixth?								
+	Kủaı bỏ súq díaıkō rı róaıkō moq.	Do you want the seventh or the eighth?								
+	Kủaı bỏ súq néıkō rı héıkō moq.	Do you want the ninth or the tenth?								
+	Kủaı pỉe súq baq kảfē rı baq chảı moq.	Do you want to drink coffee or tea?								
+	Kủaı pỉe súq baq nỏaı rı baq nảrāqzēonāo moq.	Do you want to drink milk or orange juice?								
+	Kủaı pỉe súq baq nảo rı baq zẻonāo moq.	Do you want to drink water or juice?								
+	Mảı súq mí Shỉ rı mí Gủ moq.	Do you love Shi or Gu? (which?)								
+	Mảı nháo mí Shỉ rı mí Gủ moq.	Does she love Shi or Gu? (which?)								
+	Chỏ súq mí Chỉ rı mí Gủ moq.	Do you like Shi or Gu? (which?)								
+	Chỏ nháo mí Shỉ rı míGủ moq.	Does she like Shi or Gu? (which?)								
+	Mảı súq mí Hủaq rı mí Cỉqshȳ moq.	Do you love Huaq or Ciqshy? (which?)								
+	Mảı nháo mí Hủaq rı mí Cỉqshȳ moq.	Does she love Huaq or Ciqshy? (which?)								
+	Chỏ súq mí Hủaq rı mí Cỉqshȳ moq.	Do you like Huaq or Ciqshy? (which?)								
+	Chỏ nháo mí Hủaq rı mí Cỉqshȳ moq.	Does she like Huaq or Ciqshy? (which?)								
+	Mảı súq mí Cảılū rı géo nảq moq.	Do you love Cailu or the old man? (which?)								
+	Mảı nháo mí Cảılū rı géo nảq moq.	Does she love Cailu or the old man? (which?)								
+	Chỏ súq mí Cảılū rı géo nảq moq.	Do you like Cailu or the old man? (which?)								
+	Chỏ nháo mí Cảılū rı géo nảq moq.	Does she like Cailu or the old man? (which?)								
+	Mả mảı súq mí Shỉ ra mí Gủ moq.	Do you love Shi or Gu? (yes/no?)								
+	Mả mảı nháo mí Shỉ ra mí Gủ moq.	Does she love Shi or Gu? (yes/no?)								
+	Mả chỏ súq mí Chỉ ra mí Gủ moq.	Do you like Shi or Gu? (yes/no?)								
+	Mả chỏ nháo mí Shỉ ra míGủ moq.	Does she like Shi or Gu? (yes/no?)								
+	Mả mảı súq mí Hủaq ra mí Cỉqshȳ moq.	Do you love Huaq or Ciqshy? (yes/no?)								
+	Mả mảı nháo mí Hủaq ra mí Cỉqshȳ moq.	Does she love Huaq or Ciqshy? (yes/no?)								
+	Mả chỏ súq mí Hủaq ra mí Cỉqshȳ moq.	Do you like Huaq or Ciqshy? (yes/no?)								
+	Mả chỏ nháo mí Hủaq ra mí Cỉqshȳ moq.	Does she like Huaq or Ciqshy? (yes/no?)								
+	Mả mảı súq mí Cảılū ra géo nảq moq.	Do you love Cailu or the old man? (yes/no?)								
+	Mả mảı nháo mí Cảılū ra géo nảq moq.	Does she love Cailu or the old man? (yes/no?)								
+	Mả chỏ súq mí Cảılū ra géo nảq moq.	Do you like Cailu or the old man? (yes/no?)								
+	Mả chỏ nháo mí Cảılū ra géo nảq moq.	Does she like Cailu or the old man? (yes/no?)								
+	Keo bủ gỏıchē jí da.	But I’m not a doctor.								
+	Kẻo gỏıchē sıa mẻa nháo da.	But none of them are doctors.								
+	Kẻo gỏıchē sıa mẻa súo da.	But none of you are doctors.								
+	Keo bủ pủmēchē jí da.	But I’m not a historian.								
+	Keo pủmēchē sıa mẻa nháo da.	But none of them are historians.								
+	Keo pủmēchē sıa mẻa súo da.	But none of you are historians.								
+	Keo bủ zủchē jí da.	But I’m not a linguist.								
+	Keo zủchē sıa mẻa nháo da.	But none of them are linguists.								
+	Keo zủchē sıa mẻa súo da.	But none of them are linguists.								
+	Keo bủ gỉaqchē jí da.	But I’m not a musician.								
+	Keo gỉaqchē sıa mẻa nháo da.	But none of them are musicians.								
+	Keo gỉaqchē sıa mẻa súo da.	But none of you are musicians.								
+	Keo bủ chỉetūachē jí da.	But I’m not a teacher.								
+	Keo chỉetūachē sıa mẻa nháo da.	But none of them are teachers.								
+	Keo chỉetūachē sıa mẻa súo da.	But none of you are teachers.								
+	Keo bủ lẻachē jí da.	But I’m not an artist.								
+	Keo lẻachē sıa mẻa nháo da.	But none of them are artists.								
+	Keo lẻachē sıa mẻa súo da.	But none of you are artists.								
+	Keo bủ sủaqchē jí da.	But I’m not a singer.								
+	Keo sủaqchē sıa mẻa nháo da.	But none of them are singers.								
+	Keo sủaqchā sıa mẻa súo da.	But none of you are singers.								
+	Keo bủ dỏekāıchē jí da.	But I’m not a programmer.								
+	Keo dỏekāıchē sıa mẻa nháo da.	But none of them are programmers.								
+	Keo dỏekāıchē sıa mẻa súo da.	But none of you are programmers.								
+	Tıu gỏıchē súq kùı hı moq.	So why are you a doctor?								
+	Tıu gỏıchē kùı hı súq moq.	So why are you a doctor?								
+	Tıu pủmēchē súq kùı hı moq.	So why are you a historian?								
+	Tıu pủmēchē kùı hı súq moq.	So why are you a historian?								
+	Tıu zủchē súq kùı hı moq.	So why are you a linguist?								
+	Tıu zủchē kùı hı súq moq.	So why are you a linguist?								
+	Tıu gỉaqchē súq kùı hı moq.	So why are you a musician?								
+	Tıu gỉaqchē kùı hı suq moq.	So why are you a musician?								
+	Tıu lẻachē súq kùı hı moq.	So why are you an artist?								
+	Tıu lẻachē kùı hı súq moq.	So why are you an artist?								
+	Tıu sủaqchē súq kùı hı moq.	So why are you a singer?								
+	Tıu sủaqchē kùı hı súq moq.	So why are you a singer?								
+	Tıu dỏekāıchē súq kùı hı moq.	So why are you a programmer?								
+	Tıu dỏekāıchē kùı hı súq moq.	So why are you a programmer?								
+	Tıu mảı súq jí ba.	Then love me.								
+	Tıu pảı súq jí ba.	Then be my friend.								
+	Lú rủaq súq hóa bı, dủe kúy da.	As for what you said, it was right.								
+	Lú rủaq súq hóa bı, chỉaı kúy da.	As for what you said, it was wrong.								
+	Pó súq bı, dủe zé da.	As for yours, it was right.								
+	Pó súq bı, chỉaı zé da.	As for yours, it was wrong.								
+	Lú sỉo hóa na ru fỉeq súq hóa bı, dủe kúy da.	As for the idea that you came up with, it was right.								
+	Lú sỉo hóa na ru fỉeq súq hóa bı, chỉaı kúy da.	As for the idea that you came up with, it was wrong.								
+	Pó súq bı, dủe sỉo zé da.	As for yours, it was the right idea.								
+	Pó súq bı, chỉaı sỉo zé da.	As for yours, it was the wrong idea.								
+	Lú rủaq nháo hóa bı, dủe kúy da.	As for what they said, it was right.								
+	Lú rủaq nháo hóa bı, chỉaı kúy da.	As for what they said, it was wrong.								
+	Pó nháo bı, dủe zé da.	As for theirs, it was right.								
+	Pó nháo bı, chỉaı zé da.	As for theirs, it was wrong.								
+	Lú sỉo hóa na ru fỉeq nháo hóa bı, dủe kúy da.	As for the idea that they came up with, it was right.								
+	Lú sỉo hóa na ru fỉeq nháo hóa bı, chỉaı kúy da.	As for the idea that they came up with, it was wrong.								
+	Pó nháo bı, dủe sỉo zé da.	As for theirs, it was the right idea.								
+	Pó nháo bı, chỉaı sỉo zé da.	As for theirs, it was the wrong idea.								
+	Lú bỏ súq hóa bı, pủ bỏdōa jí kúy súq da.	As for what belongs to you, I gave it to you.								
+	Lú bỏ nháo hóa bı, pủ bỏdōa jí kúy nháo.	As for what belongs to them, I gave it to them.								
+	Lú bỏ súq hóa bı, jỉa bỏnūa jí kúy súq da.	As for what belongs to you, I will  take it from you.								
+	Lú bỏ nháo hóa bı, jỉa bỏnūa jí kúy nháo da.	As for what belongs to them, I will take it from them.								
+	Pó súq bı, pủ bỏdūa jí zé súq da.	As for yours, I gave it to you.								
+	Pó nháo bı, pủ bỏdōa jí zé nháo da.	As for theirs, I gave it to them.								
+	Pó súq bı, jỉa bỏnūa jí zé súq da.	As for yours, I will take it from you.								
+	Pó nháo bı, jỉa bỏnūa jí zé nháo da.	As for theirs, I will take it from them.								
+	Lú chỉ súq hóa bı, jẻo kúy da.	As for what you believe, it’s true.								
+	Lú chỉ súq hó bı, bủ kúy da.	As for what you believe, it’s false.								
+	Pó súq bı, jẻo zé da.	As for yours, it’s true.								
+	Pó súq bı, bủ zé da.	As for yours, it’s false.								
+	Lú tảo súq hóa bı, chỏ jí tâo súq kúy da.	As for what you did, I like that you did it.								
+	Lú tảo súq hóa bı, gỉq chỏ jí tâo súq kúy da.	As for what you did, I don’t like that you did it.								
+	Lú tảo nháo hóa bı, shảo jí tâo súq kúy da.	As for what they did, I hope you do it.								
+	Lú tảo nháo hóa bı, shảo bủ jí tâo súq kúy da.	As for what they did, I hope you don’t do it.								
+	Pó súq bı, chỏ jí tâo súq zé da.	As for yours, I’m glad you did it.								
+	Pó súq bı, gỉq chỏ jí tâo súq zé da.	As for yours, I’m not happy that you did it.								
+	Pó nháo bı, shảo jí tâo súq zé da.	As for theirs, I hope you do it.								
+	Pó nháo bı, shảo bủ jí tâo súq zé da.	As for theirs, I hope you don’t do it.								
+	Lú chỉ súq hóa bı, dủa jí kúy da.	As for what you believe, I know it.								
+	Lú chỉ nháo hóa bı, dủa jí kúy da.	As for what they believe, I know it.								
+	Pó súq bı, dủa jí zé da.	As for yours, I know it.								
+	Pó nháo bı, dủa jí zé da.	As for theirs, I know it.								
+	Tıu mỉu jí gî sỉo ní da.	So I think this is a good idea.								
+	Tıu mỉu jí hûı sỉo ní da.	So I think this is a bad idea.								
+	Tıu gỉ sỉo ní da.	So this is a good idea.								
+	Tıu hủı sỉo ní da.	So this is a bad idea.								
+	Tıu gỉ ní sỉo da.	So this idea is good.								
+	Tıu hủı ní sỉo da.	So this idea is bad.								
+	Tıu chỏ jí nháo da.	So I liked them.								
+	Tıu gỉq chỏ jí nháo da.	So I didn’t like them.								
+	Tıu chẻo mảı jí roı súq ba.	So we should love each other.								
+	Tıu mảı jí roı súq cheq ba.	So we should love each other.								
+	Tıu chẻo pảı jí roı súq ba.	So we should be friends.								
+	Tỉu pảı jí roı súq cheq ba.	So we should be friends.								
+	Tıu rảq ní sıa da.	So this isn’t related to anything.								
+	Tıu rảq ní tu da.	So this is related to everything.								
+	Tıu rảq ní súq da.	So this pertains to you.								
+	Tıu jảq rảq ní súq da.	So this very much pertains to you.								
+	Tıu bủ rảq ní súq da.	So this doesn’t pertain to you.								
+	Tıu jảq bủ rảq ní súq da.	So this really doesn’t pertain to you.								
+	Tıu sỉ súq jí ba.	So pay attention to me.								
+	Tıu sỉ súq ba.	So pay attention.								
+	Tıu sỉ súq nháo ba.	So pay attention to them.								
+	Kủq cu jí súq sa ba.	Say something to me.								
+	Kủq cu jí súq sıa ba.	Don’t talk to me.								
+	Kủq cu nháo súq sa ba.	Say something to them.								
+	Kủq cu nháo súq sıa ba.	Don’t talk to them.								
+	Kỏe jí súq ka.	I choose you.								
+	Kỏe jí ní pỏq ka.	I choose this person.								
+	Kỏe jí ní rẻq ka.	I choose this person.								
+	Kủaq kỉe ka!	Thank you!								
+	Kủaq kỉe jí súq sôa ja jí ka!	Thank for for helping me!								
+	Kủaq kỉe jí súq rûogī ja còu jí ka.	Thank you for being nice to me.								
+	Kủaq kỉe jí súq rûogī ka.	Thank you for being nice.								
+	Kủaq kỉe jí súq bôdōa ja ní jí ka.	Thank you for giving this to me.								
+	Kủaq kỉe jí súq tûa dủa ja jí ní ka.	Thank you for telling me this.								
+	Kủaq kỉe jí súq rûogī ja nháo ka.	Thank you for being nice to them.								
+	Kủaq kỉe jí súq kûq ja ní ka.	Thank you for saying that.								
+	Kủaq kỉe jí súq rûaq ja ní ka.	Thank you for saying that.								
+	Kủaq kỉe jí súq shô tỉ ja ní ka.	Thank you for coming here.								
+	Kủaq kỉe jí súq kûq ja sa còu jí ka.	Thank you for talking to me.								
+	Kủaq kỉe jí súq hîo ja jí ka.	Thank you for greeting me.								
+	Sủe jí súq sôa ja jí ka!	Please help me!								
+	Sủe jí súq rûogī ja còu jí ka.	Please be nice to me.								
+	Sủe jí súq rûogī ka.	Please be nice.								
+	Sủe jí súq bôdōa ja ní jí ka.	Please give that to me.								
+	Sủe jí súq tûa dủa ja jí ní ka.	Please tell me this.								
+	Sủe jí súq rûogī ja còu nháo ka.	Please be nice to them.								
+	Sủe jí súq kûq ja ní ka.	Please say these words.								
+	Sủe jí súq rûaq ja ní ka.	Please say this.								
+	Sủe jí súq shô tỉ ja ní ka.	Please come here.								
+	Sủe jí súq kûq ja sa còu jí ka.	Please say something to me.								
+	Sủe jí súq hîo ja jí ka.	Please greet me.								
+	Sủecāq jí súq sôa ja jí ka!	I command you to help me.								
+	Sủecāq jí súq rûogī ja còu jí ka.	I command you to be nice to me.								
+	Sủecāq jí súq rûogī ka.	I command you to be nice.								
+	Sủecāq jí súq bôdōa ja ní jí ka.	I command you to give that to me.								
+	Sủecāq jí súq tûa dủa ja jí ní ka.	I command you to tell me this.								
+	Sủecāq jí súq rûogī ja còu nháo ka.	I command you to be nice to them.								
+	Sủecāq jí súq kûq ja ní ka.	I command you to say these words.								
+	Sủecāq jí súq rûaq ja ní ka.	I command you to say this.								
+	Sủecāq jí súq shô tỉ ja ní ka.	I command you to come here.								
+	Sủecāq jí súq kûq ja sa còu jí ka.	I command you to talk to me.								
+	Sủecāq jí súq hîo ja jí ka.	I command you to greet me.								
