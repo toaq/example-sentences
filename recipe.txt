@@ -3,10 +3,9 @@ to/ru   to* 25      ru* 25      ra* 25      ro* 10      ri* 25      roi* 20
 
 je      je* 50      keo* 50     tiu* 50
 bi      bi* 50
-go      go* 25      cu* 25
 da      da* 200     ba* 100     ka* 50      nha* 50     moq* 100
 
-ku      ku* 25      tou* 25     moy* 25
+ku      ku* 25      tou* 25     mao* 25
 aq      aq* 25      cheq* 25
 
 term    na* 50      cy* 50
