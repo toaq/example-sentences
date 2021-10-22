@@ -160,7 +160,7 @@ A0237	Kùı hı rảı bı bủ kủaq shẻo súq moq.	Why aren't you apologizi
 A0239	Kủı hóq hı moq.	Why is it?		✔️	✔️					
 A0240	Bỏ nháo sa pủı gẻo kủe da.	He has many old books.		✔️	✔️					
 A0242	Jảq chủqkūaı jí nãı da.	I'm very hungry now.		✔️	✔️					
-A0243	Mả mảo chủqkūaı súq moq.	Are you also hungry?		!	✔️					
+A0243	Mả chủqkūaı mao súq moq.	Are you also hungry?		!	✔️					
 A0245	Hı kỉq pa lủ chỏ súq nháoa moq.	What movies do you like?		✔️	✔️					
 A0248	Mẻo nháo kùı lâ kỉachāq níchāq da.	He's sad because today is a Monday.		✔️	✔️					
 A0250	Mả bỏ súq sa kỏqpīutā moq.	Do you have a computer?		✔️	❌					
@@ -177,8 +177,8 @@ A0270	Dảı nảı lỏı nháo jí da.	It's possible that he hates me now.		�
 A0271	Lỏı jí baq kỉachāq da.	I hate Mondays.		✔️	baq					
 A0274	Mảı jí súq da.	I love you.		✔️	✔️					
 A0275	Mả mảı súq jí moq.	Do you love me?		✔️	✔️					
-A0277	Mảo lâ pủ kảqgāı jí sa tỉqshōaı da.	I also saw a butterfly.		✔️	✔️					
-A0278	Mảo dủ sủo máq da.	It, too, seems broken.		✔️	✔️					
+A0277	Jẻo mao lâ pủ kảqgāı jí sa tỉqshōaı da.	I also saw a butterfly.		✔️	✔️					
+A0278	Dủ sủo mao máq da.	It, too, seems broken.		✔️	✔️					
 A0280	Mủıdūa nháo sıa küq jí da.	He doesn't understand anything that I say.		✔️	?					
 A0281	Mỉ Sảrā ní da.	This is Sarah.		✔️	✔️					
 A0284	Mỏı jí nãı da.	I'm thinking.		✔️	✔️					
@@ -309,7 +309,7 @@ A0542	Chủq nháo sa shỉ shảmū da.	He eats an apple.
 A0543	Lảo jí tî sa pỏq da.	I'm waiting for some people to be here.								
 A0548	Mả dỉ tủa rỉa jí chúao moq.	Am I allowed to open the window?				✔️				
 A0549	Mả dẻq tủa rỉa jí chúao moq.	Am I able to open the window?				✔️				
-A0559	Pủ dủasūe jí nháo mâ mảo tảoshāo fả nháo da.	I asked him whether he intended to go as well.								
+A0559	Pủ dủasūe jí nháo mâ tảoshāo fả mao nháo da.	I asked him whether he intended to go as well.								
 A0564	Shảı mẻo súq ba.	Stop being sad.								
 A0565	Kảqsī jí sa kỉq rào nídāq.	I'm watching a movie now.								
 A0567	Pủ tẻoqkūq jí cu nháo mó «mả tỉaq baq mủao moq?» teo da.	"I asked him ""Are trees brown?"""								
@@ -499,7 +499,7 @@ A0312	Mả chủa shú «Lỉy» súq moq.	"Is ""Lee"" your name?"			✔️
 A0317	Nỉodē níjāo nỉaı da.	That animal is cute.			❌					
 A0320	Sỏqchō súq hı rảı baq shảmū roı baq pỉsō moq.	What's your favorite out of apples and pears?			baq					
 A0323	Dẻq kủq bébē shú «mảmā» ru shú «pảpā» da.	"The baby can say ""mama"" and ""papa""."			✔️					
-A0334	Aỏ tảo moy jí hóq da.	I would have done the same thing.			❌					
+A0334	Aỏ tảo mao jí hóq da.	I would have done the same thing.			❌					
 A0337	Pủ dủashō jí lâ pỉao Fárāqsēzū da.	I noticed that the French language is complex.			✔️					
 A0340	Chỏq jí sa pỉanō ru sa gỉtā da.	I use a piano and a guitar.			?					
 A0341	Pỏaq lũı shía da.	The glass has broken.			✔️					
@@ -856,41 +856,41 @@ A0994	Ke nủaq bı shỏ jảq gẻaq póhō nỉq fủq da.	As for that night,
 	Pủ kủq jí mó «Jẻaq dảqfāı rûogī jí nha.» teo da.	I said “I promise I’ll be nice more often.”								
 	Pủ kủq jí mó «Jẻaq dảqfāı sôa jí súq nha.» teo da.	I said “I promise I’ll help you more often.”								
 	Pủ kủq jí mó «Jẻaq cảı jí nha.» teo da.	I said “I promise I’ll get stronger.”								
-	Dủa moy mí Hỏaqgīo hóq da.	Hoaqgio, too, knows that.								
-	Dủa moy mí Cỉqshȳ hóq da.	Ciqshy, too, knows that.								
-	Dủa moy mí Caılū hóq da.	Caily, too, knows that.								
-	Dủa moy mí Hủaq hóq da.	Huaq, too, knows that.								
-	Dủa moy mí ảshȳ hóq da.	Ash, too, knows that.								
-	Dủa mí Hỏaqgīo moy hóq da.	Hoaqgio knows that, too.								
-	Dủa mí Cỉqshȳ moy hóq da.	Ciqshy knows that, too.								
-	Dủa mí Caılū moy hóq da.	Cailu knows that, too.								
-	Dủa mí Hủaq moy hóq da.	Huaq knows that, too.								
-	Dủa mí ảshȳ moy hóq da.	Ash knows that, too.								
-	Pảı moy mí Hỏaqgīo nháo da.	Hoaqgio, too, is friends with them.								
-	Pảı moy mí Cỉqshȳ nháo da.	Ciqshy, too, is friends with them.								
-	Pảı moy mí Caılū nháo da.	Cailu, too, is friends with them.								
-	Pảı moy mí Hủaq nháo da.	Huaq, too, is friends with them.								
-	Pảı moy mí ảshȳ nháo da.	Ash, too, is friends with them.								
-	Pảı mí Hỏaqgīo moy nháo da.	Hoaqgio is friends with them, too.								
-	Pảı mí Cỉqshȳ moy nháo da.	Ciqshy is friends with them, too.								
-	Pảı mí Caılū moy nháo da.	Cailu is friends with them, too.								
-	Pảı mí Hủaq moy nháo da.	Huaq is friends with them, too.								
-	Pảı mí ảshȳ moy nháo da.	Ash is friends with them, too.								
+	Dủa mao mí Hỏaqgīo hóq da.	Hoaqgio, too, knows that.								
+	Dủa mao mí Cỉqshȳ hóq da.	Ciqshy, too, knows that.								
+	Dủa mao mí Caılū hóq da.	Caily, too, knows that.								
+	Dủa mao mí Hủaq hóq da.	Huaq, too, knows that.								
+	Dủa mao mí ảshȳ hóq da.	Ash, too, knows that.								
+	Dủa mí Hỏaqgīo mao hóq da.	Hoaqgio knows that, too.								
+	Dủa mí Cỉqshȳ mao hóq da.	Ciqshy knows that, too.								
+	Dủa mí Caılū mao hóq da.	Cailu knows that, too.								
+	Dủa mí Hủaq mao hóq da.	Huaq knows that, too.								
+	Dủa mí ảshȳ mao hóq da.	Ash knows that, too.								
+	Pảı mao mí Hỏaqgīo nháo da.	Hoaqgio, too, is friends with them.								
+	Pảı mao mí Cỉqshȳ nháo da.	Ciqshy, too, is friends with them.								
+	Pảı mao mí Caılū nháo da.	Cailu, too, is friends with them.								
+	Pảı mao mí Hủaq nháo da.	Huaq, too, is friends with them.								
+	Pảı mao mí ảshȳ nháo da.	Ash, too, is friends with them.								
+	Pảı mí Hỏaqgīo mao nháo da.	Hoaqgio is friends with them, too.								
+	Pảı mí Cỉqshȳ mao nháo da.	Ciqshy is friends with them, too.								
+	Pảı mí Caılū mao nháo da.	Cailu is friends with them, too.								
+	Pảı mí Hủaq mao nháo da.	Huaq is friends with them, too.								
+	Pảı mí ảshȳ mao nháo da.	Ash is friends with them, too.								
 	Mỉu mí Hỏaqgīo gî maq da.	Hoaqgio thinks it’s good.								
-	Mỉu mí Hỏaqgīo gî moy máq da.	Hoaqgio thinks that it, too, is good.								
-	Mỉu moy mí Hỏaqgīo gî máq da.	Hoaqgio, too, thinks that it is good.								
+	Mỉu mí Hỏaqgīo gî mao máq da.	Hoaqgio thinks that it, too, is good.								
+	Mỉu mao mí Hỏaqgīo gî máq da.	Hoaqgio, too, thinks that it is good.								
 	Mỉu jí gî máq da.	I think it’s good.								
-	Mỉu jí gî moy máq da.	I think that it, too, is good.								
-	Mỉu moy jí gî máq da.	I, too, think that it is good.								
+	Mỉu jí gî mao máq da.	I think that it, too, is good.								
+	Mỉu mao jí gî máq da.	I, too, think that it is good.								
 	Mỉu nháo gî máq da.	They think it is good.								
-	Mỉu nháo gî moy máq da.	They think that it, too, is good.								
-	Mỉu moy nháo gî máq da.	They, to, think that it is good.								
+	Mỉu nháo gî mao máq da.	They think that it, too, is good.								
+	Mỉu mao nháo gî máq da.	They, to, think that it is good.								
 	Mỉu púqhō gî máq da.	They think it is good.								
-	Mỉu púqhō gî moy máq da.	They think that it, too, is good.								
-	Mỉu moy púqhō gî máq da.	They, too, think that it is good.								
+	Mỉu púqhō gî mao máq da.	They think that it, too, is good.								
+	Mỉu mao púqhō gî máq da.	They, too, think that it is good.								
 	Mả mỉu súq gî máq moq.	Do you think that it is good?								
-	Mả mỉu súq gî moy máq moq.	Do you think that it, too, is good?								
-	Mả mỉu moy súq gî máq moq.	Do you, too, think that it is good?								
+	Mả mỉu súq gî mao máq moq.	Do you think that it, too, is good?								
+	Mả mỉu mao súq gî máq moq.	Do you, too, think that it is good?								
 	Mả mỉu mí Hỏaqgīo gî maq moq.	Does Hoaqgio think that it is good?								
 	Mả mỉu mí Cỉqshȳ gî máq moq.	Does Ciqshy think that it is good?								
 	Mả mỉu mí Cảılū gî máq moq.	Does Cailu think that it is good?								
