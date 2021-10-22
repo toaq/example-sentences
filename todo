@@ -2,7 +2,6 @@
 
 Things to fix:
 
-    + instances of t1 (macrons)
     + Dumb examples for "ra" (they work better with "ro")
     + poji -> jibo?
     + *Lack* of t4 markings (it should be marked because this is a learning material)
@@ -34,6 +33,7 @@ Things fixed:
         + Not gonna bother fixing this in bulk as it might not even end up disallowed
     + Removed go and cu except in a few cases (fa + cu) where I didn't really know how
       to remove them
+    + instances of t1 (macrons)
 
 Things to include:
 
