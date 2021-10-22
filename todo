@@ -2,8 +2,6 @@
 
 Things to fix:
 
-    + Tenses :(
-    + high adverbs in the wrong spot (right after the verb)
     + instances of t1 (macrons)
     + Dumb examples for "ra" (they work better with "ro")
     + poji -> jibo?
@@ -24,6 +22,15 @@ Things fixed:
     + Replace "joy" with "juaq"
     + Fix usages of old "juaq"
     + Adverbial tones
+    + Tenses :(
+        + Not entire sure what I meant by this, I think it was either:
+            + Tenses scoping over quantifiers, which didn't turn out to be true, or
+            + Tense predicates being unary again, which is now fixed (it was easy)
+        + It also might have meant tenses scoping differently now, which I don't think
+          is an issue among the currently-existing sentences, at least not one that
+          affects enough sentences to be work fixing now in bulk
+    + High adverbs in the wrong spot (right after the verb)
+        + Not gonna bother fixing this in bulk as it might not even end up disallowed
 
 Things to include:
 
