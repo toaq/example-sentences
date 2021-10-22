@@ -25,7 +25,7 @@ A0026	Kỉachāq níchāq da.	Today is Monday.		✔️	✔️	✔️
 A0027	Kỉarēo pójī kỉaq da.	My hair is red.		✔️	✔️	❓				
 A0028	Mả bủaı póhō kỉaq moq.	Is his hair long?		✔️	✔️	✔️				
 A0030	Pủ shỏ shỉe bébē da.	The baby woke up.		✔️	✔️	✔️				
-A0031	Tỉ go hı sa cỉurīaq moq?	Where is there a toilet?		✔️	?	✔️				
+A0031	Tỉ sa cỉurīaq hı moq?	Where is there a toilet?		✔️	?	✔️				
 A0032	Chỏ nháo cháı da.	He likes the tea.		✔️	✔️	✔️				
 A0033	Pủ pủa pỉe jí cháı da.	I enjoyed drinking the tea.		✔️	✔️	✔️				
 A0034	Nỏqgī baq chảı da.	Tea tastes good.				✔️				
@@ -155,7 +155,7 @@ A0228	Chỉ jí lâ bủ hủogāı nháo lâ kủq súq da.	I think he didn't h
 A0229	Kủq súq sa ba.	Say something.		✔️	✔️					
 A0230	Hoı kủa pa sảo rı nủı moq.	Is the afermentioned room big or small? 		!	✔️					
 A0232	Nỉefā súq níjāo kủa ba.	Go inside that room.		✔️	✔️					
-A0233	Pảq go ní jỉo sa sảq kủa da.	This building has three rooms.		✔️	✔️					
+A0233	Pảq sa sảq kủa ní jıo da.	This building has three rooms.		✔️	✔️					
 A0237	Kùı hı rảı bı bủ kủaq shẻo súq moq.	Why aren't you apologizing?		✔️	✔️					
 A0239	Kủı hóq hı moq.	Why is it?		✔️	✔️					
 A0240	Bỏ nháo sa pủı gẻo kủe da.	He has many old books.		✔️	✔️					
@@ -187,7 +187,7 @@ A0287	Mả tảoshāo fả sa bủ jỉ moq.	Does anybody other than myself inte
 A0292	Bủ dủa jí mâ hảı bỉaq lỏq náo da.	I don't know if the water is hot enough already.		✔️	✔️					
 A0293	Mả bỉaq lỏq náo moq.	Is the water hot enough?		✔️	✔️					
 A0294	Hảı bỉaq lỏq náo da.	The water is already hot enough.		✔️	✔️					
-A0296	Tỉa go jío sa shỉ dẻ mẻırīe da.	Behind the building there is a beautiful valley.		✔️	✔️					
+A0296	Tỉa sa shỉ dẻ mẻırīe jío da.	Behind the building there is a beautiful valley.		✔️	✔️					
 A0297	Kùı hı bı mẻo súq moq.	Why are you sad?		✔️	✔️					
 A0298	Mẻo jí kùı bû nỉtī súq da.	I'm sad because you aren't here.		✔️	✔️					
 A0299	Kảqsī súq ní nảrāqrēo fủq ba.	Look at that orange clothing.		✔️	✔️					
@@ -224,7 +224,7 @@ A0360	Déo pïa nháoa jí bı gủ nháo da.	The children who are my siblings a
 A0362	Sảq mí Dủagī Sỉmī da.	The Wise Monkeys are three.			❌	✔️				
 A0363	Shảq sa sảq nủı shủao pójī bủajīo da.	There are three little birds in front of my house.			✔️					
 A0365	Dẻq kảqgāı tu pỏq lâ jỏ ní tủıfūa da.	Everyone can see that there are four chairs here.			✔️					
-A0366	Hẻ pảq go baq mủq sa fẻ chẻı da.	A hand has five fingers.			baq					
+A0366	Hẻ pảq sa fẻ chẻı baq muq da.	A hand has five fingers.			baq					
 A0367	Kảqgāı jí sa fẻ bảobāo da.	I see five dogs.			✔️					
 A0368	Cỉ pỏq tì chíejīo da.	There are five people at school.			✔️	✔️				
 A0370	Kảı súq sa dỉaı gỉ kủqtōaı ba.	Write at least seven good sentences.			✔️					
@@ -266,7 +266,7 @@ A0447	Bủ jảq dảqfāı mủ chỏq ní tỏa da.	This word isn't very frequ
 A0453	Mả dẻq hảo súq kıo lîaı ȷa kı moq?	Can you do it(swim)?			✔️					
 A0462	Mảı púqjī súq hu mí Hỏemāı da!	We love you Solpahi!			✔️					
 A0463	Bủıfā súq hu sháohūı ba!	Leave, wicked ones!			✔️					
-A0464	Mả của líqhō cu shô fẻı ȷa moq?	Did she respond by getting angry?			✔️					
+A0464	Mả của líqhō ráy shô fẻı ȷa moq?	Did she respond by getting angry?			✔️					
 A0467	Tảkū jí lî chủq ra nủo.	I plan on eating or sleeping, or both.			✔️					
 A0469	Jỉa chảocāq súq gúsīoq ro ríochāo	You will ride the bike or (pilot) the airplane.								
 A0472	Bủ kỏ shỉ jí méo.	I am not among the first of those who are sad.			❌					
@@ -312,7 +312,7 @@ A0549	Mả dẻq tủa rỉa jí chúao moq.	Am I able to open the window?				�
 A0559	Pủ dủasūe jí nháo mâ tảoshāo fả mao nháo da.	I asked him whether he intended to go as well.								
 A0564	Shảı mẻo súq ba.	Stop being sad.								
 A0565	Kảqsī jí sa kỉq rào nídāq.	I'm watching a movie now.								
-A0567	Pủ tẻoqkūq jí cu nháo mó «mả tỉaq baq mủao moq?» teo da.	"I asked him ""Are trees brown?"""								
+A0567	Pủ tẻoqkūq còu nháo jí mó «mả tỉaq baq mủao moq?» teo da.	"I asked him ""Are trees brown?"""								
 A0568	Lủı bẻo mỉu jí da.	I've changed my mind.				✔️				
 A0577	Tỉo sảo máq moq.	How big is it?				✔️				
 A0578	Bủ dủa jí tîo sảo máq da.	I don't know how big it is.								
@@ -331,7 +331,7 @@ A0608	Bủ hỉaorīeq jí ba.	I mustn't run away.
 A0609	Kủaq shẻo tủa gỉq fỏaq jí súq ka.	Sorry for making you uncomfortable.								
 A0610	Sỏq hủı hı rảı lú tảo nháo nháoa moq?	What's the worst thing he has done?								
 A0616	Dủe hóq da!	That's right!								
-A0618	Pảq go nháo sa jỏ shỉaq da.	It has four legs.								
+A0618	Pảq sa jỏ shỉaq nháo da.	It has four legs.								
 A0635	Dẻ tu pỏq da.	All people are beautiful.								
 A0636	Shảı ba hu búoq!	Oh, stop it, you clown!								
 A0640	Tỉeqbīao jí da.	I'm lost.								
@@ -506,7 +506,7 @@ A0341	Pỏaq lũı shía da.	The glass has broken.			✔️
 A0348	Bủ chỏ jí rîe jí baq pủı pỏq da.	I don't like being in the middle of a crowd.								
 A0356	Lẻo tủa sỉ pósūq lỉqpāo súq nháo da.	Your mom is trying to get you to pay attention to her.			✔️					
 A0361	Chẻo lủı rủao gú da.	The two have forgiven each other.			✔️					
-A0364	Pảq go tu shỉ nỉaq sa jỏ cảo da.	Every year has four seasons.			❌					
+A0364	Mủ pảq tu shỉ nỉaq sa jỏ cảo da.	Every year has four seasons.			❌					
 A0374	Nẻı rı jỏ sóa moq?	Are there nine or four helpers?			✔️					
 A0376	Jảq gỉ Mí Gúhēı Tẻoq da!	Twenty Questions is awesome!			✔️					
 A0379	Sảo nảogūaq Sárālīa da.	Australia is a big island.			?					
@@ -519,8 +519,8 @@ A0408	Sủe góıchē jí lî bủ pỉe ja baq bỉrā da.	The doctor asked me 
 A0409	Jảq bủ chỉ jí hóq da.	I don't believe it at all.			✔️					
 A0414	Mả tỏaqdēq súq Tóaqzū moq.	Do you speak Toaq?			✔️					
 A0415	Jảq fủı châocāq ja baq gủsīoq da.	Riding a bicycle is very easy.			✔️					
-A0416	Nỏa lî nỏaq ja cu ní kủe da.	It's difficult to read this book.			✔️					
-A0419	Mả fủı go súq lî nỏaq ja baq Jủqgūo lảı moq.	Is it easy to you to read Chinese characters?			baq					
+A0416	Nỏa lî nỏaq ja ke ní kủe da.	It's difficult to read this book.			✔️					
+A0419	Mả fủı súq lî nỏaq ja baq Jủqgūo lảı moq.	Is it easy to you to read Chinese characters?			baq					
 A0424	Jỉa hảqsūe jí to ro baq gảlōnūeq to baq bảkānūeq.	I will order either chicken or beef, or both.			❌					
 A0425	Hảqbāı jí to ru baq tủzȳ rào níchāq to baq pỉcā rào jỉachāq nha.	I'll cook soup today, and pizza tomorrow.								
 A0426	Dủq pỉe súq to rı baq chảı to baq kảfē moq?	Do you (habitually) drink tea or coffee?			❌					
@@ -537,7 +537,7 @@ A0476	Mả fỉeq ku súq ní moq.	Is it you who created this?			✔️
 A0477	Chủq nháo ku sa shảmū da	It's an apple that he ate.								
 A0480	Mả chỉ súq jêı nháo mí Chảq moq?	Do you think he is Chang?								
 A0483	Nỏ ní kủqtōaı Tóaqzū da.	This sentence is in Toaq.								
-A0489	Mủı go hoı tỏa sa gủ da.	That word has two meanings.								
+A0489	Mủı sa gủ hoı tỏa da.	That word has two meanings.								
 A0490	Nỉqdāo hı rảı moq.	What's new?								
 A0494	Chẻ súq hı rảı moq.	What is your job?				✔️				
 A0503	Jỏe lỷ tảogāq jí ru pójī nảqpīa sháhā da.	My brother and I are skilled at playing chess.								
@@ -1465,40 +1465,40 @@ A0994	Ke nủaq bı shỏ jảq gẻaq póhō nỉq fủq da.	As for that night,
 	Tủa dủa súq jí mâ mỉa pảı nháo ba.	Tell me whether they have a lot of friends.								
 	Tủa dủa súq jí mâ pảı súq nháo ba.	Tell me whether you’re friends with them.								
 	Tủa dủa súq jí mâ pảı suq roı nháo cheq ba.	Tell me whether you’re friends with them.								
-	Cả go hóq sa pủı da.	Many things cause this.								
-	Cả go hóq tou sa bủ pủı da.	Only a few things cause this.								
-	Cả go hóq mâı jí súq da.	It’s because I love you.								
-	Cả go hóq pâı jí súq da.	It’s because I’m your friend.								
-	Cả go hóq mâı jí nháo da.	It’s because I love them.								
-	Cả go hóq pâı jí nháo da.	It’s because I’m their friend.								
-	Cả go hóq kûq tu da.	It’s because everyone is talking.								
-	Cả go hóq kûq sıa da.	It’s because no one is talking.								
-	Cả go hóq tî jí máq da.	It’s because I’m there.								
-	Cả go hóq bû tỉ jí máq da.	It’s because I’m not there.								
-	Pảı go jí sa pủı da.	I have many friends.								
-	Mảı go jí sa pủı da.	Many people love me.								
-	Chỏ go jí sa pủı da.	Many people like me.								
-	Pảı go jí sa bủ pủı da.	I have a few friends.								
-	Mảı go jí sa bủ pủı da.	A few people love me.								
-	Chỏ go jí sa bủ pủı da.	A few people like me.								
-	Pảı go jí tou sa bủ pủı da.	I have only a few friends.								
-	Mảı go jí tou sa bủ pủı da.	Only a few people love me.								
-	Chỏ go jí tou sa bủ pủı da.	Only a few people like me.								
-	Chỏq súq cu hóq ní chủo ba.	Use this tool to do it.								
-	Chỏq súq cu hóq ní dảqdēkī ba.	Use this stopwatch to do it.								
-	Chỏq súq cu hóq ní bủaıdēkī ba.	Use this ruler to do it.								
-	Chỏq súq cu hóq ní tủoqdēkī ba.	Use this scale to do it.								
-	Chỏq súq cu hóq ní kỉlōdēkī ba.	Use this balance to do it.								
-	Chỏq súq cu hóq ní lỏqdēkī ba.	Use this thermometer to do it.								
-	Je, pảı go jí sa pủı da.	I have many friends.								
-	Je, mảı go jí sa pủı da.	Many people love me.								
-	Je, chỏ go jí sa pủı da.	Many people like me.								
-	Je, pảı go jí sa bủ pủı da.	I have a few friends.								
-	Je, mảı go jí sa bủ pủı da.	A few people love me.								
-	Je, chỏ go jí sa bủ pủı da.	A few people like me.								
-	Je, pảı go jí tou sa bủ pủı da.	I have only a few friends.								
-	Je, mảı go jí tou sa bủ pủı da.	Only a few people love me.								
-	Je, chỏ go jí tou sa bủ pủı da.	Only a few people like me.								
+	Cả sa pủı hóq da.	Many things cause this.								
+	Cả tou sa bủ pủı hóq da.	Only a few things cause this.								
+	Cả mâı jí súq cy hóq da.	It’s because I love you.								
+	Cả pâı jí súq cy hóq da.	It’s because I’m your friend.								
+	Cả mâı jí nháo cy hóq da.	It’s because I love them.								
+	Cả pâı jí nháo cy hóq da.	It’s because I’m their friend.								
+	Cả kûq tu cy hóq da.	It’s because everyone is talking.								
+	Cả kûq sıa cy hóq da.	It’s because no one is talking.								
+	Cả tî jí máq cy hóq da.	It’s because I’m there.								
+	Cả bû tỉ jí máq cy hóq da.	It’s because I’m not there.								
+	Pảı sa pủı jí da.	I have many friends.								
+	Mảı sa pủı jí da.	Many people love me.								
+	Chỏ sa pủı jí da.	Many people like me.								
+	Pảı sa bủ pủı jí da.	I have a few friends.								
+	Mảı sa bủ pủı jí da.	A few people love me.								
+	Chỏ sa bủ pủı jí da.	A few people like me.								
+	Pảı tou sa bủ pủı jí da.	I have only a few friends.								
+	Mảı tou sa bủ pủı jí da.	Only a few people love me.								
+	Chỏ tou sa bủ pủı jí da.	Only a few people like me.								
+	Chỏq súq ní chủo hóq ba.	Use this tool to do it.								
+	Chỏq súq ní dảqdēkī hóq ba.	Use this stopwatch to do it.								
+	Chỏq súq ní bủaıdēkī hóq ba.	Use this ruler to do it.								
+	Chỏq súq ní tủoqdēkī hóq ba.	Use this scale to do it.								
+	Chỏq súq ní kỉlōdēkī hóq ba.	Use this balance to do it.								
+	Chỏq súq ní lỏqdēkī hóq ba.	Use this thermometer to do it.								
+	Je, pảı sa pủı jí da.	I have many friends.								
+	Je, mảı sa pủı jí da.	Many people love me.								
+	Je, chỏ sa pủı jí da.	Many people like me.								
+	Je, pảı sa bủ pủı jí da.	I have a few friends.								
+	Je, mảı sa bủ pủı jí da.	A few people love me.								
+	Je, chỏ sa bủ pủı jí da.	A few people like me.								
+	Je, pảı tou sa bủ pủı jí da.	I have only a few friends.								
+	Je, mảı tou sa bủ pủı jí da.	Only a few people love me.								
+	Je, chỏ tou sa bủ pủı jí da.	Only a few people like me.								
 	Hỉo jí líq da.	I greet the women.								
 	Hỉo jí náq da.	I greet the men.								
 	Hỉo jí réq da.	I greet the people.								
@@ -1519,15 +1519,15 @@ A0994	Ke nủaq bı shỏ jảq gẻaq póhō nỉq fủq da.	As for that night,
 	Hỉo jí náq jĩa da.	I will greet the men.								
 	Hỉo jí réq jĩa da.	I will greet the people.								
 	Hỉo jí nháo jĩa da.	I will greet them.								
-	Keo, pảı go jí sa pủı da.	But I have many friends.								
-	Keo, mảı go jí sa pủı da.	But many people love me.								
-	Keo, chỏ go jí sa pủı da.	But many people like me.								
-	Keo, pảı go jí sa bủ pủı da.	But I have a few friends.								
-	Keo, mảı go jí sa bủ pủı da.	But a few people love me.								
-	Keo, chỏ go jí sa bủ pủı da.	But a few people like me.								
-	Keo, pảı go jí tou sa bủ pủı da.	But I have only a few friends.								
-	Keo, mảı go jí tou sa bủ pủı da.	But only a few people love me.								
-	Keo, chỏ go jí tou sa bủ pủı da.	But only a few people like me.								
+	Keo, pảı sa pủı jí da.	But I have many friends.								
+	Keo, mảı sa pủı jí da.	But many people love me.								
+	Keo, chỏ sa pủı jí da.	But many people like me.								
+	Keo, pảı sa bủ pủı jí da.	But I have a few friends.								
+	Keo, mảı sa bủ pủı jí da.	But a few people love me.								
+	Keo, chỏ sa bủ pủı jí da.	But a few people like me.								
+	Keo, pảı tou sa bủ pủı jí da.	But I have only a few friends.								
+	Keo, mảı tou sa bủ pủı jí da.	But only a few people love me.								
+	Keo, chỏ tou sa bủ pủı jí da.	But only a few people like me.								
 	Chỏq súq to ro ní to níjāo ba.	Use either this or that (not both).								
 	Kủq súq to ro shú hỉo to shú shảıhīo ba.	Say either “hello” or “goodbye” (not both).								
 	Rủaq súq to ro nhô hóq to bû hóq da.	Say that it’s true or say that it’s false (not both).								
@@ -1683,10 +1683,10 @@ A0994	Ke nủaq bı shỏ jảq gẻaq póhō nỉq fủq da.	As for that night,
 	Tıu sỉ súq jí ba.	So pay attention to me.								
 	Tıu sỉ súq ba.	So pay attention.								
 	Tıu sỉ súq nháo ba.	So pay attention to them.								
-	Kủq cu jí súq sa ba.	Say something to me.								
-	Kủq cu jí súq sıa ba.	Don’t talk to me.								
-	Kủq cu nháo súq sa ba.	Say something to them.								
-	Kủq cu nháo súq sıa ba.	Don’t talk to them.								
+	Kủq còu jí súq sa ba.	Say something to me.								
+	Kủq còu jí súq sıa ba.	Don’t talk to me.								
+	Kủq còu nháo súq sa ba.	Say something to them.								
+	Kủq còu nháo súq sıa ba.	Don’t talk to them.								
 	Kỏe jí súq ka.	I choose you.								
 	Kỏe jí ní pỏq ka.	I choose this person.								
 	Kỏe jí ní rẻq ka.	I choose this person.								

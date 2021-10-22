@@ -5,6 +5,7 @@ Things to fix:
     + instances of t1 (macrons)
     + Dumb examples for "ra" (they work better with "ro")
     + poji -> jibo?
+    + *Lack* of t4 markings (it should be marked because this is a learning material)
 
 
 Last sentence: "All human beings are precious and worthwhile"
@@ -31,6 +32,8 @@ Things fixed:
           affects enough sentences to be work fixing now in bulk
     + High adverbs in the wrong spot (right after the verb)
         + Not gonna bother fixing this in bulk as it might not even end up disallowed
+    + Removed go and cu except in a few cases (fa + cu) where I didn't really know how
+      to remove them
 
 Things to include:
 
