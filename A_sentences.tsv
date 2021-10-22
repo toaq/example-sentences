@@ -469,7 +469,7 @@ A0135	Bủa nháo Mérīkā da.	He lives in the Americas.		✔️	❌					Ilmen
 A0136	Bủ dủa jí tî pójī fỏq hı da.	I don't know where my phone is.		✔️	✔️					
 A0137	Mả lủı tỉdūashō súq pójī fỏq moq.	Have you found my phone?		✔️	✔️					
 A0138	Bủ jẻı pójī fỏq ní da.	This is not my phone.		✔️	✔️					
-A0164	Tảo súq hı jìa jíachāq moq.	What are you doing tommorow?		✔️	✔️					
+A0164	Tảo súq hı rào jíachāq moq.	What are you doing tomorrow?		✔️	✔️					
 A0172	Jảq dẻ rúa ıq jỉe nháo da.	The flowers are very beautiful to him.			baq					
 A0179	Lủerēo baq mảojā da.	Bananas are yellow.			baq					
 A0180	Mủqdōa súq lúerēo jí ba.	Give me the yellow thing.		✔️	❌					
@@ -512,7 +512,7 @@ A0376	Jảq gỉ Mí Gúhēı Tẻoq da!	Twenty Questions is awesome!			✔️
 A0379	Sảo nảogūaq Sárālīa da.	Australia is a big island.			?					
 A0382	Sa sủao pa lủ bủ dủa súq nháoa da.	There is something important that you don't know.			✔️					
 A0383	Sỉachōa tu ba.	Silence!			?					
-A0384	Sẻa nháo jìa gûaı nháo da.	He will relax after he works.			✔️					
+A0384	Sẻa nháo jĩe bìe gûaı nháo da.	He will relax after he works.			✔️					
 A0391	Dỉe jí tâogāq míy réısōı ka.	I hereby suggest we play Go.			✔️					
 A0407	Pỏjī rı pỏsūq ní bỉo moq.	This cup, is it mine or yours?			✔️					
 A0408	Sủe góıchē jí lî bủ pỉe ja baq bỉrā da.	The doctor asked me not to drink beer.			?					
@@ -599,10 +599,10 @@ A0994	Ke nủaq bı shỏ jảq gẻaq póhō nỉq fủq da.	As for that night,
 	Mảı jí sıa rảı da.	I don’t love anyone.								
 	Mảı sıa jí da.	No one loves me.								
 	Mảı sıa rảı jí da.	No one loves me.								
-	Lẻoshāı jí jìa sıa da.	I will never give up.								
+	Lẻoshāı jí jĩa rào sıa da.	I will never give up.								
 	Gủo sıa lêoshāı jí da.	I will never give up.								
-	Lẻoshāı múy jìa sıa ba.	We must never give up.								
-	Lẻoshāı míy jìa sıa ba.	We must never give up.								
+	Lẻoshāı múy jĩa rào sıa ba.	We must never give up.								
+	Lẻoshāı míy jĩa rào sıa ba.	We must never give up.								
 	Mả hủogāı súq sıa küq jí nháoa moq.	Did you hear nothing I said?								
 	Mả hủogāı súq sıa lủ kủq jí nháoa moq.	Did you hear nothing I said?								
 	Mả tảochō súq sıa moq.	Is there nothing you enjoy doing?								
@@ -666,7 +666,7 @@ A0994	Ke nủaq bı shỏ jảq gẻaq póhō nỉq fủq da.	As for that night,
 	Keo sủaq súq dẽ pũjūı.	But you sang beautifully just now.								
 	Keo kủoı jỏe sủaq jí ní pỏq da.	But I’m not as good a singer as these people.								
 	Keo bủ bỏq hóq jôe sủaq súq da.	But that doesn’t prevent you from being a good singer.								
-	Keo lỉe jìa sa súq jôe sủaq ja nha.	But I promise one day you’ll feel like a good singer.								
+	Keo lỉe jĩa rào sa súq jôe sủaq ja nha.	But I promise one day you’ll feel like a good singer.								
 	Keo jảq fỏıcā fîeq há baq mủa da.	But writing examples is very boring.								
 	Keo sủa hóq da.	But it’s necessary.								
 	Tıu tảo jí hóq nha.	So I’ll do it.								
@@ -677,23 +677,23 @@ A0994	Ke nủaq bı shỏ jảq gẻaq póhō nỉq fủq da.	As for that night,
 	Fỉeq súq co lẻa moq.	How many artworks have you created?								
 	Fỉeq súq co kủe moq.	How many books have you written?								
 	Pảı súq co päı jí moq.	How many of my friends are you friends with?								
-	Sủaq co rảı dè moq.	How many sang beautifully?								
-	Sủaq co dè moq.	How many sang beautifully?								
-	Sủaq co rẻq dè moq.	How many people sang beautifully?								
-	Sủaq co rảı bù dẻ moq.	How many sang non-beautifully?								
-	Sủaq co bù dẻ moq.	How many sang non-beautifully?								
-	Sủaq co rẻq bù dẻ moq.	How many people sang non-beautifully?								
+	Sủaq co rảı dẽ moq.	How many sang beautifully?								
+	Sủaq co dẽ moq.	How many sang beautifully?								
+	Sủaq co rẻq dẽ moq.	How many people sang beautifully?								
+	Sủaq co rảı bũ dẻ moq.	How many sang non-beautifully?								
+	Sủaq co bũ dẻ moq.	How many sang non-beautifully?								
+	Sủaq co rẻq bũ dẻ moq.	How many people sang non-beautifully?								
 	Dủa míy pâı súq co rảı da.	We know how many friends you have.								
 	Dủa míy pâı súq co da.	We know how many friends you have.								
 	Dủa míy fîeq súq co lẻa da.	We know how many pieces of art you’ve created.								
 	Dủa míy fîeq súq co kủe da.	We know how many books you’ve written.								
 	Dủa míy pâı súq co päı jí da.	We know how many of my friends are your friends.								
-	Dủa míy sûaq co rảı dè da.	We know how many sang beautifully.								
-	Dủa míy sûaq co dè da.	We know how many sang beautifully.								
-	Dủa míy sûaq co rẻq dè da.	We know how many people sang beautifully.								
-	Dủa míy sûaq co rảı bù dẻ da.	We know how many sang non-beautifully.								
-	Dủa míy sûaq co bù dẻ da.	We know how many sang non-beautifully.								
-	Dủa míy sûaq co rẻq bù dẻ da.	We know how many people sang non-beautifully.								
+	Dủa míy sûaq co rảı dẽ da.	We know how many sang beautifully.								
+	Dủa míy sûaq co dẽ da.	We know how many sang beautifully.								
+	Dủa míy sûaq co rẻq dẽ da.	We know how many people sang beautifully.								
+	Dủa míy sûaq co rảı bũ dẻ da.	We know how many sang non-beautifully.								
+	Dủa míy sûaq co bũ dẻ da.	We know how many sang non-beautifully.								
+	Dủa míy sûaq co rẻq bũ dẻ da.	We know how many people sang non-beautifully.								
 	Shỉ súhū da.	The pig is one in number.								
 	Shỉ ní sủhū da.	This pig is one in number.								
 	Shỉ sủhū ní da.	This is one pig.								
@@ -806,19 +806,19 @@ A0994	Ke nủaq bı shỏ jảq gẻaq póhō nỉq fủq da.	As for that night,
 	Gảq jí súq nha.	I promise I’ll join you.								
 	Gảq hảo jí súq nha.	I promise I’ll join you in that.								
 	Gảq jí súq háo nha.	I promise I’ll join you in that.								
-	Gảq jí súq nàı níchāq nha.	I promise I’ll join you today.								
-	Gảq hảo jí súq nàı níchāq nha.	I promise I’ll join you in that today.								
-	Gảq jí súq háo nàı níchāq nha.	I promise I’ll join you in that today.								
-	Gảq jí súq jìa níchāq nha.	I promise I’ll join you later today.								
-	Gảq hảo jí súq jìa níchāq nha.	I promise I’ll join you in that later today.								
-	Gảq jí súq háo jìa níchāq nha.	I promise I’ll join you in that later today.								
-	Gảq jí súq jìa jíachāq nha.	I promise I’ll join you tomorrow.								
-	Gảq hảo jí súq jìa jíachāq nha.	I promise I’ll join you in that tomorrow.								
-	Gảq jí súq háo jìa jíachāq nha.	I promise I’ll join you in that tomorrow.								
+	Gảq jí súq nãı rào níchāq nha.	I promise I’ll join you today.								
+	Gảq hảo jí súq nãı rào níchāq nha.	I promise I’ll join you in that today.								
+	Gảq jí súq háo nãı rào níchāq nha.	I promise I’ll join you in that today.								
+	Gảq jí súq jĩa rào níchāq nha.	I promise I’ll join you later today.								
+	Gảq hảo jí súq jĩa rào níchāq nha.	I promise I’ll join you in that later today.								
+	Gảq jí súq háo jĩa rào níchāq nha.	I promise I’ll join you in that later today.								
+	Gảq jí súq jĩa rào jíachāq nha.	I promise I’ll join you tomorrow.								
+	Gảq hảo jí súq jĩa rào jíachāq nha.	I promise I’ll join you in that tomorrow.								
+	Gảq jí súq háo jĩa rào jíachāq nha.	I promise I’ll join you in that tomorrow.								
 	Lủaqgāq jí púqhō nha.	I promise I’ll play with them.								
-	Lủaqgāq jí púqhō nàı níchāq nha.	I promise I’ll play with them today.								
-	Lủaqgāq jí púqhō jìa níchāq nha.	I promise I’ll play with them later today.								
-	Lủaqgāq jí púqhō jìa jíachāq nha.	I promise I’ll play with them tomorrow.								
+	Lủaqgāq jí púqhō nãı rào níchāq nha.	I promise I’ll play with them today.								
+	Lủaqgāq jí púqhō jĩa rào níchāq nha.	I promise I’ll play with them later today.								
+	Lủaqgāq jí púqhō jĩa rào jíachāq nha.	I promise I’ll play with them tomorrow.								
 	Bủ jỉa nỉqgūo tâo jí hóq nha.	I promise I won’t do it again.								
 	Bủ jỉa nỉqgūo tôı jí súq hóq nha.	I promise I won’t do it to you again.								
 	Bủ jîa nỉqgūo tảo jí hóq nha.	I promise I won’t do it again.								
@@ -832,19 +832,19 @@ A0994	Ke nủaq bı shỏ jảq gẻaq póhō nỉq fủq da.	As for that night,
 	Jẻaq cảı jí nha.	I promise I’ll get stronger.								
 	Pủ kủq jí mó «Gảq hảo jí súq nha.» teo da.	I said “I promise I’ll join you in that.”								
 	Pủ kủq jí mó «Gảq jí súq háo nha.» teo da.	I said “I promise I’ll join you in that.”								
-	Pủ kủq jí mó «Gảq jí súq nàı níchāq nha.» teo da.	I said “I promise I’ll join you today.”								
-	Pủ kủq jí mó «Gảq hảo jí súq nàı níchāq nha.» teo da.	I said “I promise I’ll join you in that today.”								
-	Pủ kủq jí mó «Gảq jí súq háo nàı níchāq nha.» teo da.	I said “I promise I’ll join you in that today.”								
-	Pủ kủq jí mó «Gảq jí súq jìa níchāq nha.» teo da.	I said “I promise I’ll join you later today.”								
-	Pủ kủq jí mó «Gảq hảo jí súq jìa níchāq nha.» teo da.	I said “I promise I’ll join you in that later today.”								
-	Pủ kủq jí mó «Gảq jí súq háo jìa níchāq nha.» teo da.	I said “I promise I’ll join you in that later today.”								
-	Pủ kủq jí mó «Gảq jí súq jìa jíachāq nha.» teo da.	I said “I promise I’ll join you tomorrow.”								
-	Pủ kủq jí mó «Gảq hảo jí súq jìa jíachāq nha.» teo da.	I said “I promise I’ll join you in that tomorrow.”								
-	Pủ kủq jí mó «Gảq jí súq háo jìa jíachāq nha.» teo da.	I said “I promise I’ll join you in that tomorrow.”								
+	Pủ kủq jí mó «Gảq jí súq nãı rào níchāq nha.» teo da.	I said “I promise I’ll join you today.”								
+	Pủ kủq jí mó «Gảq hảo jí súq nãı rào níchāq nha.» teo da.	I said “I promise I’ll join you in that today.”								
+	Pủ kủq jí mó «Gảq jí súq háo nãı rào níchāq nha.» teo da.	I said “I promise I’ll join you in that today.”								
+	Pủ kủq jí mó «Gảq jí súq jĩa rào níchāq nha.» teo da.	I said “I promise I’ll join you later today.”								
+	Pủ kủq jí mó «Gảq hảo jí súq jĩa rào níchāq nha.» teo da.	I said “I promise I’ll join you in that later today.”								
+	Pủ kủq jí mó «Gảq jí súq háo jĩa rào níchāq nha.» teo da.	I said “I promise I’ll join you in that later today.”								
+	Pủ kủq jí mó «Gảq jí súq jĩa rào jíachāq nha.» teo da.	I said “I promise I’ll join you tomorrow.”								
+	Pủ kủq jí mó «Gảq hảo jí súq jĩa rào jíachāq nha.» teo da.	I said “I promise I’ll join you in that tomorrow.”								
+	Pủ kủq jí mó «Gảq jí súq háo jĩa rào jíachāq nha.» teo da.	I said “I promise I’ll join you in that tomorrow.”								
 	Pủ kủq jí mó «Lủaqgāq jí púqhō nha.» teo da.	I said “I promise I’ll play with them.”								
-	Pủ kủq jí mó «Lủaqgāq jí púqhō nàı níchāq nha.» teo da.	I said “I promise I’ll play with them today.”								
-	Pủ kủq jí mó «Lủaqgāq jí púqhō jìa níchāq nha.» teo da.	I said “I promise I’ll play with them later today.”								
-	Pủ kủq jí mó «Lủaqgāq jí púqhō jìa jíachāq nha.» teo da.	I said “I promise I’ll play with them tomorrow.”								
+	Pủ kủq jí mó «Lủaqgāq jí púqhō nãı rào níchāq nha.» teo da.	I said “I promise I’ll play with them today.”								
+	Pủ kủq jí mó «Lủaqgāq jí púqhō jĩa rào níchāq nha.» teo da.	I said “I promise I’ll play with them later today.”								
+	Pủ kủq jí mó «Lủaqgāq jí púqhō jĩa rào jíachāq nha.» teo da.	I said “I promise I’ll play with them tomorrow.”								
 	Pủ kủq jí mó «Bủ jỉa nỉqgūo tâo jí hóq nha.» teo da.	I said “I promise I won’t do it again.”								
 	Pủ kủq jí mó «Bủ jỉa nỉqgūo tôı jí súq hóq nha.» teo da.	I said “I promise I won’t do it to you again.”								
 	Pủ kủq jí mó «Bủ jîa nỉqgūo tảo jí hóq nha.» teo da.	I said “I promise I won’t do it again.”								
@@ -1049,10 +1049,10 @@ A0994	Ke nủaq bı shỏ jảq gẻaq póhō nỉq fủq da.	As for that night,
 	Mỉeq súq hóq chùochā sa mẻa ní lỏqdēkī ba.	Use one of these thermometers to measure it.								
 	Tỉ baq kảtō pójī gỏaq da.	There are cats in my garden.								
 	Tỉ baq kủnē pójī gỏaq da.	There are dogs in my garden.								
-	Kủq pù jí mó «Kủaq ka.» teo da.	I said “Thanks”.								
-	Kủq jìa jí mó «Kủaq ka.» teo da.	I’ll say “Thanks”.								
-	Kủq shè hóq jí mó «Kủaq ka.» teo da.	If so, I’ll say “Thanks”.								
-	Kủq shè bû hóq cy jí mó «Kủaq da.» teo da.	If not, I’ll say “Thanks”.								
+	Kủq pũ jí mó «Kủaq ka.» teo da.	I said “Thanks”.								
+	Kủq jĩa jí mó «Kủaq ka.» teo da.	I’ll say “Thanks”.								
+	Kủq jí mó «Kủaq ka.» teo shè hóq da.	If so, I’ll say “Thanks”.								
+	Kủq jí mó «Kủaq da.» teo shè bû hóq cy da.	If not, I’ll say “Thanks”.								
 	Tỉ sa sảq dẻ rủa pójī gỏaq da.	There are three beautiful flowers in my garden.								
 	Tỉ sa jỏ fỉe kẻqnīu pójī gỏaq da.	There are four ugly weeds in my garden.								
 	Tỉ sa fẻ nỉu pójī gỏaq da.	There are five plants in my garden.								
@@ -1453,12 +1453,12 @@ A0994	Ke nủaq bı shỏ jảq gẻaq póhō nỉq fủq da.	As for that night,
 	Tủa dủa súq jí mâ bỉa líqdēo ba.	Tell me whether the girl is ill.								
 	Tủa dủa súq jí mâ bỉa náqdēo ba.	Tell me whether the boy is ill.								
 	Tủa dủa súq jí mâ bỉa déo ba.	Tell me whether the child is ill.								
-	Tủa dủa jìa góıchē múy mâ rỏe líqdēo da.	The doctor will tell us whether the girl is well.								
-	Tủa dủa jìa góıchē múy mâ rỏe náqdēo da.	The doctor will tell us whether the boy is well.								
-	Tủa dủa jìa góıchē múy mâ rỏe déo da.	The doctor will tell us whether the child is well.								
-	Tủa dủa jìa góıchē múy mâ bỉa líqdēo da.	The doctor will tell us whether the girl is well.								
-	Tủa dủa jìa góıchē múy mâ bỉa náqdēo da.	The doctor will tell us whether the boy is well.								
-	Tủa dủa jìa góıchē múy mâ bỉa déo da.	The doctor will tell us whether the child is well.								
+	Tủa dủa jĩa góıchē múy mâ rỏe líqdēo da.	The doctor will tell us whether the girl is well.								
+	Tủa dủa jĩa góıchē múy mâ rỏe náqdēo da.	The doctor will tell us whether the boy is well.								
+	Tủa dủa jĩa góıchē múy mâ rỏe déo da.	The doctor will tell us whether the child is well.								
+	Tủa dủa jĩa góıchē múy mâ bỉa líqdēo da.	The doctor will tell us whether the girl is well.								
+	Tủa dủa jĩa góıchē múy mâ bỉa náqdēo da.	The doctor will tell us whether the boy is well.								
+	Tủa dủa jĩa góıchē múy mâ bỉa déo da.	The doctor will tell us whether the child is well.								
 	Tủa dủa súq jí mâ mảı súq sa bủ jỉ ba.	Tell me whether you love someone else.								
 	Tủa dủa súq jí mâ mảı nháo sa bủ jỉ ba.	Tell me whether they love someone else.								
 	Tủa dủa súq jí mâ mỉa pảı súq ba.	Tell me whether you have a lot of friends.								
@@ -1503,22 +1503,22 @@ A0994	Ke nủaq bı shỏ jảq gẻaq póhō nỉq fủq da.	As for that night,
 	Hỉo jí náq da.	I greet the men.								
 	Hỉo jí réq da.	I greet the people.								
 	Hỉo jí nháo da.	I greet them.								
-	Hỉo pù jí líq da.	I greeted the women.								
-	Hỉo pù jí náq da.	I greeted the men.								
-	Hỉo pù jí réq da.	I greeted the people.								
-	Hỉo pù jí nháo da.	I greeted them.								
-	Hỉo jí líq pù da.	I greeted the women.								
-	Hỉo jí náq pù da.	I greeted the men.								
-	Hỉo jí réq pù da.	I greeted the people.								
-	Hỉo jí nháo pù da.	I greeted them.								
-	Hỉo jìa jí líq da.	I will greet the women.								
-	Hỉo jìa jí náq da.	I will greet the men.								
-	Hỉo jìa jí réq da.	I will greet the people.								
-	Hỉo jìa jí nháo da.	I will greet them.								
-	Hỉo jí líq jìa da.	I will greet the women.								
-	Hỉo jí náq jìa da.	I will greet the men.								
-	Hỉo jí réq jìa da.	I will greet the people.								
-	Hỉo jí nháo jìa da.	I will greet them.								
+	Hỉo pũ jí líq da.	I greeted the women.								
+	Hỉo pũ jí náq da.	I greeted the men.								
+	Hỉo pũ jí réq da.	I greeted the people.								
+	Hỉo pũ jí nháo da.	I greeted them.								
+	Hỉo jí líq pũ da.	I greeted the women.								
+	Hỉo jí náq pũ da.	I greeted the men.								
+	Hỉo jí réq pũ da.	I greeted the people.								
+	Hỉo jí nháo pũ da.	I greeted them.								
+	Hỉo jĩa jí líq da.	I will greet the women.								
+	Hỉo jĩa jí náq da.	I will greet the men.								
+	Hỉo jĩa jí réq da.	I will greet the people.								
+	Hỉo jĩa jí nháo da.	I will greet them.								
+	Hỉo jí líq jĩa da.	I will greet the women.								
+	Hỉo jí náq jĩa da.	I will greet the men.								
+	Hỉo jí réq jĩa da.	I will greet the people.								
+	Hỉo jí nháo jĩa da.	I will greet them.								
 	Keo, pảı go jí sa pủı da.	But I have many friends.								
 	Keo, mảı go jí sa pủı da.	But many people love me.								
 	Keo, chỏ go jí sa pủı da.	But many people like me.								
