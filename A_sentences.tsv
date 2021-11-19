@@ -1262,7 +1262,7 @@ A0994	Ke nủaq bı shỏ jảq gẻaq póho nỉq fủq da.	As for that night, 
 	Tỉ hoı lỉq da.	The aforementioned women are here.								
 	Tỉ hoı nảq da.	The aforementioned men are here.								
 	Tỉ hoı sủaq da.	The aforementioned singers are here.								
-	Tỉ hoı gỏıche da.	The aforementioned doctors.								
+	Tỉ hoı gỏıche da.	The aforementioned doctors are here.								
 	Tỉ hoı da.	The aforementioned ones are here.								
 	Mỉu gỉ jí tuq rẻq da.	I think all humans are good.								
 	Mỉu gỉ jí tuq lỉq da.	I think all women are good.								
@@ -1817,3 +1817,188 @@ A0994	Ke nủaq bı shỏ jảq gẻaq póho nỉq fủq da.	As for that night, 
 	Lủ ảnou jí hóa ky súq da.	I love you.								
 	Gảı jí shûa bío da.	I see that the glass is falling.								
 	Gảı jí shô shủa bỉo da.	I see that the glass is starting to fall.								
+	Pỏ jí sío da.	The idea is mine.								
+	Pỏ súq sío da.	The idea is yours.								
+	Pỏ nháo sío da.	The idea is theirs.								
+	Bủ pỏ jí sío da.	The idea is not mine.								
+	Bủ pỏ súq sío da.	The idea is not yours.								
+	Bủ pỏ nháo sío da.	The idea is not theirs.								
+	Củo pỏ súq jí sío da.	I assume the idea is yours.								
+	Củo pỏ nháo jí sío da.	I assume the idea is theirs.								
+	Củo bủ pỏ súq jí sío da.	I assume the idea isn’t yours.								
+	Củo bủ pỏ nháo jí sío da.	I assume the idea isn’t theirs.								
+	Củo jí lâ pỏ súq sío da.	I assume the idea is yours.								
+	Củo jí lâ pỏ nháo sío da.	I assume the idea is theirs.								
+	Củo jí lâ bủ pỏ súq sío da.	I assume the idea isn’t yours.								
+	Củo jí lâ bủ pỏ nháo sío da.	I assume the idea isn’t theirs.								
+	Củo jí pô súq sío da.	I assume the idea is yours.								
+	Củo jí pô nháo sío da.	I assume the idea is theirs.								
+	Củo jí bû pỏ súq sío da.	I assume the idea isn’t yours.								
+	Củo jí bû pỏ nháo sío da.	I assume the idea isn’t theirs.								
+	Pỏ súq lú dủa jí hóa da.	The thing I know is about you.								
+	Pỏ nháo lú dủa jí hóa da.	The thing I know is about them.								
+	Chỏ jí sío pö jí da.	I like my idea.								
+	Chỏ jí sío pö súq da.	I like your idea.								
+	Chỏ jí sío pö nháo da.	I like their idea.								
+	Chỏ jí shíaqfuq pö súq da.	I like your pants.								
+	Chỏ jí shíaqfuq pö nháo da.	I like their pants.								
+	Chỏ jí shácy pö súq da.	I like your shirt.								
+	Chỏ jí shácy pö nháo da.	I like their shirt.								
+	Chỏ jí sáro pö súq da.	I like your skirt/kilt.								
+	Chỏ jí sáro pö nháo da.	I like your skirt/kilt.								
+	Dẻ shácy pö súq da.	Your shirt is cute.								
+	Dẻ shácy pö nháo da.	Their shirt is cute.								
+	Chỏq súq móıhua pö súq ba.	Use your brain.								
+	Chỏq súq móehua pö súq ba.	Use your heart.								
+	Chỏq nháo móıhua pö nháo ba.	Their should use their brain.								
+	Chỏq nháo móehua pö nháo ba.	They should use their heart.								
+	Chỏq jí móıhua pö jí ba.	I should use my brain.								
+	Chỏq jí móehua pö jí ba.	I should use my heart.								
+	Pủ chỏq jí ku káqhua pö jí da.	I used my eyes.								
+	Pủ chỏq súq ku káqhua pö súq da.	Your used your eyes.								
+	Pủ chỏq nháo ku káqhua pö nháo da.	They used their eyes.								
+	Jỉa chỏq jí ku múq pö jí da.	I’ll use my hands								
+	Jỉa chỏq súq ku múq pö súq da.	You’ll use your hands.								
+	Jỉa chỏq nháo ku múq pö nháo da.	They’ll use their hands.								
+	Dủa jí sa rảı pö súq da.	I know something about you.								
+	Dủa jí sa rảı pö nháo da.	I know something about them.								
+	Chỏ jí pó jí ga sỉo da.	I like my idea.								
+	Chỏ jí pó súq ga sỉo da.	I like your idea.								
+	Chỏ jí pó nháo ga sỉo da.	I like their idea.								
+	Chỏ jí pó súq ga shỉaqfuq da.	I like your pants.								
+	Chỏ jí pó nháo ga shỉaqfuq da.	I like their pants.								
+	Chỏ jí pó súq ga shảcy da.	I like your shirt.								
+	Chỏ jí pó nháo ga shảcy da.	I like their shirt.								
+	Chỏ jí pó súq ga sảro da.	I like your skirt/kilt.								
+	Chỏ jí pó nháo ga sảro da.	I like your skirt/kilt.								
+	Dẻ pó súq ga shảcy da.	Your shirt is cute.								
+	Dẻ pó nháo ga shảcy da.	Their shirt is cute.								
+	Chỏq súq pó súq ga mỏıhua ba.	Use your brain.								
+	Chỏq súq pó súq ga mỏehua ba.	Use your heart.								
+	Chỏq nháo pó nháo ga mỏıhua ba.	Their should use their brain.								
+	Chỏq nháo pó nháo ga mỏehua ba.	They should use their heart.								
+	Chỏq jí pó jí ga mỏıhua ba.	I should use my brain.								
+	Chỏq jí pó jí ga mỏehua ba.	I should use my heart.								
+	Pủ chỏq jí ku pó jí ga kảqhua da.	I used my eyes.								
+	Pủ chỏq súq ku pó súq ga kảqhua da.	Your used your eyes.								
+	Pủ chỏq nháo ku pó nháo ga kảqhua da.	They used their eyes.								
+	Jỉa chỏq jí ku pó jí ga mủq da.	I’ll use my hands								
+	Jỉa chỏq súq ku pó súq ga mủq da.	You’ll use your hands.								
+	Jỉa chỏq nháo ku pó nháo ga mủq da.	They’ll use their hands.								
+	Dủa jí sa pỏ súq ga sỉgı da.	I know something interesting about you.								
+	Dủa jí sa pỏ nháo ga sỉgı da.	I know something interesting about them.								
+	Lủ gỉneq hóa jí ky, lâ bủ ảnou nháo jí da.	Luckily for me, they don’t love me.								
+	Lủ hủıneq hóa jí ky, lâ bủ ảnou nháo jí da.	Unfortunately for me, they don’t love me.								
+	Chỉ jí lâ bủ ảnou nháo jí da.	I don’t think they love me.								
+	Chỉ jí lâ ảnou nháo jí da.	I think they love me.								
+	Gảı jí lâ bủ ảnou nháo jí da.	Apparently they don’t love me.								
+	Gảı jí lâ ảnou nháo jí da.	Apparently they love me.								
+	Củo jí lâ nỉeq sủaq jí da.	I assume I’m no good at singing.								
+	Chỉ jí lâ nỉeq sủaq jí da.	I don’t think I’m any good at singing.								
+	Gảı jí lâ nỉeq sủaq jí da.	I see I’m no good at singing.								
+	Shảo jí lâ jỏe sủaq jí da.	I want to be good at singing.								
+	Chỉ jí lâ jỏe sủaq jí da.	I think I’m good at singing.								
+	Gảı jí lâ jỏe sủaq jí da.	I see I’m good at singing.								
+	Lâ jảı súq bı, jảıca róu jí da.	You being happy makes me happy.								
+	Lâ jảı nháo bı, jảıca róu jí da.	Them being happy makes me happy.								
+	Chỏ jí súq kùı lâ dẻ súq da.	I like you because you’re handsome.								
+	Gỉq chỏ jí lúa kùı lâ rảq máq baq mủaqguo da.	I didn’t like the story because it was about death.								
+	Gỉq chỏ jí lúa kùı lâ rảq máq baq mẻoca da.	I didn’t like the story because it was about sad things.								
+	Gỉq chỏ jí lúa kùı lâ rảq máq baq dảıbu da.	I didn’t like the story because it was about things that could never happen.								
+	Chỏ jí lúa kùı lâ rảq máq baq tảıguo da.	I liked the story because it was about success.								
+	Chỏ jí lúa kùı lâ rảq máq baq jảıca da.	I liked the story because it was about happy things.								
+	Chỏ jí lúa kùı lâ rảq máq báq dảıbu da.	I liked the story because it was about things that could never happen.								
+	Sỉ jí dàı lâ shảı chỏa súq da.	I could focus if you would shut up.								
+	Mỏı jí dàı lâ shảı chỏa súq da.	I could think if you would shut up.								
+	Chỉ jí lâ sıa ỏcha bı, dủa hó tîo dẻ hó da.	I think no human knows how beautiful they are.								
+	Chỉ jí lâ kagashı ỏcha bı, bủ dủa hó tîo dẻ hó da.	I think most humans don’t know how beautiful they are.								
+	Chỉ jí lâ sıa ỏcha bı, dủa ócha tîo dẻ ócha da.	I think no human knows how beautiful they are.								
+	Chỉ jí lâ kagashı ỏcha bı, bủ dủa ócha tîo dẻ ócha da.	I think most humans don’t know how beautiful they are.								
+	Mỉu nháo lâ tushı rảı täo jí hóa bı, hủı ráı da.	They think everything I do is bad.								
+	Rủaq jí lâ jẻqmaı jí da.	I said I was gay.								
+	Rủaq jí lâ hẻomaı jí da.	I said I was straight.								
+	Rủaq jí lâ nảqmaı jí da.	I said I was interested in men.								
+	Rủaq jí lâ lỉqmaı jí da.	I said I was interested in women.								
+	Chỉ jí lâ jẻqmaı nháo da.	I think they’re gay.								
+	Chỉ jí lâ héomaı nháo da.	I think they’re straight.								
+	Chỉ jí lâ nảqmaı nháo da.	I think they’re interested in men.								
+	Chỉ jí lâ lỉqmaı nháo da.	I think they’re interested in women.								
+	Zảo jí póq lä kảqsı hóa jí da.	I know the person who’s looking at me.								
+	Bủ zảo jí póq lä kảqsı hóa jí da.	I don’t know the person who’s looking at me.								
+	Zảo jí póq lä kảqsı jí hóa da.	I know the person I’m looking at.								
+	Bủ zảo jí póq lä kảqsı jí hóa da.	I don’t know the person I’m looking at.								
+	Zảo jí póq lä kảqsı hóa súq da.	I know the person who’s looking at you.								
+	Bủ zảo jí póq lä kảqsı hóa súq da.	I don’t know the person who’s looking at you.								
+	Zảo jí póq lä kảqsı súq hóa da.	I know the person you’re looking at.								
+	Bủ zảo jí póq lä kảqsı súq hóa da.	I don’t know the person you’re looking at.								
+	Dủa jí tu lä rảq hóa súq da.	I know everything about you.								
+	Zảo jí sa pỏq lä sıa rảı bı, chỏ hóa ráı da.	I know someone who doesn’t like anything.								
+	Pảı jí sa pỏq lä sıa rảı bı, chỏ hóa ráı da.	I’m friends with somebody who doesn’t like anything.								
+	Pảı jí sa pỏq lä sıa rảı bü jỉ bı, pảı hóa ráı da.	I’m friends with somebody who doesn’t have any friends except for me.								
+	Anỏu jí sa nảq lä hè sûaq hóa bı, hủosı juaq jíao da.	I love a man who, when he sings, even the gods listen.								
+	Anỏu jí sa lỉq lä hè sûaq hóa bı, hủosı juaq jíao da.	I love a woman who, when she sings, even the gods listen.								
+	Dủa jí sa lä ào dûa súq hóa bı, shỏ nảsa súq da.	I know something that would make you go crazy if you knew it.								
+	Mủı ní sa tỏa lä jìe jí bı, dẻ hóa da.	This is the meaning of a word which, to me, is beautiful.								
+	Jỉ sa pỏq lä sıa tỏa bı, tỉao mủ mủı tóa hóa da.	I’m a person of whom no word is an appropriate description.								
+	Póq lä ảnou súq hóa bı, ảnou mao jí póq da.	The person you love – I love them too.								
+	Póq lä ảnou súq hóa bı, ảnou mao jí hó da.	The person you love – I love them too.								
+	Chúo lä chòu hóa bı mủaqtua súq jí bı, zảo jí máq da.	The tool you used to kill me – I recognize it.								
+	Ráı lä chôu hóa bı mủaqtua súq jí bı, zảo jí ráı da.	The thing you used to kill me – I recognize it.								
+	Dáqmoa lä bòı hóa bı, dủa ảnou jí áq súq bı, jảq pủjuı máq da.	The moment at which I knew I loved you was a very long time ago.								
+	Dáqmoa lä bòı hóa bı, dủa ảnou jí áq súq bı, jảq bỉe máq lú ảnou jí bòı hóa da.	The moment at which I knew I loved you was long after I started loving you.								
+	Nỉ ke gỏısaı lä chòu hóa bı, gỏı jí áq da.	This is the medicine with which I treated myself.								
+	Nỉ ke kảıfua lä tỉ jí hóa hè gûaı jí da.	This is the desk I sit at when I work.								
+	Nỉ ke kảıfua lä tủı jí tì hóa hè gûaı jí da.	This is the desk I sit at when I work.								
+	Nỉ ke rẻq lä ảnou jí hóa rào tushı da.	The is the person I will love forever.								
+	Nỉ ke rẻq lä ảnou jí hóa rãotu da.	This is the person I will love forever.								
+	Nhảo ke rẻq lä lỏı jí hóa rào tủshı da.	They are the person I will hate forever.								
+	Nhảo ke rẻq lä lỏı jí hóa rãotu da.	They are the person I will hate forever.								
+	Gảı jí fúy da.	I sense myself.								
+	Bủ dủa nháo kâqgaı jí fúy da.	They don’t know that I can see them.								
+	Dủasho nháo kâqgaı jí fúy da.	They realize that I can see them.								
+	Dẻ nháo jìe áq da.	They think they’re beautiful.								
+	Hỏaq jí, cà shô hỏaqpuo fúy da.	I burn, and turn into ash.								
+	Pảı jí nháo, cà jâı fúy da.	I’m friends with them, which makes them happy.								
+	Pảı nháo jí, cà jâı fúy da.	They’re friends with me, which makes me happy.								
+	Chỏa nháo kùı nôı baq nỏı pó fúy ga gỉe da.	They moan because there’s pain in their arm.								
+	Chỏa jí kùı nôı baq nỏı pó fúy ga gỉe da.	I moan because there’s pain in my arm.								
+	Chỏa súq kùı nòı baq nỏı pó fúy ga gỉe go.	You moan because there’s pain in your arm, right?								
+	Nỏılıe nháo hè kôı fúy da.	They hurt when they walk.								
+	Jảı nháo hè gûaı fúy da.	They’re happy when they’re working.								
+	Hỉo jí náq rào tîsha fúy da.	I greeted the man when I arrived.								
+	Hỉo jí líq rào tîsha fúy da.	I greeted the woman when I arrived.								
+	Hỉo jí póq rào tîsha fúy da.	I greeted the person when I arrived.								
+	Hỉo jí ní nảq rào tîsha bóu da.	I greeted this man when he arrived.								
+	Hỉo jí ní lỉq rào tîsha bóu da.	I greeted this woman when he arrived.								
+	Hỉo jí ní pỏq rào tîsha bóu da.	I greeted this person when they arrived.								
+	Shủa ní bỉo kùı shâı jỉaı jí bóu da.	This glass fell because I dropped it.								
+	Shảo ní pỏq chê dỏekaı bóu da.	This person wants to be a programmer.								
+	Anỏu jí ní rẻq dàı shô zảo jí bóu da.	I could love this person if I got to know them.								
+	Anỏu ní rẻq jí dàı shô zảo bỏu jí da.	This person could love me if they got to know me.								
+	Anỏu jí ní rẻq shè shô zảo jí bóu da.	I would love this person if I got to know them.								
+	Anỏu ní rẻq jí shè shô zảo bóu jí da.	This person would love me if they got to know me.								
+	Ní bı, bủ chỏ jí bóu da.	As for this, I don’t like it.								
+	Ní bı, chỏ jí bóu da.	As for this, I like it.								
+	Níjao bı, bủ chỏ jí bóu da.	As for that, I don’t like it.								
+	Níjao bı, chỏ jí bóu da.	As for that, I like it.								
+	Chỏ jí ní bỉo kùı dê bóu da.	I like this glass because it’s pretty.								
+	Hỉo ní jí shìu hîo jí bóu da.	This one greeted me before I greeted them.								
+	Hỉo ní jí bìe hîo jí bóu da.	This one greeted me after I greeted them.								
+	Mủ mủı ní tỏa ke müı hóa bóu da.	This word means what it means.								
+	Kủq ní, cà hûogaı jí bóu da.	This one speaks, causing me to hear them.								
+	Sỉ ní rẻq tîo nỏılıe bóu da.	This person focuses on how much pain they’re in.								
+	Mủı hı shú «nuaı» moq.	What is the meaning of the word “nuaı”?								
+	Mủı hı shú «toa» moq.	What is the meaning of the word “toa”?								
+	Mủı hı shú «koa» moq.	What is the meaning of the word “koa”?								
+	Mủı hı shú «poq» moq.	What is the meaning of the word “poq”?								
+	Mủı hı shú «dao» moq.	What is the meaning of the word “dao”?								
+	Mủı hı shú «money» moq.	What is the meaning of the word “money”?								
+	Mủı hı shú «word» moq.	What is the meaning of the word “word”?								
+	Mủı hı shú «cold» moq.	What is the meaning of the word “cold”?								
+	Mủı hı shú «person» moq.	What is the meaning of the word “person”?								
+	Mủı hí shú «data» moq.	What is the meaning of the word “data”?								
+	Mủı hı mó «Anỏu jí súq» teo moq.	"What is the meaning of the sentence “Anỏu jí súq""?"								
+	Mủı hı mó «Hỉo ka» teo moq.	"What is the meaning of the sentence “Hỉo ka""?"								
+	Mủı hı mó «Bủ dủa jí ní da.» teo moq.	What is the meaning of the sentence “Bủ dủa jí ní da.”?								
+	Mủı hı mó «Nủo jí ba.» teo moq	"What is the meaning of the sentence “Nủo jí ba.""?"								
+	Mủı hı									
